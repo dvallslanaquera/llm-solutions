@@ -1,2 +1,3 @@
 models/
 context_detector/env
+context_detector/consumer_complaints.csv
