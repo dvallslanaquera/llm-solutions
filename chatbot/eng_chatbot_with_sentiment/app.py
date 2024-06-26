@@ -1,12 +1,14 @@
 # Chatbot doc: https://huggingface.co/microsoft/DialoGPT-medium
 from flask import Flask, render_template, request, jsonify
-from transformers import AutoModelForCausalLM, AutoTokenizer
+from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline 
 import torch
 import os
 
 tokenizer = AutoTokenizer.from_pretrained("microsoft/DialoGPT-medium")
 model = AutoModelForCausalLM.from_pretrained("microsoft/DialoGPT-medium")
 
+sentiment_model_name = "distilbert-base-uncased-finetuned-sst-2-english"
+sentiment_analysis = pipeline("sentiment-analysis", model=sentiment_model_name)
 
 app = Flask(__name__)
 app.secret_key = os.urandom(24)
@@ -19,8 +21,6 @@ def index():
 def chat(): 
     msg = request.form["msg"].lower()
     input = msg
-    print(input)
-
     return get_chat_response(input)
 
 # Define code for the chatbot
@@ -29,6 +29,12 @@ def get_chat_response(text):
 
     # Let's chat for 5 lines
     for step in range(5):
+
+        sentiment_result = sentiment_analysis(text)
+        sentiment = sentiment_result[0]['label']
+    
+        augmented_input = f"Sentiment: {sentiment}. User said: {text}"
+
         # encode the new user input, add the eos_token and return a tensor in Pytorch
         new_user_input_ids = tokenizer.encode(str(text) + tokenizer.eos_token, return_tensors='pt')
 
@@ -47,8 +53,10 @@ def get_chat_response(text):
             top_p=0.95  # Top-p (nucleus) sampling
         )
 
+        response = tokenizer.decode(chat_history_ids[:, bot_input_ids.shape[-1]:][0], skip_special_tokens=True)
         # pretty print last ouput tokens from bot
-        return tokenizer.decode(chat_history_ids[:, bot_input_ids.shape[-1]:][0], skip_special_tokens=True)
+        return f"Sentiment: {sentiment}. Response: {response}"
+
 
 
 if __name__ == '__main__':
