@@ -56,9 +56,6 @@ def get_chat_response(text):
 
     # pretty print last ouput tokens from bot
     output = tokenizer.decode(chat_history_ids[:, bot_input_ids.shape[-1]:][0], skip_special_tokens=True)
-    print(output)
-    print('chat_history_ids:')
-    print(chat_history_ids)
     return output
 
 

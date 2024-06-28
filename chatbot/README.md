@@ -12,3 +12,12 @@ The data should be formatted in JSON as follows:
     ...
 ]
 ```
+
+
+To try the chatbot on your local machine, download the code and on the terminal go to the root directory with your virtual environment activated. From there you can open the app from your browser entering the following line of code:
+
+```bash 
+python app.py
+```
+
+The host of the app will be specified after entering the previous code in the terminal. 
