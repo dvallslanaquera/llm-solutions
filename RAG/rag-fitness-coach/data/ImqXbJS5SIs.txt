@@ -1,0 +1,930 @@
+[Music]
+hey guys dr. Michelle here for
+Renaissance predation rp+ & RP
+University the next lecture in our
+lecture series for the training
+principle fundamentals is the principle
+of variation so let's get into what we
+have to cover today first we're going to
+talk about the concept of training
+staleness which is the primary need for
+variation once we talk about what
+training stainless means and why it
+arises and how we can give a simple
+definition and then a technical
+definition of the principle of variation
+we have a sub principle here so remember
+the sub principles not all of the
+training principles have sub principles
+within them but some principles are
+really important because they're kind of
+too much under the grant architecture of
+one principle to really sort of deserve
+their own right there to simply
+derivative and feed in too much into one
+big principle to have their own mention
+as an independent prey training
+principle but they're important enough
+with their own important enough
+implications that they have to be kind
+of sequestered aside and talked about
+separately so we call them sub
+principles we have a sub principle of
+directed variation otherwise known as
+strategic variation we'll talk about
+what that means and understand what the
+difference between regular variation
+strategic variation is we're going to
+talk about how to apply these things or
+sort of examples our application and
+then what the implications are for
+programming how do we take the principal
+variation and make sure we're using
+appropriately in program design so
+training staleness is it when you're
+training smells kind of funny and you're
+like I don't know if I should really eat
+this sort of clothes so over long
+periods of time and usually sort of we
+take most sport abilities the average of
+that period is months it's not days
+usually it's not years but usually on
+the order of months
+over those long periods if we train in
+pretty similar ways day-in day-out week
+and week out what is called adaptive
+resistance tend to arise in many systems
+that if you do something the same way
+for a long time because there is a lack
+of novelty in a sense novelty a
+different direction of a stimulus a
+different kind of stimulus is a part of
+what makes you progress and when there
+is no novelty for a very long time
+systems tend to develop adaptive
+resistance which expresses itself as it
+takes more and more work volume to get
+the same level of adaptations because
+the machinery involved every time it
+gets a stimulus it ends up creating an
+adaptation but if it's the same stimulus
+over and over the machinery tends to get
+a bit resistant it gets lazy so to speak
+and doesn't incur the same amount of
+adaptations over this is what training
+stainless really fundamentally is about
+it's that we keep training just as hard
+as ever and we still provide overload
+but because the training is so
+monotonous after a while after a while
+this adaptive resistance builds up to
+levels where it really does interfere
+considerably with the rate of gains that
+the system is making so at the end of
+this process kind of when adaptive
+resistance has developed considerably
+training no longer really stimulates as
+much adaptation as it used to and where
+the starts becoming concern I mean this
+happens in all training just training
+for a long time even if you vary things
+up all the time eventually you don't get
+better as fast it's part of the
+maturation process of training age but
+this doesn't happen on the order of
+years it actually happens on the order
+of months and if you do really really
+similar stuff at some point you just
+don't get a ton of adaptation out of it
+and your gains can really really really
+slow down to the point where maybe going
+another path would make gains faster
+that is not the only reason that we want
+to change things up potentially and it's
+not the only part of stainless stainless
+because of the fact that we're doing
+same things in various there's in long
+ways the chances of wear-and-tear
+injuries go up what do we mean by that
+is it's quite a simple concept to
+understand so if you let's say do squats
+one week let's take a very extreme
+example and then your next week you do
+lots of like process the week after that
+you do lots of lunges the week after
+that you do lots of leg extensions and
+you cycle all those in relatively
+randomly week to week to week are you
+violating specificity yes
+directed annotation sub principle
+specificity yes this need to be tough to
+present an overload totally not a great
+way to train we'll get into that later
+over application of variation but just
+to use that illustration the exact
+directions the vectors of forces on the
+quadricep tendon for example or the
+different parts of the knee they're
+relatively different workout to workout
+if the knee doesn't experience forces
+from the same directions during leg
+press as it does during squat as a dust
+during lunge especially as a dust during
+leg extension and because these vectors
+of force come from different angles and
+they're of different magnitudes kind of
+every time then parts of the knee and
+tendon get beat up in one week but then
+other parts get beat up in the other
+week and well those other parts are
+getting beat up really stressed and
+possibly strained and pulled apart a
+little bit when some parts are being
+beat up other parts are not and those
+parts heal so that if your variation is
+very high the chances of wear and tear
+is relatively low because you cycle
+through the joint and muscle and tendons
+areas of force application often enough
+that you don't really ever get a chance
+to accumulate a whole lot of specific
+local damage and disruption on the other
+hand if you do high bar squats four
+times a week the exact same stance all
+the time all the time weeks and weeks
+and months and months if you get so much
+as a little bit of a twinge at week just
+a micro tear in the tendon
+or some of the ligamentous structures
+cartilaginous structures of the need the
+exact stimulus that did that is coming
+back with overload harder next time
+and still next time and still next time
+that exact same thing to use a really
+McCobb example it's kind of like cutting
+your finger by accident but then
+whatever you cut your finger with
+whatever process you were doing let's
+say filing your nails you cut your
+finger
+the next day you filing your nails again
+and you cut that same cut that's not
+good I mean if you cut your finger
+somewhere else other hand okay this one
+will heal in this cut you know will open
+up and it's kind of like something's
+always cut but it's not a big deal
+because it's healing where it's not cut
+but if you recall the same cut we're
+looking at really really nasty results
+you cut it enough and it's a serious
+disruption and with a tendon if you
+continue to do the same things over and
+over even with a relatively good fatigue
+management those wear and tear
+situations can expand into injuries so
+all of a sudden you're you're you know
+quad tendon hurts and you've got to back
+off and you got to do something
+different and all of a sudden not only
+that but you have to compromise overload
+because even if you start doing leg
+presses or lunges your tendon so beat up
+now that pretty much every single use of
+it hurts so you got a sacrifice overload
+at this point so chances of wear and
+tear injuries blowing up is a big deal
+for why staleness develops and for why
+variation may be a good idea so at this
+point if we've reached this point or
+hopefully a little bit for it the
+novelty of an independent stimulus
+may actually be beneficial to refresh
+adaptations of continuing progression
+not just overload right so if you
+continue to have our squats all the time
+can you still overload yes can you put
+more weight yes is overload in a sense
+the biggest form of novelty totally but
+at some point even just linearly
+overloading isn't enough staleness
+develops to such an extent that adaptive
+resistance is very high
+and risk of chronic wear and tear injury
+is also very high at that point a change
+in the direction of a stimulus may both
+cause more rapid adaptations and it may
+allow the you know different areas and
+structures to get hit now we'll say more
+about this in a little bit or so so
+different structures to get hit which
+means that they're not going to some
+wear and tear up in one spot and then
+there's a lower risk of wear and tear
+we're gonna get to more detail a little
+bit in a while but if we change the
+focus for a while those areas that are
+no longer being hit in a same way
+because they're not being overloaded
+either as much or at all they get unused
+to being overloaded again and they're
+adaptive resistance recedes
+so the months we spent squatting now
+that we're mostly leg pressing for
+months let's say when we come back to
+squatting months later the squats are no
+longer have an element of stainless to
+them they're stainless has receded
+because you haven't really overloaded
+them squats and so long or maybe as much
+so if you go to squats if you go to leg
+presses after squatting for months and
+then you come back after months
+squatting is fresh and new again
+as you squat for months leg press
+refreshes you may be able to go back and
+forth between them getting the benefits
+of continual progression without ever
+getting into really big trouble with
+adaptive resistance or with injury rates
+so that's training stainless from that
+we get the simple definition of
+variation and it is here's the following
+in order to combat the negatives of
+stale training switching up the ways in
+which you train on occasion can make you
+progress more steadily in the long term
+pretty straightforward definition
+technical definition a little bit
+fancier it is training variables must
+periodically change to mitigate
+stainless and continue to promote the
+best possible rates of a long term gain
+it is from the concept of stainless of
+variations born right number one when we
+say to mitigate training stainless we
+have to alter training variables what do
+we need well we mean any or any
+combination of a lot of variables about
+training probably all variables
+training including volumes alterations
+so at some point you're used to training
+with super high volumes it might be good
+to go to low volumes or vice versa
+intense and alterations you're used to
+doing sets of ten and going to sets of
+five will provide a level of novelty
+beyond overload that may improve the
+systems characteristics frequency you
+may be used to training four times a
+week maybe going to two times or vice
+versa is a novel stimulus that can
+promote more gains technical style and
+exercise selection like we use the you
+know example with leg presses and squats
+before you do a lot of leg presses just
+a few squats in several mezzo cycles and
+then a couple of message cycles later
+you do mostly squats and just a few leg
+presses or not at all that is a good
+idea as far as variation it could work
+technical focus so for example if you're
+a wrestler you can work on takedowns for
+a couple of weeks and then for a couple
+of weeks you can work on takedown
+defense and switch back and forth
+different parts of your technical game
+to exaggerate or regress and you can
+also work on strategic or tactical focus
+so for example to use another combat
+sport example if you're a grappler you
+can spend a couple of weeks advancing
+your attacks and working on tactics on
+how to advance yourself and then
+occasionally
+you can have several week periods after
+some staleness develops an attack
+advancement of defensive practice of
+grappling so when you're up and against
+an opponent and you're maybe down on
+energy or you're transitioning from one
+attack to another how do you regress
+back and stay safe to make sure that
+you're on a good defensive position we
+can't say that that's a different move
+it's a whole spectrum of moves but it's
+different tactics so you work offense
+defense offense defense and none of
+those ever truly become super stale and
+you always get really good results from
+them or at least as good as you could
+have with diminishing returns put into
+place now here's the sub principle so
+the sub prints of us variation in
+general the sub principle is directed
+variation also called strategic
+variation essentially there are two
+types of variation regular variation and
+directed variation
+well always we call a regular variation
+you could just say variation for its own
+sake variation for its own sake is when
+you use a different stimulus to get more
+gains because of novelty and refresh the
+old stimulus right so like that example
+switching from squats to leg presses we
+start using more leg presses when squats
+get stale so that we still have good
+progress in quad hypertrophy but we're
+also using leg presses to take some time
+away from squatting super hard from
+pushing our squats so that stainless can
+drop in the squats Dept and refresh and
+then we come back to squats we'll have a
+novel quarter a sort of semi novel
+stimulus to exploit for several
+mesocycles while leg presses take a you
+know a refresher and if we throw in hack
+squats into the mix well geez we have a
+3 a 3 way refreshing system that
+basically we can continue to train for
+years like that without ever really
+experiencing true staleness
+that's variation for its own sake notice
+there is no real reason that we picked
+squats leg presses and hack squats the
+only reason we picked them is is they're
+good at hypertrophy the quads which is
+generally what we want directed
+variation is when you use a different
+stimulus because it trains a system that
+you particularly want to improve so for
+example if you need to get bigger legs
+and to refresh squats for further bigger
+legs but you also need bigger gluts like
+that's what's missing from your physique
+at the time is bigger gluts instead of
+choosing hack squats or leg presses you
+may strategically or directionally
+choose lunges as a variant and then you
+do a lot of lunches and a couple of
+mesocycles and less squatting lunges
+we'll both bring up your glutes and give
+you all the refresher benefits but
+notice we chose lunges for a purpose
+different than just a refreshing quad
+hypertrophy they certainly did that too
+but we chose them on purpose
+because we had another purpose for them
+almost like a specificity purpose for
+them thus the term door
+rekted variation so when you're
+designing a new mesocycle and you're
+looking at another exercise to choose
+let's say you've done barbell bent over
+rows for four mesocycles in a row and
+it's time for something different if you
+don't have any particular focuses you
+just want a bigger overall back you
+could be like okay we could just do like
+parallel bar rows or machine rows and
+that'll be cool we'll just do that and
+that's totally fine variation for its
+own sake directed variation is when you
+get to know what I really need maybe
+like some low or Latin development and
+I'm gonna be pushing my biceps mesocycle
+pretty hard this time so I want a row
+that really starts hitting my biceps -
+for that hard heavy bicep component I'm
+gonna do underhand easy borrows it's not
+just a variant it's a variant with a
+strategic purpose to develop something
+that strategic variation do it or
+directed variations otherwise known do
+you have to use that all the time no
+does your needs analysis from dr.
+Hoffman's earlier lectures on program
+design should your needs analysis at the
+beginning of every mesocycle or before
+we design one indicate where you would
+need strategic or directional variation
+yes absolutely right so it's not like
+you have to come up with well I think
+this is weak and you don't really know
+look if everything is pretty well in
+balance for your sports skills or for
+your body or physique your lifts then no
+worries but if you have something to
+bring up on purpose that you clearly
+need to bring up and it's a priority
+you're gonna put that in the variation
+you get a sort of toolbox but you're
+going to get all the benefits of regular
+variation and you're gonna do this
+specific variant because there is a
+demand for it so let the demand of your
+physique let the demand of your sport
+practice tell you what needs to be
+strategically or sort of directionally
+varied and if everything is relatively
+in balance you can just pick for us I
+wouldn't say random but just any
+effective overloading variance without
+much attention I will say this and this
+is getting a little bit ahead of
+ourselves we have many more courses
+about this coming up for you guys
+eventually but in a long term athlete
+development situation
+directed variation is probably something
+that's going to be used much more for
+the advanced athlete than for the
+beginner the beginner and the
+intermediate specialty beginner they
+really kind of need everything developed
+so we have a spectrum of effective
+techniques they need to pluck out of
+that spectrum and relat to kind of go to
+everything every now and again and do
+everything so it's like there's a
+beginner bodybuilder need lower lats yes
+upper lats yes outer lats yes inner lats
+yes advanced bodybuilder may only need
+one or two of those things to really
+bring their physique together to get the
+best package on stage so directed
+variations awesome super effective but
+you know if you're beginner designing
+programs and you're wondering about how
+do I apply director variation you mostly
+don't just variation for its own sake
+works really really great at that point
+so how do we apply these things well
+proper example of application miron has
+been catching cleans for a long time
+right actually racking his cleans as his
+dominant pulling training in whatever
+support preparation he's doing or maybe
+he's an Olympic weightlifter so he
+switches dominant pull training for a
+couple of months from cleans to now
+dominant pole training notice he may
+still be doing cleans but most of his
+work has switched from cleaning to doing
+high poles right pulling up to here and
+that allows him to revive cleans and
+have cleans be a little bit more fresh
+and more novel later when he comes back
+to them and gets more benefit and also
+it works on his kind of top and
+follow-through because you know
+weightlifting of pulling through is a
+really good idea before backing under
+and some individuals get really kind of
+really good quick under the bar but
+they're not pulling through enough like
+they should be so high poles can develop
+that characteristics and notice that's
+directed variation as well as
+conventional variation now there's
+certainly an ability to take variation
+overboard here's the example Jesse does
+a different workout different reps
+that's energy systems every single day
+to try to get better to everything all
+at once and never stall out does that
+check the box of variation
+you bet does it violate any of the other
+principles yes it violates specificity
+like crazy particularly directed an apt
+ation and it's gonna be hard to overload
+like that when you're basically training
+at random because you violated directed
+adaptation in specificity you're not
+going to be able to sum a whole lot of
+abilities before altering and switching
+the focus and the summation degrading so
+that how you supposed to present an
+overload over a long time if you're not
+improving very well where's another
+problem right training generally
+speaking this is derivative of
+specificity of direct adaptation has a
+momentum to it and retaining what you've
+gotten out of the training process after
+the training process is over look if you
+focus on upper pecs and then you go back
+to focusing on the chest as a whole if
+you are to keep your big upper pecs it
+is a much better idea to have hammered
+into them in successive micro cycles so
+that they retain their abilities in the
+long term not just hit it once did
+something else then did something else
+then came back to upper pecs then did
+something else so variation apply too
+much makes training too chaotic for
+adaptations to sink in as much and a
+variety of other problems occur as well
+one of these problems is that because
+you are switching the technical this is
+especially applied to strength power
+athletes to whom performance is number
+one it doesn't apply as much typer
+trophy interested folks if you are
+trying to get as good as possible at the
+low bar squat
+it may take you weeks of low bar
+squatting to adjust to the technique to
+begin to present to your best forms of
+overload and that the the thing that
+keeps you from presenting a ton of
+overload early in a messy cycle is the
+fact that you still get used
+getting used to the low bar squat
+technique if you low bar squat one week
+have our squat the next front squat the
+next leg press the next end of the low
+bar again if you vary way too much you
+never get technically proficient enough
+at low bar squatting to really exploit
+that top end of overload now is there
+such a thing as low bar squatting for
+too long
+totally if you low bar squat for five
+years straight
+you're gonna be really technically
+proficient at an exercise that really
+doesn't get you much anymore as far as
+that updation is concerned the variation
+will be great then but there's a balance
+there very a variant has to be done long
+enough so that not only do we do direct
+adaptation well but you got to get good
+enough at it to keep milking out the
+fact that you're getting better at it
+allows you to present more overload that
+process exhausts itself after multiple
+massive cycles but before it does you
+don't want to switch too soon because
+you're still milking that out it's
+almost like kind of getting into the
+Gruben in the car with someone and they
+play music and at first like you're like
+the station kind of sucks and then a
+good song comes on and you're like yeah
+you start getting the groovy start
+jamming and they like switch the song to
+something ridiculous like limp Biskit
+I'm just kidding with biscuits amazing
+but our videographer is a huge limb
+biscuit fan it's really kind of strange
+so the person switches the radio to
+another song and you're like I just
+started grooving to that right you guys
+ever say someone like so one of your
+friends was like this for sure they
+driving they switch songs like halfway
+through each song which along with you
+that's essentially the analog to an over
+presentation of variation you don't get
+out of the training process which you
+needed to and you switch too fast now
+taking the opposite example is bad too
+so if you under ply variation you get in
+a situation like here's the example
+Sheldon does 5x5 in the squat high bar
+for four years straight with no breaks
+oh my god talk about stainless talk
+about risk of injury and do something
+four years straight with no breaks same
+exercise is you've got to probably get
+beat up even if you have good fatigue
+management and I'll put it to you this
+way
+can you just fatigue manage taking
+enough light days and do you load some
+things like that enough to obviate the
+injury risk from too much specificity
+yes but then you're doing too much
+fatigue management if you properly used
+variation you would have to take fewer
+breaks fewer light sessions in order to
+accomplish the same general level of
+fatigue
+because while you're fatigued managing
+one thing by varying you couldn't be
+overloading another and then you switch
+the two and go the other way now there
+are still times to bring everything down
+totally those times are fewer if you get
+that variation system going as opposed
+to just going on every single the
+process that you just do on one single
+line you have to do a lot more fatigue
+management if your training is stale
+than if it's not staying right so lastly
+just some simple program design
+implications these are going to be
+SuperDuper general because this is a
+general course in the more advanced
+courses more specific courses on
+hypertrophy training and on strength
+training and on MMA training etcetera
+we're gonna get really in-depth on exact
+applications here them so that the
+program design implications section of
+the training principles and those
+specific courses they'll be way way more
+to the point just the generals here here
+we go
+so variation and specificity as you can
+tell coming to trade off to each other
+to a larger extent the more varied a
+training is that the less specific is by
+definition and vice versa the more
+specific it is the last varied it is
+which one of those is more important
+what specificities the most important
+and variation it doesn't even make the
+top three so specificity is more
+important and it should be dominant in
+training program design so the most
+important thing is to present sequential
+and directed overload absolutely and
+within that structure properly fatiguing
+manage etc on SRA so variation we kind
+of feel you know if oh if the
+specificity principle is like the
+meatballs and the spaghetti noodles
+variation is like the sauce you don't
+eat a bowl of sauce with some pasta in
+it it's the other way around the sauce
+is designed to accentuate to the pasta
+and the meatballs not just completely
+make everything taste like sauce and you
+can't even tell if it's meatballs or
+more noodles or nothing at all all of a
+sudden you're just drinking gallons of
+sauce that's not
+people eat pasta I sure hope and if
+that's how you eat pasta I'm just happy
+we're not friends and we don't go out
+together
+so yeah luckily I don't have any friends
+or go out so that's not a problem either
+way so here's the deal
+because sort of pasta sauce is a
+modifier to the main ingredient of pasta
+and meatballs just the same way
+specificity is number one but Anna Cain
+should be modified by intelligent use of
+variation variation is not superlative
+to specificity so it's not like your
+number one goal in training should be to
+shock the body and change things up no
+your number one goal sure to keep stable
+conditions and progressively overload
+but in that context strategic uses
+occasional uses of variation every
+several mesocycles on average is a good
+idea to make it that process better
+makes sense specificity still most
+important now another way in which so
+point number two of implications another
+importance of specificity revealed is
+that variation should always be and only
+be within the bounds of specificity so
+specificity remember it's not just exact
+exercises and rep ranges it is also
+training of the underlying systems that
+support those exact exercises and rep
+ranges so football players um you know
+they don't do things for sets of ten on
+the football field but sets of ten in
+the weight room can hypertrophy them so
+that we can make them stronger so they
+can express the strength on the football
+field better so if something in the
+training is within the overarching
+underlying systems of that training it's
+a fine variant but if we're choosing
+variance and training so we've got let's
+say several mesocycles of one kind of
+training and rug okay it's getting
+pretty stale time to switch things up
+that the switch should only be within
+the boundaries of what is at the most an
+underlying system if not a direct
+consequence or director out of that
+training so for example if your goal is
+to get big legs and you you know a three
+mesocycles later after doing a lot of
+high bar squats you want to pick another
+dominant exercise
+lunges great they'll make big legs leg
+presses great
+totally you can even weasel in some leg
+extensions there maybe somehow but what
+about if your variant for leg
+hypertrophy is distance running I'm just
+gonna do five K's this month still hits
+my legs but all not a second that
+doesn't even train any underlying
+systems for hypertrophy there's no way
+that we there's no way in on the net
+balance that makes you better off for
+getting bigger
+it doesn't potentiate any bigger size it
+certainly does directly costs you sighs
+as a matter of fact so when you're using
+variants make sure that they're still
+within the general arc of specificity of
+the system variation is not kind of
+licensed to go crazy into all kinds of
+you know really really funky stuff the
+funky stuff has to be limited the stuff
+has to be within the boundaries of what
+we still want right so like ingredients
+in a birthday cake can be chocolate or
+can be strawberry but they're not going
+to be meatloaf right if that's a food
+but you don't put it in birthday cake
+now I'm thinking maybe that's a good
+idea I'm gonna get back to you guys on
+that but in any case you know you don't
+mix desserts and regular foods just the
+same way you want to make sure that
+whatever your main goal is per trophy
+you've only picked variants that support
+hypertrophy it's not just anything goes
+will you experience adaptive refreshment
+from a totally different goal yeah
+actually will but you'll be losing
+ground the entire time you experienced
+it after a refreshment just enough so
+that when you come back to hypertrophy
+training you get back what you lost
+that's not the point of the variation
+principle that's not the point of its
+application you don't want to lose
+anything you just want to gain maintain
+game maintain game maintain just like
+that instead of gaining and losing and
+gaining and losing that would be pretty
+much right we've said this already with
+if we implied at numerous times but it's
+worthy again varying too often
+interferes of both direct adaptation and
+overlord application right interferes
+direct adaptation because just changing
+stuff around when you're making gains
+was a bad idea because gains have a
+certain momentum to them and a certain
+kind of pool in the sense that they you
+know systems don't like to change
+they're permanent or semi-permanent
+structures off of just one training
+session they need multiple training
+sessions especially in advance
+leads just to her really bridge away
+from that homeostatic range in which
+they usually sit their set point has to
+be pulled away with multiple sessions
+until they get real good changes not
+just one problem number two for all
+edification just like the low bar squat
+example let's just when you start
+getting good at low bar squats after
+only three weeks you change them out for
+high bar squats Mochis you know did you
+accomplish a lot of good overload yeah
+totally sure did could you have gone
+further done even more overload without
+worrying about staleness too much
+totally so maybe you should have kept
+him in for some number of weeks more to
+really exploit that so if you vary too
+often you screw up both of those things
+how do we make sure we don't have that
+happen well you knows all kinds of
+recommendations and the sort of
+scientific ways to figure out if
+something is stale but fundamentally you
+want to make sure that your gains in a
+particular mode of training really start
+to slow down considerably before
+switching mode so for example if you're
+making great gains in flat benching and
+you know for your chest to just get a
+huge pumps your chest like you literally
+legs or stretchmarks stuffs great way
+down the bar is going up steadily it's
+not the time to switch okay the time to
+switch is one like you're like oh I felt
+like at least three workouts on a row
+now even though I'm fatigued managing
+well I'm really are totally refreshed I
+have no injuries man I just I just don't
+there's not much strength increase
+happening
+the pumps aren't the same something's
+not working it just doesn't seem like
+this is getting me the results that it
+used to get kind of an equality leap
+basis at that point is probably good
+idea switch away from maybe a regular
+bench and go to wide grip got a close
+grip go to dumbbells something like that
+to refresh chest hypertrophy so milk it
+out before you switch is the best way I
+can say that one last implication every
+variant you select when it comes time to
+select a variant should always meet
+Concord with the other principles of
+training every single one of them so for
+example our BOSU ball squats a good idea
+for leg hypertrophy we'll know they
+don't pass the overload condition there
+they generate such an unstable condition
+that your nervous system doesn't even
+turn on most of your motor units most
+parts of your muscle because it's
+considered but more or less than
+evolutionary logic is that it is unsafe
+to do so
+you know like if you're climbing trees
+you don't just stomp on every tree
+branch cuz one of those things you will
+just break and fall through so if your
+body detected stability on tree branches
+you really tentatively your body helps
+you generate very little force because
+it doesn't want you to stomp through a
+tree branch and end up you know on a
+tree stump upside down 20 feet down just
+the same thing with a BOSU ball when you
+get on one it's an unstable surface your
+body won't let you present high forces
+that violates overload so if we're
+looking for overloading variants for the
+lower body growth or lower body strength
+improvement geez forget that BOSU ball
+sits not gonna be one of them because it
+violates the overload principle so we
+don't put it in a strength rotation we
+don't put it in a hypertrophy rotation
+if we had an individual who is trying to
+get better at the balancing on unstable
+surfaces most of all is an excellent
+rotation is squatting in a machine good
+for hypertrophy yes or like leg pressing
+in a predetermined machine either like
+pressing in a predetermined machine good
+for getting good at unstable surface
+manipulation probably not so if you're
+looking for workouts that make you
+better at unstable surfaces leg pressing
+is probably not your number one pick
+squatting probably better than that if
+you need a leg strength and unstable
+abilities so remember whatever we're
+using as far as variance if they violate
+fatigue management they're inadmissible
+what's one that violates fatigue
+management let's say you're used to
+doing straight sets of ten in the squat
+you've been doing sets of ten for
+several months improved a ton of legs
+are bigger now you want another variant
+to do in the squat and for several
+months what you're gonna do is you're
+gonna use your 15 RM but you're gonna do
+about 200 total reps with every workout
+you're gonna do that three times a week
+no you're not cuz you'll break in half
+trying that so you're gonna really
+violate fatigue management by
+accumulating way too much fatigue and
+that's not gonna work so we need to make
+sure that our variation doesn't violate
+specificity doesn't buy
+over doesn't align fatigue management
+doesn't violate SRA and etc.etc server
+to every other training principle so is
+a variation an invitation to get
+creative with training yes are there
+limits on their creativity
+absolutely it still has to be in the
+logical structure of via directed
+variation logical structure what we need
+and the limitations of all the other
+training principles so that we get what
+we want which is adaptation instead of
+getting screwed up somehow and not
+getting the best response thanks for
+tuning in see you for the next training
+principle
+[Music]
+you

@@ -1,0 +1,772 @@
+hey folks
+dr mike here for renaissance production
+rp
+plus rpu and really the whole world
+right let's talk
+about hypertrophy concepts and tools
+lecture number 12
+detecting mrv and responding to it going
+to skip the contents because this is a
+pretty short lecture
+pretty obvious uh what we're going to be
+talking about
+first thing is
+why is detecting and responding to your
+mrv important and we have to set the
+stage
+here's the thing when you hit your mrv
+you can continue to train
+it's just going to be really low quality
+training which is to say that your
+stimulus to fatigue ratio is going to be
+awful and you expose yourself to higher
+injury risk
+and that's if you grow at all because
+much past mrv
+you use so much recovery resource that
+it wipes into your adaptive abilities
+and then you just don't adapt anymore
+bad bad bad news right so
+we really care about reaching our mrv
+because all the stuff is bad stuff we
+want to know
+when we hit our mrv because when we hit
+it we know it's time to reduce fatigue
+we don't want to guess we want to have
+an objective systematic way to detect
+mrv that tells us
+when we've hit it and in this lecture
+we'll learn the planned responses we
+have
+to once we have detected it what do we
+do about it right
+and if we go back to the content slide
+actually
+were i've already uh talked about this
+first point
+why do we care so today we're going to
+talk about
+how to detect mrv via what's called the
+set progression algorithm
+and then we're going to talk about three
+distinct actions you can take
+based on how mrv detection actually
+occurs
+and then a few implications here we go
+detecting mrv via the set progression
+algorithm here's the set progression
+algorithm slide number four
+if you guys want to pause your video
+screen
+and look at it for a while it'll help
+because it's
+it looks a little bit complicated i
+promise it's super super simple but if
+you want to pause here for a bit and
+look
+highly recommended so you are super
+super on the money with the rest of
+everything we talk about but essentially
+the set progression algorithm asks two
+questions
+how sore did you get from a certain
+training session and during that
+training session
+for that muscle group that you're
+targeting how is your performance
+okay we're gonna have a one through four
+scale in each one
+so let's go through soreness first a
+number one rating on the soreness and
+we'll talk about in the next slide how
+to interpret these ratings so don't
+worry about how to interpret them
+just let's be concerned of what they're
+asking
+if you were asked how sore did you get a
+number one response would be that you
+didn't get sore
+at all a number two response is you got
+stiff for a few hours or maybe a sore
+for next day or so
+but you healed well in advance of the
+next time you're going to train the same
+muscle group no problems at all
+number three is if you got delayed onset
+muscle soreness
+or if you train really frequently you
+got some muscle soreness right after the
+training
+but you healed completely just on time
+for your next session
+if your sessions every day six days a
+week that means
+never when you were training biceps six
+days a week were you carrying any
+soreness from another day
+that sort of thing if you train your
+legs twice a week that means you could
+have gotten really really sore
+from a monday session but by thursday
+when you train your quads again your
+quads feel
+totally fine no perceived source
+whatsoever number four
+is the easy one to detect it is you got
+delayed onset soreness
+and you still had it in any way shape or
+form when you hit that muscle group
+again in its next session so you hit
+legs on monday hit quads
+they got sore by thursday you got in
+they're still sore that's a number four
+response
+what about performance these are a
+little bit more technical but i promise
+they're much simpler than they look
+a number one performance is you hit your
+target reps that you were going for
+with two reps in reserve more
+of what you had planned for that week so
+for example you were trying to hit
+a hundred pounds for 10 reps last week
+and you got it for three reps in a
+reserve and this week you're pushing the
+pace you want two reps in reserve
+you go up to 105 pounds and you're like
+i want to hit 10 hopefully that'll be 2
+r
+but a number one is if it was 105 pounds
+you did hit it for 10
+but i if you had to be honest it wasn't
+too r it was four r like it was way
+easier
+than what it was supposed to be that you
+rank as a number one kind of performance
+right if you're increasing reps versus
+so you're you're using the same weight
+but going up in reps
+this to target a certain r let's say i'm
+gonna go one from fail last week i did
+15 reps with 100 pounds
+this week with 100 pounds i want to do
+uh
+17 reps if instead of 17 you hit 19 or
+more reps and that was really two
+reps in reserve you way over performed
+that's a number one
+notice you're starting to see a pattern
+here number one from soreness as you can
+get so at all
+number one in performance is you just
+blew your performance out of the water
+do you think the training volume you're
+doing in the last session or last week
+is very high
+it's not very high so clearly we're
+probably going to raise
+training volume uh if we're really just
+not getting sore at all and we're just
+having rockstar performances because you
+could do more and still benefit
+number two on performance you hit
+uh right at the planned rar or one
+better
+right so your performance is one rep or
+or
+one rar point above what you thought you
+thought you were going to hit something
+for two reps in reserve
+uh at a certain uh predetermined number
+of reps and weight
+but you hit it at three reps in reserve
+or two reps in reserve
+you thought you were going to get 15
+reps this coming week and you got 15
+reps or 16 weeks
+about the same performance maybe a tiny
+bit better it's a
+better or uh equal or just a tiny bit
+better nothing crazy that's a number two
+number three is you still matched all
+your numbers and you still hit your
+targets
+but at a slightly lower rar than
+expected
+so for example the last week you hit 15
+reps
+this week you wanted 17 you got it you
+were supposed to be at two reps in
+reserve but you got to be honest that
+17th rep that took you to one reverend
+reserve
+you still hit all your numbers you
+didn't technically underperform because
+if we look at your sheet of how much
+you did and how many reps and sets you
+didn't wait we say okay like you
+actually perform the same as last time
+or better
+[Music]
+but you had to sacrifice some reps in
+reserve and remember representatives are
+a finicky concept you're not
+positive about it what you can say is
+like it's not all hunky-dory anymore you
+had to fight for
+getting those reps maybe a little too
+hard and number four is really
+straightforward no matter what rar you
+just couldn't match your last week's
+reps
+right and or you couldn't have the rep
+progression that you wanted
+right or so sorry any case it's actually
+just you can't match your
+last week's reps so for example you did
+100 pounds last week for 10
+this time you do 105 pounds and you get
+eight or you get seven you get nine
+and you went all the way to failure to
+get all the all nine of those reps
+and it didn't matter what our ir was
+that is a distinct that is not in a
+subjective underperformance that is
+object if you tried as hard as possible
+you still couldn't do it
+so that's number four okay
+so basically we have these indices that
+tell us how so we're getting and when
+we're recovering
+and what our performance is like all the
+way from really exceeding expectations
+really exceeding expectations all the
+way to
+being just about as much as we want out
+of performance as could expect
+all the way to we're distinctly just
+falling behind what do we do with these
+actually really straightforward if
+both performance and soreness register
+once which means we'll go back really
+quick
+you didn't get sword all and you blew
+your performance out of the water by a
+few reps or way way shy of the r you're
+supposed to
+consider there's nuance here adding two
+or three sets to the same session next
+week
+right so for example if
+you did leg presses on thursday
+and you are doing squats on monday
+okay and when you do your squats
+you remember that leg presses barely
+there's a leg press has never made you
+sore on thursday
+and your squats on monday you blew out
+of the water
+gee you know next thursday it's time to
+add probably two or three sets to leg
+presses because whatever you did in that
+leg press workout
+didn't remotely push you to any of the
+extremes and pushing to the extreme
+slowly judiciously is how we make
+progress
+so if you're hitting ones all the time
+you're just training with too little
+volume
+it's just too easy
+if you get ones and twos and it doesn't
+matter which one's one or which one's
+two
+you can consider adding about two sets
+maybe one set maybe two maybe three
+but not like the two or three for sure
+we're not being as bullish you're
+probably still gonna want to add sets
+but maybe like
+an average of two and sometimes fewer
+what if you get both twos let's look
+back at what two is
+you got stiff for a few hours or after
+and you got a bit sore the next day okay
+um but you healed way on time good and
+then you hit your target reps a little
+bit ahead of schedule or just
+your performance was a little bit better
+than it was supposed to be or just about
+as much as it was supposed to be so
+things are good
+but they're not great which means if you
+hit both twos
+consider adding one or two sets to the
+session on which you're performing this
+analysis so like
+with the leg presses like yeah you know
+you hit your squats about as well as you
+thought
+and you did get sore from your last leg
+press workout but like it healed pretty
+quick
+so you know you can add one or two sets
+i wouldn't go adding three sets because
+they could take you way over
+the top right really really
+straightforward stuff
+twos and threes you can consider adding
+between zero and one set so
+distinct possibilities you just repeat
+the same number of cents right
+threes both of uh performance and sort
+of give you threes
+is don't add any sense let's take a look
+at the three just to remind ourselves
+about us so
+this is where you don't add any sets and
+if it's just one of these other three
+you might add one set but no more than
+one set and a lot of times you don't add
+any let's see three for soreness you got
+to lay down some muscle soreness
+and you healed completely just on time
+for your next session for that muscle
+group that's a big deal right
+because you could say okay i did my leg
+presses on thursday by sunday night i
+was completely recovered in my quads
+monday i started doing squats if you
+add volume to that
+what are the chances you're gonna get so
+sore next time that it bleeds right into
+monday
+pretty good but if you had one set maybe
+you'll be okay
+probably because your body adapts over
+time anyway but i wouldn't go adding two
+or three sets that'd be a real really
+bad idea
+what about for performance here's the
+real kicker both of them three
+you hit your target reps at a lower
+respected
+lower rar than expected that's closer to
+failure than you wanted to go
+so that means it was a little bit too
+challenging which means
+that if you add a set you can probably
+do it because your body adapts pretty
+quickly but you got to be real careful
+and probably if it's both three right
+the recommendation is if both of them
+are three don't add any signs
+so if you barely scratch by a good
+performance
+don't add any sets keep the sets the
+same because if that happens
+what you end up having is
+you essentially are saying to yourself i
+survived
+barely let me not change anything
+let my body adapt a little more so that
+next week i can survive
+either still barely which is good
+success or a little more and then maybe
+next week i'll add a set right we don't
+want to bull rush set additions
+to where you're just adding adding
+adding adding and then you just crap
+yourself out of the back end and you
+have to deload in two weeks anyway right
+we got to be really really slow about
+adding sense because we don't want to
+overdo it we want quality training
+heals on time and keeps our performance
+the same or slowly elevates it
+we don't want training that goes like
+this with volume and then we fall off
+the end
+that's not high quality training so if
+it's both threes don't add any sets now
+you might be wondering
+not included in this description is like
+what if you get a one
+and a three right that's not even
+covered here
+that is going to be somewhere between
+these two right
+or between these two extremes so like a
+one and a three sort of technically adds
+up to a four
+right and we can say that's roughly the
+same thing as both twos so if you get a
+one and a three
+consider adding one to two sets but if
+it's a three on the performance
+uh you know maybe you'll be closer to
+adding that one set maybe even zero
+cents so
+this isn't an exact map of what to do
+every time
+but you get the feel of it right and
+that's the whole point is
+the number of sets number like to add is
+really sort of made up for lack of a
+better term
+uh but it's made up intelligently in
+such a way that we know we're adding a
+little bit
+or a little bit more or adding pretty
+aggressively so whatever an aggressive
+addition is for you and we highly
+recommend you start with these numbers
+um you know if you're getting the higher
+numbers and rankings
+you add less or add nothing if you're
+getting a lot of lower numbers you add
+more or you add considerably you add
+something
+right here's where it starts to get
+really unambiguous
+if you get a 4 on soreness no matter
+what
+performance says don't add any sense
+foreign soreness means you're still sore
+when you're training again
+not a sustainable thing too much damage
+to cause optimal growth even if your
+performance is increasing for whatever
+other reason could be because
+neurologically your efficiency is
+improving your technique is improving
+you're super motivated
+doesn't matter we're there to cause
+muscle growth and too much damage
+interferes with muscle growth so if you
+score any fours on performance it
+doesn't matter if the other ones if
+performance is a one
+if you score a four on soreness you
+don't add sets
+repeat the sets and then the next week
+you probably won't be a sore then you'll
+maybe score three or score two and then
+you might be able to add some weight
+or sorry add some volume some number of
+sets
+lastly number four on performance which
+is you couldn't match your last week's
+reps
+no matter the rir you just couldn't beat
+last week or match it even
+if that happens that is an mrv detection
+that is the only part of this that
+really detects mrv so the cool thing is
+you use the sub progression algorithm
+to auto regulate your volume which is
+awesome but in addition to that the set
+progression algorithm
+also detects mrv so there is no mrv
+detector algorithm it's all in one
+really really cool once we've detected
+mrv
+there are a couple of ways this can fold
+out and then we have a couple of actions
+to take the first one is
+of the three mrv actions so we detect an
+mrv and it says local detection with
+confounders let's see what that means
+you had a number four on performance
+okay
+right you underperformed but you know
+that you missed sleep a bunch of the
+night before or you're going through a
+super high stress time for the last
+couple of days
+or tons of non-hypertrophy physical
+activity that's unusual for you you took
+your friend up
+and you said okay i'm gonna garden for
+nine hours with you before i do legs
+okay in other words you know that that
+underperformance has a very good chance
+of not being
+because your chronic volume has been too
+high
+and especially the volume in your last
+week or workout is too high
+you think it's for some other kind of
+reasons and this is no time to second
+guess yourself and no time
+to try to cheat and be like no i think i
+can still do it be super super honest
+like if
+if honestly your life is going fine and
+everything's fine and you're
+underperformed look you should hit your
+review no big deal no big deal
+but if you can honestly say yourself
+like look there's no way that was really
+mrv because i
+did basically i had to walk to the gym
+for two hours my car broke down i
+basically had heat stroke by the time i
+went in
+yeah it's probably not the volume that
+did you in right so your estimate here
+is your performance
+might have been reduced not due to
+excessive volume
+in prior sessions so then what is the
+recommended action there's two options
+here
+option one is you just do nothing you
+finish your workout like normal
+and you eat and train normally and then
+check performance for that muscle group
+next session so you have a really crappy
+squat workout on monday
+but then next thursday you go to leg
+presses and because you never actually
+hit your mrv
+just had a shitty performance your your
+leg presses go super super well on
+thursday and then next monday your
+squats go great and everything's fine
+that happens
+absolutely it happens which is why when
+mrv is detected we're not automatically
+oh my god describe everything deload
+right we're like uh
+maybe there's some nuance there right
+however option number two just to be on
+the safe side is remember
+those same acute fatiguing factors like
+working in the yard for a long time
+having heat stroke
+the ones that cause this bad performance
+they might add a little bit too much
+cumulative fatigue
+and sort of short-circuit you days or
+weeks down the line so what you might
+want to do
+is your next session so if you detect it
+on thursday next monday
+you might want to do a recovery session
+just to really bring fatigue down for
+that muscle group
+so you take the volume you cut it
+roughly by half you take the load you
+cut it roughly by half
+and adjust for that muscle and then you
+resume normal training in the session
+after so then after that you know
+you do uh you know your squats are half
+the load half the volume
+on monday after you detected a leg press
+performance
+and then next time on thursday leg press
+you go back to the same old same old
+progression
+and chances are you'll be just fine
+that's
+if something confounded and that's if
+the mrv wasn't truly reached is just a
+bad performance for other reasons
+however our second option is local
+detection of mrv
+without confounders so basically this
+how this plays out
+you hit a number four in performance
+which means you don't match your
+performance from last time
+your recovery is good your diet is good
+your stress have all been normal
+and the volume you've been pushing in
+the last several sessions or weeks
+is in the high range for you
+historically like for example if you
+normally train your biceps between 10
+and 20 sets per week 20 being the really
+extreme high end close to your
+mrv if you had a couple weeks of roughly
+12 sets of biceps and everything else is
+normal
+and you have an under performance gee
+it's probably not the volume
+you know but if you last week you did 18
+sets of total biceps and then this week
+you hit mrv
+uh g you know or sorry this week you hit
+number four under performance
+it probably is your mrv right it
+probably is the fact that you're not
+tolerating this volume
+and that's probably going to be we have
+to do something about it so
+the estimate here from number four
+performance being down but everything
+else is fine
+is your performance might have been
+reduced because you hit the local
+muscles mrv and then we have a very
+distinct recommended action
+your next half week which depending on
+how many times you train a muscle
+can be between well g one and three
+workouts right if you train two to six
+times a week
+so next half week means you detect an
+mrv let's say on
+monday and you normally train monday
+tuesday
+for that muscle group monday tuesday
+thursday friday on
+monday you detect that you know
+something's off
+you would actually train hard again on
+tuesday grind through it
+and then thursday friday that's the next
+half week
+you drop that to recovery sessions half
+volume
+half of load super easy lots of recovery
+for that local muscle
+and then the next week you resume the
+normal load
+normal amount of weight on the bar but
+you change your volume a little because
+if you just did the same volume again
+you'd just be at your mrv again and you
+have to deload right after that so
+here's what you do
+you started in the first week with
+roughly your minimum effective volume
+and then you hit your mrv right here and
+then you had a recovery session here
+recovery half week
+and then you're asking what volume
+should i do now well you're adapted to
+volume pretty much
+pretty well for that exercise but you
+just had a recovery session or two so it
+de-adapted you or desensitized you to
+volume or sorry re-sensitized you
+and also but you know there's it's
+probably somewhere in the balance there
+so what are you gonna do what you're
+gonna do is you're gonna take the volume
+halfway between these two points
+right from week one to your last week so
+for example
+week one you hit ten cents okay uh
+for a muscle group for that week week
+four which is when you detected
+your uh you know this under performance
+you hit
+18 cents okay so the next week after
+your recovery half week you're going to
+do
+14 cents and then you just repeat normal
+training as as always and you keep
+moving up
+remember the load still goes up
+predictably so if you're like pricing
+300 pounds last week you hit mrv with
+300
+next week after the recovery sessions
+are over uh you're going to do
+305 pounds just like you were planning
+right
+lastly systemic detection
+you have a number four on performance in
+a local muscle group
+but a few other things also happen at
+least another
+unrelated muscle also hits number number
+four performance
+in that last week right so for example
+you hit a number four uh performance
+uh decrement on biceps but also your
+chest hit a number four like that
+thursday
+and the wednesday before your quads hit
+it something like that right
+that's a sign that everything's going
+down the drain which is to say systemic
+in addition to that another helpful hint
+is if your sleep mood and appetite
+desire to train etc are all
+indicating systemic overreach right you
+can go back to lecture 10
+to figure out how to gauge those but
+it's really really straightforward like
+you feel like total crap
+and your biceps aren't performing and
+your chest and quads are underperforming
+g you know your estimate here is that
+your performance might have been reduced
+probably because you've hit your body's
+systemic mrv
+and also possibly the local mrv of that
+muscle
+recommended action here is for
+continuity finish out the rest of this
+week
+right unless it's like a monday you
+detect mrv and you're falling apart then
+you can deload
+but if it's middle of the week or later
+finish out the week grind
+okay there's times to grind in training
+and then do a
+full deload week in the next week after
+that
+full deload week is the first half of
+the week is like roughly 90
+load or like your week one load 50 of
+the volume
+and the second half of the week is like
+a recovery half week 50 load 50
+volume same idea and then after that
+deal is over you start a new mesocycle
+fresh
+which means you go back to minimum
+effective volumes you
+probably change some rep range ratios
+around you might change some exercises
+and even priority muscle groups which
+are training less and training more
+okay that's really it here's the deal
+with the set progression algorithm
+you know when mrv's been hit and with
+those recommended action options
+figuring out if okay we've sort of hit
+mrv we suspect we've hit mrv we've hit
+number four under performance
+we now know what to do about each
+circumstance and here's the thing
+we don't know exactly what to do about a
+circumstance we can't be exactly certain
+but if you play the conservative game
+and make sure you're not over guessing
+your abilities and be like nah i'm fine
+i'll just perform better next week
+and if you interpret all these things
+properly probably
+95 percent of the time you're going to
+know exactly what decision to make
+which is really awesome because you can
+stop the guessing game of asking
+yourself when should i deload
+when should i recover when should i take
+a recovery session when a recovery
+halfway
+now you have objective quantifiable
+answers to those questions
+to allow you to train more like a
+machine and thus
+look more like a machine which is why
+we're all here folks
+see you next time for lecture 13.

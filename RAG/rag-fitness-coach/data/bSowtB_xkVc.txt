@@ -1,0 +1,878 @@
+[Music]
+hey-hey rp+ its James Hoffman welcome
+back this is a continuation of our
+applied periodization lecture that we've
+been working on for a little while today
+what I'm going to show you is how to
+actually take some of the things that we
+talked about in the previous videos and
+put together a really really simple
+example of an annual plant now granted
+in the real world these are going to be
+really crazy and complicated but I just
+wanted to show you guys kind of like a
+quick how-to version of how to do this
+in the real world so if you have not
+watched the previous videos on applied
+for u2 zation make sure you go back and
+watch those first otherwise this might
+not make very much sense so I know that
+looking at an excel screen and just
+listening to my awesome voice is
+probably not the most exciting thing in
+the world so let's just jump right in so
+all you can see on the screen here is I
+have Microsoft Excel open I haven't done
+anything fancy so to get things going
+I've got my medium now I'm going to
+start setting my timeline right off the
+bat so if you're watching along I'm just
+going to write week of in this column
+and I'm just going to start throwing
+some dates around so today is 422 I like
+to start on Monday so I'm gonna say 424
+2017 and usually excels pretty good so I
+got this so this is one date what I need
+to do is actually make it on the scale
+that I want so if I just click and drag
+this it's gonna go one day at a time so
+what I want to do is actually make it
+move one week at a time so what I'm
+gonna do before I do that I'm just gonna
+pop in one week later from the date that
+I set so in this case that's gonna be
+May 1st 2017 now Excel will recognize
+that I have a one week pattern and check
+this out I'm gonna blow your mind
+oh snap now I can just click and drag
+right nothing crazy here and I can go as
+long as I want so why don't we just go
+ahead and make it roughly about one year
+so that would be it right about here
+now notice when I did that some of them
+turned out cool some of them turned out
+kind of funky all you got to do is just
+make sure that you go up here in this
+bar and change everything to short date
+and that should correct most of the
+cells some of them still might be kind
+of funky every now and again looks like
+we're good to go so I didn't do anything
+too crazy I just put one date and I put
+one week later clicked and dragged and
+it actually sent a whole weekly timeline
+and you can set that as long as you'd
+like so I set mine for roughly about one
+year so that gives me the week of so I
+know that this is always going to be on
+a Monday for based on the way that I did
+this now you can do it any way that you
+want right this is like your Bob Ross
+moment the world is your canvas you can
+put a little strength phase over here
+you can put a little happy happy power
+cloud over here don't matter you can do
+whatever you want so this is just kind
+of the way that I like to do it now what
+I'm gonna do is kind of put a little
+scale on my like y-axis here and my
+columns so I'm going to make a note that
+says competitions so that way I know if
+there's any competitions that I need to
+be aware of I'm gonna start mapping out
+the major phases of training so I'm just
+going to write phases in here you can
+write whatever you want this is going to
+include our preparatory phases our
+competition phases and our transition
+phases and then within that we also have
+some sub phases so I'm going to
+potentially label those here so within
+our preparatory phase we might have some
+general prep some specific prep within
+our competition phase we might have some
+pre competitive and then you know with
+our transition phase it might be active
+rest it might be complete rest it might
+be kind of offseason style workouts or
+return to fitness so it could be any
+number of things so we'll put a sub
+phase there what I'm also going to do
+just for fun is we're also going to put
+nutrition here because as we mentioned
+in our previous lecture some of the
+nutrition things that we do are going to
+parallel the training things that we do
+very very closely so it's not a bad idea
+to just kind of throw that in there even
+on a very vague level and then last but
+not least what I'm gonna put in is kind
+of you can kind of label this however
+you see fit I like to just write like
+emphasis or something along those lines
+this is essentially what you're
+reminding yourself of what you're
+actually doing here so this might be
+where you write like hey strength
+endurance one or power two or strength
+three whatever it is you want to put in
+there you don't really matter okay so
+really all I've got here is a time line
+I have a column to label my competition
+and then what I'm going to do is start
+big and work my way to small
+so we said in the previous lecture
+series I'm gonna mark all my
+competitions and then I'm going to work
+away from competitions right I'm not
+going to start in my general preparatory
+phase it's going to be too difficult so
+what I'm going to do is start with my
+competitions and then kind of work my
+way to the left and to the right
+with my competitive phases in my
+transition phases so I'm the man if you
+aren't aware so in French I believe they
+say is your sweet
+the man and in German it's been the man
+you know may I'm oh the man all sorts of
+different languages I speak either one
+I'm the man so we're just going to do
+this on the fly and do it randomly just
+have some fun normally you'll have an
+obviously a competition schedule that
+you have to follow but for our purposes
+let's just have some fun and throw some
+competitions out there so what I'm going
+to do is I'm just going to put a couple
+out there at random just for our fun
+viewing enjoyment so what I'm gonna do
+is also make them a little more distinct
+so that I can always see them on my
+chart so I'm gonna put comp I'm gonna
+put a thick border box here I'm gonna
+make them all red just so I remember for
+myself now obviously you probably want
+to be more descriptive when you do this
+because you want to know what exactly
+that competition is but let's just
+assume that these are just kind of
+random not huge deal competitions I'm
+gonna throw it over here oops
+now I'll copy and pasted the wrong thing
+I go back there we go copy and paste
+there on over here no big deal now what
+I'm also gonna do is maybe pepper in
+let's just say we're doing a sport that
+has a sports season so let's have some
+fun
+so maybe my sport has a season and
+there's a series of matches that I have
+to be aware of something like this and
+then let's also assume maybe at the end
+of the year there's some like crazy
+tournament or something so I'm gonna
+actually leave that the same and then
+I'm gonna write tournament in here just
+to remind myself so notice now this is
+obviously a very simple example but I've
+got all my competitions that I'm
+considering throughout the year right
+great so I did this totally at random
+and you probably just heard me burp into
+the microphone I apologize it's probably
+more on the way so be prepared for burps
+now I'm doing this at random so keep in
+mind this might not look exactly perfect
+but it's kind of good to get a feel for
+what we're doing so a good place to
+start here based on what we have really
+simple we're gonna start mapping out the
+major phases of training so in this case
+I have pretty clearly a competitive
+season right here now we don't have
+matches every week necessarily but this
+is basically serving as our competitive
+season so what I'm going to do is I'm
+just gonna mark this whole big block
+and I'm just gonna write in competitive
+nothing fancy there all I'm doing is
+just denoting that this is my
+competitive phase from an annual plan
+purposes nothing too crazy so now what I
+have done is I've marked that now I'm
+gonna work my way away so that means I'm
+gonna mark my transition phases and my
+preparatory phases after that so in this
+example I'm scrolling left to right you
+guys going crazy yet listening and
+watching me scroll left and right in
+this example we are basically are
+assuming our athlete lives and dies in
+this calendar year
+right they are born ready for
+competition on four twenty four and then
+they kick the bucket over here on four
+twenty-three right they're dead in the
+real world these would overlap right so
+we would carry on our plans from one
+year to the next but let's just kind of
+keep it simple for now okay so now what
+I'm going to do this I'm gonna start
+marking my other areas of the plan so
+here an easy no-brainer all this area
+leading up before the competitive phase
+I'm just gonna mark this and I'm just
+gonna put this whole big chunk of time
+which is awesome for me because it
+doesn't really work out this way a whole
+lot sometimes but not always I'm just
+gonna mark this whole bad boy and just
+so you guys know all I did was highlight
+the cells and I clicked a merge and
+center nothing too fancy there and I'm
+gonna put in here preparatory but I
+always spell this wrong so don't make
+fun of me I do have a PhD but I'm
+terrible at spelling see he already made
+it wrong I already spelled it wrong
+prepare out toward there we go great so
+now all I'm gonna do is put a thick
+border box on there just to remind
+myself hey this is how this is
+structured okay so I got that now I have
+a little bit of wiggle room over here so
+I have this very very long preparatory
+phase leading into a competition phase
+and so what I need to do now is decide
+do I do something crazy like with them
+on complete rest
+or maybe active rest or do I get them to
+train right away over here we have a
+tournament let's just assume that that
+tournament is you know important to us
+maybe not super important but it's worth
+our time to make sure that we do well so
+what are we gonna do over here well I'm
+just going to go ahead and mark a
+transition phase right over here and
+what we're probably going to do is a
+quick little
+little teeny cycling between this time
+it'll make more sense once we get to it
+going so what I'm gonna do right now is
+I'm just gonna mark a little bit of
+active rest time so what we're going to
+do is call this transition and later on
+we will label this as active rest and it
+will make more sense a little bit later
+on there's a couple different ways you
+can do this but I'm Bob Ross for today
+you're gonna watch me paint this happy
+little transition phase here now what
+I'm gonna do is I have one competitive
+phase here left that I haven't marked
+which is this one right and so this is a
+tournament so this is basically one kind
+of point in time this could be like a
+volleyball tournament or a rugby
+tournament or anything along those lines
+really one point in time that I'm kind
+of concerning myself with so what I'm
+going to do is I'm gonna actually mark
+two weeks of this because what I'm going
+to actually do is kind of taper into
+this a little bit just for it as an
+example so what I'm gonna mark here is
+competitive in the back of my mind I'm
+gonna make sure that later I put that
+down for a peaking in taper so sorry
+another burp there told you there was
+more on the way
+last but not least I have that one
+little stretch here nothing else to go
+in between here but for para Tori
+preapare
+Tori I did it right there we go just
+gonna put a big box on just to make it
+easy to see boom okay so now I've got my
+major major phases of my annual plan
+marked so now what I need to start doing
+is breaking it out into smaller sub
+phases so this kind of seems for a lot
+of people like oh man what a waste of
+time this is all just like semantics and
+silliness but what ends up happening is
+when you're actually doing this it makes
+it very very systematic and very very
+easy to break down when we start
+breaking it into mesocycle strategies so
+now what I'm going to do is I'm going to
+start working my way backwards from
+competition periods and start marking
+out my sub phases so in here I might
+have a couple sub phases right so what
+I'm gonna do here is I'm gonna call in
+this competitive phase we're gonna call
+this early competition this is kind of
+like games that have an effect like on
+our standings and our rankings but
+they're kind of early on in the season
+so still pretty fresh and then this is
+going to be our late comp and this may
+include like postseason like playoff
+kind of stuff
+championship stuff or it could just be
+kind of as the name implies just later
+on in the season the latter portion of
+the games in the matches so I'm just
+gonna call this late comp because this
+could include a number of different
+things like playoffs or Championships or
+something along those lines I'm just
+gonna split those up into two sub phases
+it doesn't really matter a whole bunch
+whatever makes the most sense to you so
+if these last three matches represent
+like a playoff scenario where as these
+represent you know like normal season
+scenario you would label them
+accordingly so in this case I'm labeling
+these as late comps saying hey maybe we
+had a bye week from our our conference
+and then this is like state championship
+matches or something like that whatever
+right it doesn't really matter too much
+so now what I'm gonna do here is you're
+gonna mark a couple different things so
+I have my competitions I have to go left
+and right what I'm not gonna do is start
+all the way back here and start marking
+the general prep face that's gonna just
+drive me nuts so what I'm gonna do is
+I'm gonna start working my way this way
+and that way so first what we're gonna
+do here is make a little note to myself
+because I remember I put this here for a
+reason so what I'm gonna do is a little
+transition phase and I'm gonna call this
+return and I might not have enough room
+to write the whole thing return to
+fitness fitness in this square haha I
+fit all right so with this phase is
+going to be if you actually are paying
+attention and you've been watching the
+videos you probably have noticed we have
+a really big stretch of preparatory
+phase here right so what we would expect
+to see as time went on from these weeks
+working its way down we would see really
+really high volumes in this early
+preparatory phase section and then the
+volume will start creeping down
+progressively over time it will continue
+to creep down all the way into this
+competitive season the problem that you
+run into unfortunately with a lot of
+sports the hockey and baseball come to
+mind when you do a low volume training
+for a long time you end up being at a
+higher risk for adaptive decay and
+reversibility the other problem that you
+run into is the air tolerance to
+training is very low so some people are
+savvy to the first issue and they say I
+got to make sure I pump up the volume
+periodically so they're not losing
+muscle mass and strength right and
+that's a good thought unfortunately they
+throw the book at their clients or their
+athletes after doing their competitor
+Faye's where they might have been doing
+like two by twos or three by twos or
+maybe even two by ones for some sports
+and then they throw like a four by ten
+five by ten or even like a three by
+twelve at them and unfortunately they
+just don't have the work capacity to
+tolerate that high of volume so what I'm
+going to do here and I know I'm probably
+rambling a little bit I'm sorry this
+return to fitness phase it's gonna be a
+little bit of a bump in volume to get
+them back into this preparatory phase
+later on because what's happening here
+in this competition phase well at this
+point they're probably doing like two by
+twos something like that right and then
+what they're gonna do over here well
+over here they might be doing something
+like 3 by 10 4 by 10 or something like
+that that's gonna be brutal when they
+switch back so we're gonna use this
+transition phase to kind of get them
+back up to speed and a little bit of
+work capacity so we're gonna maybe do
+some 2 by 5 s 3 by 5's 4 by 5 something
+like that just to make sure that they
+are becoming again tolerant to the
+exercise stimulus so that we can do hard
+training later on over here ok cool so
+mark that now what I'm gonna do is start
+marking my general and specific prep
+phases and what I have to get an idea of
+is how much time I'm actually working
+with over here the other thing you want
+to think about is the training state of
+your athlete now if you were dealing
+with somebody who is relatively not very
+trained right maybe only been training
+for a couple years or maybe five years
+or less you might spend a whole lot of
+this portion so we have a really big
+chunk here you might spend up quite a
+bit of it just doing general preparatory
+stuff like hypertrophy or capacity stuff
+if you are dealing with somebody who is
+more intermediate or advanced trained
+you are eventually going to want to
+start cycling back into that specific
+repertory type activities a little bit
+more frequently so let's do this for
+sort of like an intermediate style
+person so somebody who needs to do and
+reinforce some of that dumb specific
+prep type work where they're doing their
+weight lifting movements they're
+sprinting or plyometric any of that kind
+of stuff so we're going to kind of come
+back and cycle through this a couple
+times so I want to get a vague idea of
+how much time I have to work with here's
+4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+19 20 21 22 23 24 25 26 27 28 29 30 31
+32 rejoice that's a lot of time
+to work right so why don't we start off
+doing some five-week mesocycle so
+that'll make it nice so what we're gonna
+do first is we're going to just start
+marking off a little bit of time for
+specific prep so what I'm going to do
+right here and we're just going to keep
+this one really simple I'm going to mark
+a specific prep here and a five-week
+cycle so this will be kind of like a
+four in one paradigm for my athlete
+we're do some specific prep and again
+I'm going to put a nice thick border on
+here just so I remember one two three
+four five and then we do the same thing
+over here
+now notice see this comp ooh we're have
+to come back to that another time for
+now we're not going to worry about it
+too much so what I'm going to mark here
+is general prep no big deal now what I'm
+going to do is actually cycle back
+through a couple series of those so what
+we're going to see here now is I'm
+actually going to do maybe one artsy one
+two three four five one two three four
+five we're gonna do a big specific prep
+over here and again there's a lot of
+wiggle room this isn't something I want
+you guys to look at this and take it at
+face value and say dr. Hoffman did it
+this way I'm doing it this way just to
+kind of give you a feel for some
+different options here right you there's
+plenty of other ways you could go about
+this if you really wanted to so here we
+go one two three four five and then I
+have one two three four five six seven
+ooh this is going to present an
+interesting challenge later on okay so
+what I'm going to do here is maybe mark
+a quite a bit of time here for general
+prep pretty cool you don't get to deal
+with this too often in the real world
+where you have this much dedicated time
+to general and specific prep some sports
+you do many others you don't just
+because they compete more regularly okay
+now we've actually done most of the hard
+stuff right now we just got to kind of
+finish off on this trail end here let's
+see we got one two three four five six
+seven so what we're going to do in this
+one is one of my favorite things to do
+so what we're going to do is kind of a
+shorter general prep because they've
+already cycled through this several
+times
+and then we're gonna do kind of more of
+a true peeking and tapering style
+protocol so we're gonna do our specific
+prep right here and we are gonna
+functionally over each loops I'm already
+getting ahead of myself not paying
+attention to what I'm writing I'm gonna
+do our specific prep right here and then
+last but not least we're gonna overreach
+them this weekend then we're gonna put
+them right into their taper for their
+sport tada I'm the man this worked out
+great
+look at this all right so now if you've
+actually watched the other videos you
+know that we actually have most of the
+bulk of our work is already done because
+we already know what types of sets and
+reps and volumes and intensities
+generally we should see in each one of
+these phases which makes it really
+really nice and easy to work with so in
+here now we should also start marking
+our nutritional emphasis so now I've got
+the training stuff down here we're gonna
+start marking what we're actually doing
+for nutrition so as you guys probably
+saw in the previous one these are going
+to basically parallel a lot of the
+different training phases so whenever
+we're doing general prep a good idea for
+our nutritional phases will be our body
+composition alteration phases right so
+what that means is if my athlete needs
+to lose fat or gain muscle I'm gonna do
+it at these times right boom why well
+because the general prep is the time
+where we have the highest volume of our
+training cycle which is ideal for muscle
+growth or muscle retention and it
+actually provides a very very high
+amount of energy expenditure which is
+really good for weight loss so it's an
+ideal time it's away from competitions
+in this case we do have a couple comps
+lingering and we'll deal with that in a
+later video for now all we're doing is
+mapping out our kind of our mesocycle
+strategies for now okay so I got this
+one right so we're doing body
+composition alteration here we're gonna
+move in to hopefully you're paying
+attention and the other one weight
+stabilization so now ideally they should
+be at or roughly within about two
+percent plus or minus their ideal
+competition body weight which might vary
+from season to season right so they
+might be a little heavy or they might be
+a little light depending on what we were
+doing but basically here we said okay
+they're not where we want them we're
+building them to where we
+want to go and then here we say okay now
+we're basically where we want to be at
+kind of our ideal or very close to our
+ideal competition body weight here we
+kind of switch over to recovery and
+performance where we're going to put a
+really really big emphasis on
+carbohydrate consumption hydration and
+establishing really really good nutrient
+timing and food composition practices
+this is kind of like where we really
+really start fine-tuning our diet stuff
+for our athlete to make sure that they
+have picked the foods and the times that
+fit well with them and that's going to
+be our kind of like our whole
+competitive you know oh man what a
+knucklehead I thought this was something
+else we got to fix this see I'm already
+ranting and I'm already wrong so we got
+to go back and change this I thought
+this was the competitive phase because I
+saw comp here but I'm in just a
+knucklehead so hopefully if you were
+paying attention you were like man this
+guy screwing up already and you'd be
+right so what we're gonna do real quick
+is we're gonna change this and so what
+I'm gonna do back over here is we're in
+do this same phase we're gonna say okay
+here if we need to make any more body
+composition changes we can do a quick
+like mini mask mini cut this fool does
+he even know what he's talking about
+I've been wondering that for years okay
+oops I didn't even box this one there we
+go
+great and then we're gonna box this one
+too and we're gonna move into chute
+there we go
+weight stabilization right boom balance
+done and now here we go what I did
+earlier what I meant to do over here
+this is our recovery and performance
+phase where we're really really keeping
+them isocaloric still we're really
+swapping out as much calories from fat
+or if and we have any kind of surplus
+protein that we're working with and
+really trying to pump up those
+carbohydrates as much as we can over
+here when we have transition what we're
+basically going to do here is what we
+like to call active rest for nutrition
+which really is pretty simple what most
+of us would call maintenance phase where
+we're just saying hey you know what
+don't be a piece of crap don't lose a
+bunch of muscle and become a big old
+fatso or a skinny mini right kind of
+stay on point with you
+protein stay on point with your
+hydration don't gain or lose a bunch of
+weight but you don't have to be quite so
+rigid as you were before so we want you
+to get the mental break the the
+psychological relief but we don't want
+you to just go and be like a piece of
+crap the whole time either right so
+we're basically saying hey do the best
+you can with your food but if if like
+counting all of your macros and weighing
+all your food and everything was driving
+you nuts just take a break from it for a
+little while and make some smart choices
+and then hopefully no brainer right
+we're just doing the same thing across
+here if they got a little heavy
+maybe they didn't take their active rest
+phase too seriously and they got a
+little chunker's a little husky around
+the midsection we can do like a little
+mini cut here if we need to
+I'm already ranting too much I get too
+excited and then I have no I just like
+lose track of what I'm doing hopefully
+you guys can relate ok boom weight
+stabilization of course no-brainer boom
+recovery and performance I don't know if
+I have enough room to type that all in
+there we'll give it will just call it
+recover and perf boom how cool is that
+so now we've basically mapped out all of
+the major phases and sub phases of
+training so last but not least what
+we're gonna do today and then we'll take
+a little break because I know this is
+probably really boring for you guys to
+just watch me work and excel here and
+listen to me rant and say the wrong
+things now what we're gonna do is maybe
+break this down into some smaller
+measure cycles that are a little easier
+for us to manage so what we're gonna do
+here is look at how much time we have to
+work with so we got 4 5 6 7 8 9 10 11 12
+so in this case we could do three four
+week Mazza cycles so what I'm gonna do
+here is actually really really simple
+we're gonna do boom hypertrophy and this
+could be for weight gain or weight loss
+believe it or not then we're going to
+call that one hypertrophy one and then
+I'm gonna do another four weeks boom
+hypertrophy and we're going to do a
+different hypertrophy mesocycle so I'm
+going to label that slightly differently
+and I got emergency
+a hare boom and then we'll do one last
+one here and what we'll do is kind of
+what I like to call a strength endurance
+phase or maybe we can move it up to
+general strength so why don't we do that
+instead because we've already done two
+hypertrophy that's going to be like
+higher higher reps generally so maybe
+we'll move into kind of basic strength
+so maybe a little bit higher on the
+higher end of our basic strength so may
+be doing things like 4 by 8s 5 by 8 6 by
+8 something like that boom so now I have
+these marked out so I know okay I'm
+gonna be doing hypertrophy here
+hypertrophy here and then eventually
+going to start transitioning into
+strength and this actually worked out at
+a reasonable time too
+so that was cool now as we move into our
+specific prep phase we got to mark out
+how much time we have again right 1 2 3
+4 5 6 7 8 9 10 so I got 10 so maybe I'll
+do something a little different maybe
+I'll do 2 fibers right so what we'll see
+here is maybe like and this is again you
+have a lot of wiggle room and I'm just
+doing kind of a quick example but I'm
+still thinking about phase potentiation
+still thinking about variation all that
+good stuff right so what I'm gonna do
+here is a switch maybe we'll do some
+maximal strength maximum strength and
+some power so we'll mark that here
+nothing crazy and then last but not
+least we really start working on power
+and speed over here boom and we're let's
+just assume that we're not doing
+something like weight lifting or power
+lifting right let's assume we're doing a
+sport that is a little more complicated
+where there's a power and speed
+component write something like rugby or
+soccer or something like that right boom
+so now we've reinforced some of these
+things we've developed the skills and
+techniques that we need and we're gonna
+come back to them at a later time next
+over here we're not really worried
+super super crazy as much about
+hypertrophy just because we don't have a
+lot of time so we might be primarily
+just doing more of our strength
+endurance style phase just because we
+don't have a lot of time to work with we
+just want to make sure that we're still
+keeping a good amount of work capacity
+we came off this power and speed phase
+we want to make sure that we're still
+maintaining some of that work capacity
+and we know that it really doesn't decay
+that much but really we're just kind of
+faced potentiating through this cycle
+over time so we're just going to mark
+this one
+as strength endurance yeah sometimes
+it's good you know I didn't do that last
+one but sometimes it's good to mark them
+just like 1 & 2 as you kind of go
+because sometimes you might have another
+one that you forgot about later on and
+you're like oh man why did I label the
+other one earlier ok and over here we
+move into our specific prep and so what
+we're gonna do maybe here is kind of
+similar to what we did before maybe like
+a maximum strength and power kind of
+thing and actually if you just saw I
+just copy and paste it and made that
+nice and easy for me and then over here
+right we're gonna do is basically kind
+of the same stuff so what I might do in
+this one is recycle the one I did before
+and then I'm gonna have maybe a little
+bit of variation played around and do
+like power speed - oops and that one's a
+little too long I made a mistake already
+there we go there we go
+key okay boom I'm just gonna take that
+border off so I don't confuse myself
+there we go boom okay nothing too crazy
+just sometimes when you do this then you
+got to fix it and it doesn't look stupid
+okay over here so we set power and speed
+so over here we're just gonna say you
+know this is again return to fitness so
+we're just doing basic basic strength
+kind of stuff so we're just gonna say
+basic strength nothing fancy
+boom and then certainly last but not
+least we're going to basically follow
+this kind of similar pattern as we did
+before so I'm going to do strength
+endurance
+[Music]
+or in this one actually what we might do
+is since we did that one before well
+maybe just make this one basic strength
+just for a little little flavor a little
+variety we don't have a lot of time to
+work so on this one maybe we did you
+know kind of like three by five two by
+five three by five something like that
+and this one it might be a little bit
+higher it might be like three by eight
+four by eight something like that
+there's a little wiggle room to play
+with you can actually do it in the
+reverse order as well depending on your
+individual athletes so if you know that
+they're gonna get crushed if you give
+them a higher repetition range and this
+is something I have experienced
+personally and with my athletes I know
+if I if I give them higher reps on this
+one they get crushed I usually recommend
+kind of the strength range like four to
+eight reps something in there and then
+in this one essentially you're gonna add
+a little bit more volume so just kind of
+keep the sets nice and light and this
+one and then you can give them to have
+more closer to their MRV in sets over
+here so a basic strength and then we're
+going to see kind of like power and
+speed max strength kind of stuff we'll
+label this one pounds be just like the
+last one boom and then here all we're
+gonna be doing actually is tapering okay
+so pretty cool I know it doesn't look
+like we've actually done all that much
+and basically it just looks like some
+word jumbles that we've done but in
+reality we've actually done quite a bit
+of the legwork for our annual plan so we
+actually have all the major mesocycles
+and a lot of the macro cycles planned
+out here the only things that we don't
+have are kind of like our week to week
+day-to-day variations which is something
+that we're working on the next one so
+for now what we'll do is we'll save this
+one and we're gonna come back to it at a
+later time to keep working on it
+but you can see right actually mapping
+this out isn't as terrible as it might
+have seen before when we are talking
+about it and it's actually kind of fun
+so once you kind of get into it and have
+done it a few times it's really fun to
+kind of work on these and think about
+different scenarios in your head where
+you might change some of these things
+around now again don't take this overly
+literally don't look at this and say
+this
+is exactly how it's meant to be done
+this is me just having some fun doing it
+randomly without considering a lot of
+things like holidays and travel and all
+those crazy things that we mentioned
+before
+there's plenty of different ways to go
+about some of these things this is just
+a simple example this is my my Bob Ross
+winter landscape before you guys for
+today so let's call it a day I know
+you're probably sick of hearing me
+ramble here and watching me work in
+Excel not the most thrilling thing next
+time let's start working on our week to
+week in our day to day strategies which
+now that we have this done should be
+really easy
+[Music]

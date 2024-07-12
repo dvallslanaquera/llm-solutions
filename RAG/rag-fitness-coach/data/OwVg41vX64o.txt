@@ -1,0 +1,949 @@
+hey do you guys want more nerd stuff
+more deep dives on technique more deep
+dives on physiology biomechanics
+exercise analysis lots more q a and a
+bunch of insider videos of me training
+myself and there's lots of silence
+around and you get to see all my sets
+cool well then hit the button below
+to join our members community and you
+know what there's a special prize i'm
+just kidding we don't have a special
+prize but i'll see you in the members
+community
+hey folks dr mike here for renaissance
+purisation today's ultra nerdy super
+nerdy
+pocket protector glasses wearing getting
+punched in the face in the schoolyard
+type nerdy topic is
+emg electromyography and hypertrophy
+and the specific question of what can
+emg studies which are very often cited
+tell us
+about what muscle growth is or is not
+going on
+so emg is used very often in
+research and exercise science and sports
+has in general and very often in
+hypertrophy research emg stands for
+electromyography it is technically the
+measurement of
+some of the electrical activity of
+muscles
+the motor nerve the sort of neuron
+designed to tell the muscle to contract
+does so by releasing uh some chemicals
+and then these chemicals bond to the
+muscle itself or to the surface of the
+muscle and that starts an electrical
+cascade which wraps around the whole
+muscle and actually penetrate penetrates
+in some cases deep into the muscle and
+that electrical cascade is something
+that we can measure to some extent a
+decent extent not perfect with
+electromyography right and that
+electrical cascade doesn't itself
+contract the muscle but it has a few
+other things happen afterwards that
+result in muscle contraction so as you
+can tell already there's a bit of a
+difference between electrical activity
+and actual muscle contraction and some
+of that is where the nuance happens
+where we have to say well if an emg
+study says this that doesn't exactly
+mean muscle contraction because
+sometimes people say it's one on the
+other however emg is a pretty decent
+proxy on average of muscle contraction
+but not all the time
+so
+because emg
+is some kind of proxy some attempt at
+measurement of muscle activity it has
+often been used to infer hypertrophic
+outcome differences that would result if
+you continue to train in let's say two
+different ways one of them gets you very
+high emg readings one of them gets you
+lower the proposition there is that the
+higher emg readings would cause more
+hypertrophy in the long run because
+ostensibly the higher emg readings
+reflect more muscle contraction and
+muscle contraction over time generates
+tension and
+propels or stimulates rather
+muscle growth so far
+most of that is roughly true
+and the way we use that is a couple of
+different ways in the resource
+literature first
+people can compare things like
+pre and post exhaust do my pack flies
+first then i do bench or i do bench
+first then peck flies see which one of
+those orders gets you better electrical
+activity as measured by mg and then you
+say well whichever one
+does grows more muscle
+may or may not be true but we'll get to
+that in a bit
+another thing people like to use emg for
+is to figure out the difference between
+exercise variations like a sumo squat
+versus a regular squat seeing which one
+you know activates the glutes more
+seemingly or activates the quads more
+and thus making inferences on which one
+you should do to grow the glutes or
+quads pretty common
+another one is different loading
+paradigms you take the same exercise
+have some people do sets of five
+have other people do sets of 20 see how
+the emg results are affected and you say
+well it seems that the heavier loading
+affects
+the emg better and thus heavier loading
+maybe promotes more muscle contraction
+and maybe more growth that's a something
+that people speculate on a lot of times
+it's between different exercises a
+pretty common approach is taking
+something like squats and pairing it
+with something or pairing it
+oppositionally against something like
+hip thrusts trying to see emg activity
+and trying to figure out which one grows
+the glutes more
+and then another one that's very common
+lately is ranges of motion
+within the same exercise so you have emg
+you have let's say a bench press one
+group does here to here
+lockout type of reps one group does
+partial reps from the lower end range
+and you see which one has the higher emg
+values and you try to infer which one is
+going to grow more muscle right and a
+whole bunch of different ones
+different study designs that are roughly
+pointing at kind of similar similar
+stuff and this is a fine way to use emg
+as long as you know about the potential
+limitations
+that's what this video is about
+the potential limitations of using emg
+and there are at least 10 of them this
+is not an inclusive list but it's close
+so here we go
+what are the potential differences
+between what we want to assume that emg
+equals hypertrophy or in first
+hypertrophy very exactly or the
+alternate idea that emg may be
+not inferring hypertrophy at all or only
+to a very small and highly error prone
+extent
+so first limitation
+is that electrode position
+relative to the muscle on the surface of
+the skin
+can make it seem that one exercise one
+way of doing an exercise
+or part of the range of motion of an
+exercise
+is really really good at generating
+tension through emg but the reality is
+that the emg just picks up
+certain range of motion better than
+another easy example is this if you put
+a bunch of emg leads at the very top of
+the lat for example an exercise in which
+the lattice stretch then you come down
+to here
+is going to have a lot of emg activity
+whereas an exercise that goes from here
+to here might have a similar amount of
+activity because the lat's still
+involved on the other hand if you put
+emg leads lower if the lat activity if
+the exercise is down here with the lat
+you're going to get a lot of emg
+activity but up here
+the lat stretches out and a lot of the
+lat stretching occurs under the skin
+it's not paired exactly to the skin emg
+leads stay at the same point in the skin
+but the lat muscle moves away from where
+the leads are so it can look like this
+is not a very good lat exercise but the
+real problem was that the emg leads were
+placed lower and thus inherently biased
+that the shorter range of motion or the
+lower range of motion down here
+seems to be more muscle activity
+generating and thus more hypertrophic so
+if you interpret a study like this
+without being very careful where you
+place your emg leads which actually
+happens in studies way more often than
+you would hope for then all of a sudden
+you conclude hey lat pull downs from
+here to here as opposed to here are
+better for hypertrophy where maybe the
+opposite is the case so that's a big
+problem
+next one
+probably a very small problem but
+nonetheless something we have to be keen
+on
+is that emg as done in most research
+facilities is what's called surface emg
+you place leads that are not penetrating
+the skin they have tape around them or
+sticky substance you just place them
+directly onto the muscle but it's not
+really the muscle because it's the skin
+and they are very good at detecting
+electrical activity of the muscle just
+deep to the skin but they're much better
+at detecting activity of a muscle that
+is superficial
+versus deep so for example your quad can
+be fucking enormous there's all kinds of
+muscles deep to your quad and the
+adductors and stuff like that and if you
+place emg leads on your quad especially
+for subjects that have a relatively high
+body fat a lot of females store lots of
+body fat in their quads for example you
+can compare two different ways of
+squatting or something like that and say
+well gee
+this one has way higher emg activity
+which you might be looking at is
+actually the deep musculature
+was way more active in one position or
+one exercise and the surface musculature
+was more active in another position or
+another exercise and because we only
+have a very biased look at the surface
+automatically the deep activity could be
+the same amount of muscle activity and
+could lead to the same growth but we're
+saying ah this exercise variation sucks
+because it didn't have the emg readings
+and it's not because it actually sucked
+it's because our emg is much better at
+reading on the surface than it is deep
+now i'm over exaggerating a little bit
+because it's not much better but there
+is a difference if you want to really
+look into what's going on there's a
+variety of approaches you can take one
+of them is called fine wire emg
+get ready if you're queasy just mute
+this for a while you take a really fine
+wire that looks a lot like a needle and
+you stick it into the muscle as deep as
+you want and you can stick it at a bunch
+of different depths it kind of looks
+like acupuncture i guess
+and then the person does the curls or
+the extensions or whatever and then you
+actually see what's going on deep inside
+the muscle and sometimes that's
+marginally different enough than surface
+electromyography that the results aren't
+exactly what you thought they would be
+and that's just something we have to
+keep our eyes on it's not a huge thing
+it's a very small thing and there are
+other
+elements in this list that are much more
+uh pronounced in their difference but
+something we have to be at least
+intellectually aware of
+next
+is an enormous huge huge thing
+that renders a lot of emg interpretation
+and inference to hypertrophy as like
+gee really troublesome and here it is
+generally speaking
+electromyography
+biases
+higher readings you get higher seemingly
+higher muscle activity and oftentimes
+actual muscle activity
+the highest is usually an isometric
+contraction so if you have a bench bar
+that's just fixed in place and you go
+and push on it as hard as possible emg
+readings are amazing
+the next highest one lower is concentric
+so if you push a bench press like this
+they have amg readings usually you don't
+get as high of emg readings in the
+concentric as you do in an isometric so
+someone could say okay
+there's less muscle activity here i'll
+get to the point in a sec the lowest emg
+readings are typically in the eccentric
+phase lowering the bench press
+we could be tempted to conclude
+that from those readings alone highest
+emg readings that isometric second
+highest concentric lowest edicentric
+would give us the thought that well g
+that means the isometric grows the most
+muscle concentric the second most in
+eccentric dead last
+the reality is actually completely
+backwards making this probably one of
+the bigger whopper points of this
+presentation it turns out
+by a small margin at least
+eccentrically biased stimuli probably
+the most muscle growing
+concentric is in second place
+and isometric
+is in last place on average right by
+small margin all of them are good for
+growth but if we just interpret emg
+readings at face value
+we can literally conclude the opposite
+of what is true and that is not good
+now
+it's very very easy when you're doing
+the same exercise
+and doing the eccentric analysis
+concentric analysis isometric analysis
+uh you know if you're familiar with this
+literature you can at least say well i
+know what i'm looking at and i know that
+they're going to have higher energy
+readings than is really inferring a
+fiber trip that's okay but the big
+problem comes when you let's say examine
+two different kinds of exercises let's
+say a hack squat with a pause
+and then a leg press with no pause and
+say which one of these grows more muscle
+well one of them may have a more
+pronounced eccentric phase one of them
+may have a more pronounced concentric
+phase one of them this is very easy
+especially with a pause may have a more
+pronounced isometric phase and then
+because those phases map onto emgs a lot
+better
+then they map onto hypertrophy where
+actually they map onto hypertrophy
+completely the opposite what you can do
+is say well you know the average emg
+amplitude of the leg press in this
+condition was higher so that means that
+hack squats won't grow as much muscle
+but that might be because hack squats in
+the way you set up the exercise and the
+way you cued the technique have more of
+any central component than the leg press
+have a slightly less concentric
+component and considerably less
+isometric component that probably just
+on growth muscle growth theory based on
+what we know about these different
+contraction types will make the hack
+squat more muscle growing than the leg
+press as you're doing it but the way you
+read it just off of emg you concluded
+the very opposite result and it's
+complicated different phases and
+activations in different exercises are
+so complex that when we look at an emg
+and we see one amg is higher than the
+other you know overhead tricep
+extensions beat regular skull crushers
+or something we have to ask well is it
+different phases
+well and also is it surface versus deep
+is it electrode position we have a bunch
+of questions to ask now so as you can
+tell the idea that emg equals a very
+good proxy of hypertrophy is starting to
+really slip away from us
+aha but there's more but there's a lot
+more point number four
+long versus short muscle lengths
+it seems pretty reliable in the
+literature
+that emg activity from here to here
+is higher on average with the same load
+same relative effort same everything
+than it is from here to here okay longer
+musclings you tend to have lower emg
+activities
+than you do at shorter muscle lengths
+but
+growth usually seems to occur better at
+longer muscle lengths than shorter so
+it's backwards again so now when you
+have one exercise or one range of motion
+showing better emg values you have to
+ask yourself the question well hold up
+let's look at the muscle links at least
+on the surface to see if we've made an
+egregious egregious error
+right so
+it can if we just don't do this
+we only read the emgs and we find
+studies and say well hey the emg here is
+lower so that's stupid
+then we end up concluding things that
+are actually backwards
+um
+a very
+classic example of this is if we study
+like the lat prayer or the pullover
+right for lats the emg activity from
+here to here is really good the emg
+activity from here to here is not so
+good so people are tempted to say well
+gee why would you even do this part if
+the muscle's not nearly as active well
+hold on a second we already know that at
+longer muscle lengths
+the muscle is
+the emg readings don't correspond to the
+tension produced by the muscle nearly as
+much we also know that's the more
+hypertrophic region so if we say well g
+the emg readings say that this range of
+motion for pullovers or lap pairs is
+better than this one we could be
+inferring the opposite of the truth we
+have to be very very very careful
+another limitation
+is active versus passive force detection
+so
+if you have active force that means the
+muscle itself is generating tension and
+the emg is really pretty good at
+detecting that
+because the electrical activity of the
+muscle is
+you know you know the emg senses that
+however
+let's say you do a deep bench press and
+at the bottom you relax your pecs
+somewhat so the emg readings won't be
+high but the force is still being
+imparted and your pecs are actually
+being pulled apart by heavy resistance
+that generation of tension your muscles
+are still feeling a fuck ton of tension
+but the tension isn't coming as much
+from their own contraction attempt it's
+coming from gravity and barbell pulling
+them apart and they have to generate
+tension to resist
+this has called passive tension
+and it generates a crapload of
+hypertrophy that you will completely
+miss or almost completely miss with emg
+analysis
+so exercises that have a big passive
+tension component one of which is let's
+say you're squatting super deep and
+you're taking a one second pause during
+that one second pause if you let your
+quads turn off or turn down it's going
+to look like gee that bottom sucks why
+would you even go that low your muscle
+activity really drops off but the actual
+tension experienced by the muscle fibers
+is fucking enormous and causes a
+shitload of hypertrophy it's actually
+the most tension the muscles are
+experienced the entire time they're just
+not generating themselves it's being
+generated for them passively so we don't
+want to say emg
+is maps exactly under hypertrophy
+because we could be missing passive
+versus active force detection and we
+will actually we catch all the active we
+miss a bunch of the passive passive
+matters it's a big deal and we don't
+want to miss
+number six
+this is a crazy one
+and
+it's really a trip so
+emg notoriously favors heavier loading
+so if you have the same exercise
+you do a set of five with it let's say
+to failure or very close the overall emg
+amplitude is going to be really high
+like holy shit your muscles are really
+working
+if you do a set of 20 with the same
+exercise you know normalized to the
+number of reps etc normalizes the total
+stimulus the emg won't be as impressive
+so we can be tempted to say well look
+the mg of heavy loading is better than
+the mg of light loading thus heavy
+loading causes more growth we would be
+tempted to do so we would be tempted to
+say someone thinks so however we've
+already done the long-term studies the
+direct studies that literally show
+actual hypertrophy we measure actual
+muscle size with dexa and all these
+other measurements
+and we know for pretty damn near fact at
+this point very high degree of certainty
+that anything between roughly your 5rm
+and roughly your 30rm causes a really
+similar amount of growth maybe an
+equivalent amount of growth some cases
+higher reps actually cause more growth
+in some cases lower ups cause more
+growth but if we just went off emg alone
+heavier loading automatically biases us
+to think the emg well really a heavier
+loading is really good
+but we could be tempted to conclude that
+higher repetitions or lighter loads or
+even exercises that the repetitions are
+the same but the amplitude exercise is
+higher for example you move a longer
+distance one exercise versus another and
+it ends up being that the total time
+spent generating tension of one exercise
+is higher the other exercise is lower
+and because of that the adjusted if you
+go for 20 or 10 rms on both the 10 rem
+on both
+isn't actually the same relative load to
+both
+the shorter exercise shorter amplitude
+is a much higher relative load and the
+longer exercise is much more distance so
+that it is 10 reps but it's the same
+amount of contraction as the other
+exercise would experience with like 15
+reps and thus the exercise that has a
+longer range of motion we say well yeah
+per rep the emg amplitude's not as high
+as this one
+other exercise that has a lower one so
+maybe it's not as much growth but
+oftentimes exercises generate the most
+range of motion not always but often
+generate more growth so again this would
+bring us to think these two things one
+heavier loads are superior which they're
+probably not
+and two exercises which take a longer
+time to do per rep and thus per set are
+not as hypertrophic as they really are
+in reality so again gee you know if we
+started trying to put a pinch of salt to
+muddy the waters we're now pouring all
+kinds of fucking what do we just put in
+their brew
+dragon eyes
+testicles of
+eagle eagle testicles do eagles have
+testicles
+i don't know they have a cloak i know
+that all right
+not looking good for emg so far but
+don't worry we'll try to save it at the
+end
+fatigue fatigue is a big one so
+emg
+is
+picks up neural fatigue pretty well
+nervous system fatigue pretty well
+it doesn't pick up metabolic fatigue all
+that well because it doesn't measure the
+metabolism it measures muscle
+uh contraction or sorry it measures
+muscle electrical activity which if you
+have a high level of metabolic fatigue
+you could have the same amount of muscle
+electrical activity as always
+but a higher amount of growth per rep
+because no metabolites grow muscle but
+that's not picked up by the emg often
+right so
+you can have two situations just to show
+you a hypothetical example of how this
+can work if you have a low emg amplitude
+and you don't have a ton of metabolites
+right you could expect low growth and
+actually low growth would occur
+but if you have low emg for example the
+last five reps of a 30 reps emg is not
+very impressive because your nervous
+system is tired uh you know and there's
+excitation contraction
+uncoupling like that little boundary
+between the nerve and the muscle where
+the neurotransmitters are supposed to go
+through has all kinds of crap in it that
+kind of came out of this damaged entire
+muscle and now the muscle contraction
+isn't stimulated you know some fraction
+of the time that it's supposed to be the
+nerve is like fire fire fire and the
+muscle's like
+god get out of my face i'm super tired i
+always gunk everywhere i can't even hear
+you so what ends up happening is in that
+condition
+you have the same low emg amplitude as
+in the first but if you have a high
+degree of metabolites in the muscle you
+actually get some pretty decent growth
+but in both conditions because if we're
+going just off of emg we can think oh
+it's both low growth conditions so
+in this case we have ruled out high
+growth where actually it occurs because
+it occurs because of metabolites but emg
+doesn't really pick up metabolites at
+least not reliably at least not directly
+so low emg does not lead to low growth
+in all cases specifically those
+regarding metabolites specifically in
+high repetition sort of situations so
+more moneying of the waters point number
+eight
+this is a big one and this is something
+that we have to as scientifically-minded
+people keep
+in mind i could have said that better so
+extrapolating from one muscle to another
+is super common
+people will say thing you know they'll
+have an emg study that shows like hey
+you know doing a partial range of motion
+in this exercise
+has higher emg amplitude than doing a
+full range of motion or the other way
+around
+and thus you should do it like this and
+uh you know you're you're going in
+you're gonna go do squats and someone's
+like you shouldn't do them like that you
+should do them like this because of this
+emg study you
+go pull it up on your phone and it says
+you know in triceps brachii and you're
+like
+this is a study on triceps and they're
+like okay i'm doing my quads like okay
+but it's a muscle look right so there's
+a chance that's just general muscle
+physiology that's been found out and it
+works across all muscles that's very
+possible but it's also possible that
+this is a specific nuance of the triceps
+or other muscles more similar to it and
+does not apply to the quadriceps or to
+the hamstrings or the calves or whatever
+it is that you're doing and this asshole
+is trying to feed you emg data stop
+doing that do this
+so it is an uncertainty that we have to
+understand so if we want
+to take emg studies
+and we want to conclude from here's how
+we change our training we had better be
+very careful about not crossing from one
+muscle to the other with full confidence
+so if we have research that says hey for
+the biceps bmg stuff says this works
+can you use it for the forearms or for
+the triceps or for the quads or for the
+glutes you can absolutely you can you
+can infer that this way of training that
+the mg found was better
+might be better than this other way of
+training they found worse but that might
+takes a probability cut off that's
+pretty fucking decent so it you
+shouldn't be coming up to people and
+saying hey don't do this do that and
+then when they say but this is a
+different muscle you're going to have
+like basically caught with your dick in
+your hand you want to be like well hey
+like from other research on other
+muscles we've shown this is the case so
+my best guess is that this will also be
+the case here but if they try it it
+doesn't seem to be working and they
+don't get a sword as pumped or whatever
+then you should be like okay that makes
+sense because we were inferring from one
+muscle to another and that's not always
+possible right
+so few emg studies for now and
+so many muscles are so much easier to
+study than others that a lot of times
+you have like 10 quad emg studies 15
+biceps studies three triceps one lat and
+that's it nobody
+ever emg's the uh
+the important muscle
+electrodes you know where or do you am i
+talking about
+number one end or the number two end
+that's for you to figure out at home in
+any case
+number nine
+single study limitations a lot of times
+one emg study will come out saying the
+lats you know the better trained last
+like doesn't like that so that one study
+has every single thing i said so far as
+a limitation including the fact that
+it's just one study
+like in the real world
+emg studies especially easy to fuck up
+there's this thing called crosstalk
+where you have emg leads and the cables
+come close to each other or the two
+leads are too close
+then one lead picks up electrical
+activity from this and also from the
+lead and also from the
+the you know the electrically
+let's say you have some kind of machine
+there that has an electrical plug in it
+uh they could also pick up on that it's
+crazy right so emg you would think put
+this lead on and it gives you exactly
+the electrical activity with no error
+that's not even remotely close if you're
+very careful you can do a great job but
+in the real world one study at a time
+like you know a lot of times the primary
+researcher who's on the publication or
+his first name on the publication or the
+last he's not actually doing the study
+or she's not actually around much of the
+time just some of the time what you have
+is you know bright undergraduates and
+graduate students doing the actual study
+and like they can fuck shit up i've seen
+it happen myself when i was in this
+environment so is does that mean that
+all studies are bullshit and the grad
+students just making up numbers fuck no
+most of them are pretty good but pretty
+good doesn't mean perfect so
+a single study if it says this versus
+that it's probably not a good idea to
+take your entire training program and
+upend it because a single study said the
+lats don't do this they do that through
+emg never mind the fact that there's
+eight other fucking reasons to be
+skeptical of the not cynical skeptical
+of the emg but now this is another one
+where you think okay one study if a
+couple more studies come out
+i'll be more likely to change
+my training than if it was just one
+study because one study can say all
+kinds of weird shit i just wouldn't
+nothing to hang your hat on although
+people really hang their hats on stuff
+anymore back in the 50s you should show
+up someone's house and like man see and
+they're like yeah and you had a hat and
+a suit and they'd be like man hang your
+hat here see and you're like man
+yeah
+like that
+i does that even happen i don't know i
+guess people in suits don't really come
+over your house much anymore unless
+the you know the feds want to talk to
+you do they even wear hats shit
+all right
+10 our last limitation that at least i
+could think of and whatever amount of
+time it took me to make this
+presentation
+this is a real big problem as far as i
+know as of the um filming of this video
+there may be as few as zero studies that
+have actually taken
+emg readings at the beginning
+emg readings maybe a couple times during
+the study over the course of eight to
+twelve weeks
+and seen how the emg analysis because
+emg is going to say well this way of
+doing triceps is better this way is
+worse because emg here is low emg here
+is high
+take that
+same subject same study and actually
+measure muscle growth over eight to
+twelve weeks and see who wins
+because you would think well emg is a
+proxy for muscle growth but that it is a
+proxy for muscle growth has never been
+formally tested
+there is at least one study out now that
+did the same thing with the pump right
+they they tested who got the biggest
+pumps from a given level of volume of
+all the subjects at the beginning of the
+study and then they just trained them
+and saw who got more jacked surprised
+the people that got the best pumps got
+the most jacked so pump is now at least
+with one study not so convincing but a
+good place to start a somewhat
+marginally validated
+instrument by which to you by which to
+infer hypertrophy a validated proxy not
+very well validated but i got something
+emg i'm not aware of any studies that
+have correlated emg outcomes with actual
+hypertrophy in the same study so like
+gee whiz you know that's kind of a
+problem and just one study wouldn't be
+overly convincing so if one of these
+studies come out we could at least be
+like oh wow it's good it's a 70 accurate
+proxy for that muscle for those two
+exercises for that group of individuals
+we need a few more studies to really
+become confident the fact that it's a
+good proxy currently i think we have
+zero and maybe i missed it but even if
+we have one or two you know we can do
+better and if we're really gonna be
+saying in reading emg literature as if
+it's like hey this is what hypertrophy
+means
+we want more than zero and more than one
+or two studies right so that's the last
+limitation putting that all together
+what is sort of my verdict at least
+personally on using emg
+here it is emg is one tool by which we
+predict and proxy muscle growth
+and here's the thing
+it's not
+a
+guarantee of what's going on it's a hint
+at what might be going on
+and should be the basis a basis one of
+the bases for trying things in the gym
+you read an emg study you go oh
+interesting i never thought of doing lat
+pull downs like that i'll try it and
+then you try it and you see
+does the stimulus to fatigue ratio work
+out like do you get better tension in
+your lats with this are your lats
+burning more are you getting better lat
+pumps do your lats seem more disrupted
+more sore more tired etc how are your
+joints feeling
+if the emg says do it like this it's
+correct and it turns out it is fuck yeah
+awesome but if it you try it and really
+diligently try it out you're like this
+is backwards this this thing is fucking
+stupid the emg
+must not have said the right thing well
+fuck man you got 10 really good ass
+reasons why the emg could have been
+wrong so don't worry about being like
+but the cmg study how am i going to
+hashtag signs how am i going to you know
+hashtag be evidence based if i'm
+ignoring emg literature not ignoring it
+you're integrating it understanding that
+could be a hint at what's going on but
+it's like 50 000 light years away from
+being exactly what is going on as the
+perfect proxy right the mg studies are
+not the last word they're not like
+hashtag fuck yes science they're just a
+hint and if you use them intelligently
+like that with a great bit of skepticism
+you're actually hashtag evidence based
+and then you know i don't know what
+happens next i guess if you put shit on
+instagram
+hashtag evidence based you like wait for
+30 minutes check your dms and these
+evidence-based nerd girls just come out
+of the fucking woodwork and they're like
+hey oh my god i heard your
+evidence-based ah and you're like will
+you go on a date with me and they're
+like of course but you've gotta cite
+publications during the date you're like
+fuck how to study for a date
+i love it i can't wait just talk about
+literature into the hours of the night
+passionate sex you guys know the rest
+that's real life so
+here's the thing
+that was cool that was a lot of learning
+however there is always more learning to
+be done
+four ways that you can learn much more
+i'm not actually an expert on emg
+but we have lots of experts at emg and
+one of them maybe the preeminent expert
+on skepticism towards emgs and a very
+very amazing biomechanist in his own
+right andrew vigotsky he's like a
+professor and everything he's the real
+deal i'm just some guy on youtube and
+here is how you can access some of his
+work he has been interviewed by omar and
+eric on iron culture podcast which is a
+fucking great podcast you should just
+subscribe to it anyway his video is
+specifically linked in the description
+below
+andrew has talked about emg in another
+video
+an earlier video which i've also linked
+for you guys and he's written two papers
+with a few collaborators on skepticism
+of emg and hypertrophy linked together
+and i've linked both of those papers for
+you in the description
+so yeah go ahead and read that shit it
+gets a little complicated because
+andrew's smart as fuck but uh you know
+if some of this wasn't super convincing
+or it was but you want to learn more and
+get in the nuance that's the place to do
+it folks thank you so much if i board
+you to tears wipe those tears away
+hashtag evidence based on your instagram
+and go on a crazy evidence-based date
+hey you kids have fun i'll see you later
+you

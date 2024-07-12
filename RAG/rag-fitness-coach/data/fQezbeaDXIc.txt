@@ -1,0 +1,864 @@
+hey folks I'm Dr Mike for Renaissance
+periodization and I have a question how
+lean are you please put in the comments
+below now that you're done typing in the
+comments let's find out the multiple
+ways to measure body composition oo fun
+now what the hell is body composition
+well it's what your body's made of you
+have muscle you have organs and stuff I
+think I don't really care about them
+much
+bones and body fat there's a few other
+things I missed but in Fitness we're not
+really in your organs we're interested
+in how much of you is lean tissue and
+how much is fat tissue and you'll never
+guess how lean tissue is calculated they
+take your total body mass and they
+subtract the fat tissue if you have a
+body fat percent and the rest is lean
+tissue more or
+less now there are many ways to try to
+estimate your body composition
+specifically how much muscle SL lean
+tissue and fat you have and we're going
+to look at them we're going to look at
+their upsides their downsides and their
+best use cases so here we go
+there are one two three well fuck Jesus
+like 10 or so yeah good God 10 methods
+to assess your body fat this is not an
+inclusive list but damn it's close we
+have you know what fuck it I'll just
+start the
+list it'll be a surprise ah people will
+bitch will they bitch Scott the video
+guy should I give him a list so they can
+scroll BMI circumference baa skinfolds
+mirror SL scale SL strength that's one
+3D scan SL clo that's one bod pod
+underwater weighing indexa and magnetic
+resonance imaging
+oo that one's the most fun I can't wait
+to get to that one all right BMI the
+definition is it's basically not
+basically it's exactly a ratio of your
+body mass to your height the taller you
+are given the same body mass the lower
+your BMI the shorter you are ready
+normal person normal person normal
+person short
+King uh the higher BMI give the same
+body fat see the more body God good God
+body fat body mass and the more body
+mass you have the higher BMI the less
+body mass you have lower B at any given
+height the upside is that you don't even
+need to look at someone's body to
+calculate it it's that easy they simply
+type in their weight they type in their
+height you hit the formula button and
+boom BMI pops out the downside as you
+may have predicted is that it doesn't
+actually measure body composition at all
+it is agnostic to muscle and fat in
+individual ual so it can't tell you a
+whole lot about that now its good use
+case is it's great for huge cohorts and
+hundreds and thousands and millions of
+people for insurance tables and medical
+screening if you're a regular person out
+in the wild and you have a BMI over 40
+your health is probably in deep shit yes
+you could be a professional bodybuilder
+and excellent health and a BMI 40 but
+that's very unlikely so it is not for
+use in Fitness cases if you are a
+fitness person and you're like hey I
+have a BMI of XYZ I stop paying
+attention to what question you're asking
+asking me I'm kidding of course but not
+by
+much next up by the way these are
+roughly in order of how useful they are
+roughly and in order of complexity
+circumference so basically you get a
+tape measure out and you measure things
+like your waist your hips maybe some
+other body parts like your thighs and
+your arms and stuff like that there are
+even other body parts you may want to
+tape measure not length I'm talking
+about girth circumference you feel me
+that's what that's what matters so I'm
+told hypothetically
+upsides it's super quick and do it
+yourself easy and it's great for
+tracking because it doesn't tell you a
+whole lot of what's going on but it
+tells you if you're shrinking or if
+you're growing and usually those
+correspond to body fat gain and loss the
+downside is that positioning the tape uh
+the same way on the same part of your
+body every time is tough and if you
+position the tape a little bit up on
+your waist a little bit down it makes it
+seem like you gain 20 pounds of fat and
+the other way around it's also difficult
+to get the right tightness of the tape
+there are tapes that actually allow you
+to get the same tightness every time but
+most people don't use them properly or
+use them at all and thus if you squeeze
+the tape really tight which a lot of us
+do and we're trying to slim into
+something then it's like hey you lost a
+bunch of fat and then later you know
+that week you forget to squeeze it and
+you're like hey I gained 10 kilos of fat
+fuck
+that the use case for this is there are
+formulas that will infer your body fat
+percentage from uh circumference and
+they're all dog shit so I don't even
+bother using them best use case here is
+when you're on a muscle gain phase and
+you want to know when to stop because
+like you know like yeah you can tell
+from the mirror but you want something
+more
+objective when you stop your current
+muscle gain
+phase get some tape measuring going like
+around your abdominal region maybe right
+over your belly button so you have an
+exact place to put it and do that for
+the last few weeks of your muscle gain
+phase get some good averages and know
+okay like uh it's whatever number of
+centimeters that's what it was when I
+stopped
+massing do your fat loss phase
+maintenance phase BL whatever on your
+next muscle gain phase start to track
+the tape measure again at the same site
+and when it for
+two times in a
+row probably like a whole week registers
+that you are just at or over your
+previous largest waste while massing you
+can officially say okay I'm cutting off
+this muscle gain phase I'm not going to
+get any fatter that's a really good way
+to use it I highly recommend
+that all right Bia bio electrical
+impedance
+analysis these are often in modern
+Fitness scales so you stand on the scale
+and what it does is you put two feet on
+the scale and there's two plates you
+stand on technically speaking in reality
+the scale sends a small shock electric
+shock and you can't feel it directly to
+your testicles making you unable to
+produce progyny I'm kidding I'm kidding
+that's a good conspiracy theory though I
+kind of wish it went to your testicles I
+could use a little zap down there Scott
+the video guy what do you think about
+testicle zapping hot hot if
+you not if the scale sends an electrical
+signal up through one of your legs it
+goes through a large fraction of your
+body and it comes back down and the
+amount of Electric electrical impulse is
+detected in the other
+plate there are a lot of formulas that
+they use to come up with this but the
+basic idea is this fat typically resists
+electrical current more than lean tissue
+and so if you're a fat motherfucker then
+less current comes back if you're lean
+as shit then a lot of current comes back
+and based on the ratio of the current
+that they sent out to the one that comes
+back they infer through a sort of series
+of equations like roughly how lean and
+how fat you
+are it is very quick and very easy so
+those are the upsides the problem is
+that the accuracy is insanely awful and
+apparently the reliability is good so
+even though it's not telling you real
+body fat whatever body fat it tells you
+is
+uh going to be similar over time and if
+you get leaner it tracks it
+appropriately but that actually only
+works for large groups seemingly all the
+data I've ever seen including lots of
+experimentation with myself and folks
+that I knew the baa is almost complete
+waste of time uh it is great for
+laboratory research especially in large
+athletic populations if you want to see
+how summer training for soccer players
+affected their body fat and lean mass
+you have them hold on to the fucking Bia
+dildo at the beginning of the summer and
+at the end they hold on to it again it
+gives them a number somebody writes that
+down amazing for labri research
+individual Fitness use I just say just
+don't use it uh I just don't use it and
+unless a device comes out that's really
+really good I'll sure change my mind but
+for the time being I just don't
+recommend it because I think it's
+fucking dog
+shit skin folds we could do a three
+sight skin fold or the gold standard
+seven sight skinfold the upside is
+skinfold and you know pinch the skin
+with a little little thingies whatever
+they're called little Pinchers calipers
+that's right I know
+things um it's cheap it's
+quick however in order to get accurate
+readings you need a highly trained
+operator that's
+usually uh has an anthropometry
+certification of some
+kind and or is well trained and has just
+done this a whole lot of times if you
+don't have a highly trained operator the
+measurements are Geo garbage in garbage
+out nonsense so you can get anyone to be
+any kind of body TR you want really with
+a large error just by positioning the
+calipers wrong and uh funny enough uh
+I'll give you guys a hint to see if the
+personal trainer doing these for free or
+Jim is doing this right if you guys can
+see this Scott video guy can we see this
+okay yeah if you see someone with their
+fingers because you're supposed to do
+this with your fingers and the caliper
+comes in using their fingers like this
+and pinching fat like this with fingers
+that point forward they're doing it
+wrong
+automatically the real way you pinch
+body fat if you know
+anthropometry is down like this down
+finger good lateral finger bad so look
+next time and give that old Simpsons if
+they're doing it wrong and if they're
+doing it right ha because they're still
+fat you're a bad person if you do that
+what are the use cases if your coach has
+an anthropometry certification you can
+check in once a month and get some skin
+folds it probably doesn't tell you what
+your body fat is but it definitely can
+tell you changes over time and they're
+site specific too so that's kind of neat
+to say well like in your like tummy area
+you lost a lot of fat and not as much in
+your thigh area blah blah blah blah blah
+I will say almost always do not use
+these on yourself because you're not
+going to be able to hit the positions
+properly and it's all going to be
+nonsense but you can just do a self
+abdominal skin fold reliably in the same
+place every time every day or multiple
+times a week and you can have the
+skinfold numbers from your last muscle
+gain phase when you're capped off and
+know that when you're hitting them again
+it's time to cap off muscle gain phase
+again so it's kind of like circumference
+for muscle gain phases this is pretty
+decent uh application in muscle gain
+phases as
+well now next now we start to get to the
+good ones mirror scale and strength what
+the hell you're basically doing this
+you're looking at how much you
+weigh how your weight is changing how
+strong you are in the gym for reps and
+how you appear if your weight is down
+you're looking leaner and you're
+strength is at least stable you can be
+really really sure that you're losing
+fat the upside here is that everyone who
+works out has access to all this
+hopefully you have access to a mirror
+and the combination of scale and mirror
+and weight or sorry scale and mirror and
+strength which is you lifting weights is
+really accurate and very reliable so
+it's really awesome because it's three
+measurements in one and if one is off
+and one is weird you're just like I
+don't know what's going on but a lot if
+they're all singing the same song so to
+speak then gee you got a you got a
+really good indicator that your
+something you're doing is working or on
+the other hand not
+working the problem here is that it
+doesn't actually give you a body fat
+percent estimate so just not giving you
+a number so it won't give you a number
+but otherwise it's the best one on this
+whole list because it's accurate and
+reliable and it's also profoundly cheap
+and easy to do so I recommend that you
+get weekly
+averages of all of your strength on all
+the exercises your body weight
+and uh just pay attention to the mirror
+and it's something that you're going to
+be able to rely on if you have no other
+body fat measurement devices this can
+really tell you things like is it time
+for me to start bulking is it or stop
+fat loss diet is it time for me to stop
+my bulking diet and so so on and so
+forth next the 3D scan SLS super
+Advanced new clothes that estimate your
+body fat
+so
+basically what this is is it's a total
+body scanner that oftentimes you just
+put up your phone and it looks at you
+and you just turn around like this with
+your phone looking at you or there's a
+special device that you can go in the
+same area same laboratory that has a
+dexa they put you on this thing and it's
+actually a disc that spins and you stand
+there like this and the dis spins you
+it's really Star Trek like and then it
+just scans the surface of your body it
+creates a 3D rendering and because it
+knows how much you weigh and how much
+volume you take up it can make a density
+calculator
+and uh we know roughly the densities of
+muscle and roughly the densities of fat
+so actually works exactly like the B pod
+and underwater weighing we'll get to
+those in a bit and it can infer how much
+of you is lean and how much of you is
+fat the upside is that you can just do
+it on a phone app or a quick office
+visit it's not invasive it's super easy
+the downside is that they're still
+getting the algorithms correct for
+estimate so for example right before one
+of my shows which I won a whole bunch of
+classes and had stried glutes not my
+last show but the one before that I was
+like 6% or something on the dexa in the
+same room and then on the 3D scanner I
+was like
+18% like uh folks I could have been more
+fat than 6% you don't get veins in your
+glutes at 18% I mean I'd love for that
+to be true it's just not the case so I
+was like holy shit you know dexa really
+is the gold standard so this is just
+terrible and so it's poor deferring
+exact body fat per they're still trying
+to work out the
+algorithms now in the future this will
+be a really really good technology they
+just need a lot more data to get the
+algorithms right and cooperate and also
+it may not be
+amazing in the foreseeable future uh
+probably they'll get this right but it's
+tough when people look different because
+it's used to the average body and and so
+the way it calculates body volume can
+seem to not make a lot of sense when
+it's actually dealing with like someone
+who's jacked just like I don't know what
+the fuck that is and the get all wh
+there's actually a new product where you
+put on this like super slim clothing
+suit this like slick onesie and based on
+I think how much the fibers stretch it
+can actually tell you if you're like
+losing or gaining body fat that seems
+really cool in a few years this will in
+no doubt be the gold standard but it's
+just not there yet so I don't want you
+guys to uh you know if you're like super
+loaded fuck buy one of these and at
+least put it on your generals um but if
+you're not super loaded and stuff I just
+wouldn't go through this because it's
+just you're not going to get the kind of
+data you
+want all right very similar technology
+is the bod pod which is a great name for
+marketing it measures your density
+because you sit in a a little pod it
+looks like a time travel
+device it would be called a time machine
+wouldn't it Dr Mike you sit in there and
+it actually measures how much air was in
+the machine before and then it measures
+how much air is in the machine after and
+the difference between those two is how
+much your fat ass is taking up space
+thus it gets a very good rendering of
+your volume not through Visual
+estimation through direct inference for
+for gas amount which is much much better
+and then what ends up happening is they
+know your body weight because you tell
+them your body weight or they weigh on
+the scale they know how much you weigh
+they know how much volume you take up
+they know your density and they can
+infer that because you have a certain
+density you have a certain amount of
+muscle certain amount of fat so it's
+called a two two compartment model
+doesn't know how much bone you have but
+it sure shit guesses pretty well at
+muscle and fat uh the upside is
+underwater weighing which is coming next
+I think it works the same way except you
+have to dunk you in a water tank the bod
+pod they don't have to dunk you in a
+tank which is sweet the downside is it's
+pretty damn expensive for how not overly
+accurate the device is the kabad pod's
+going to cost you 20 or $30,000 to have
+in your facility on a one-time use it
+often costs as much as a dexa but it
+doesn't give you a whole lot of real
+precise data it's neat as a once a year
+check-in for a transformation or
+something like that um it's not ideal
+for us estimating your specific body fat
+like if you're like I want to know if
+I'm 12% or 15% the sure shit won't tell
+you that I mean here's the bad thing it
+will tell you that but the that it's
+telling you is by no means clear and um
+it's not ideal for monthly tracking
+because the aor bars are about the size
+of anything you could expect to change
+over the month so after a month of
+dieting it can say you did just stay the
+same and you were like what the fuck did
+I do this for nothing in reality you
+lost 2% body fat but it can't pick that
+up or it says you lost 4% body fat and
+you're like I'm a fucking god diet over
+but you're really still kind of fact cuz
+you only lost 1% so the bod pod I'm not
+too excited about but if you have one at
+your gym and once a year you want to
+throw
+uh throw yourself in there when no one's
+looking you have my blessing to do so
+sneak in there
+though don't get nervous if you throw up
+in the bod pod apparently that's bad
+they have to clean it up in any case
+underwater
+Wing same concept as the bod pod as a
+matter of fact the bod pod came later
+what they do is they know your weight
+above water and and then what they do is
+they have you dunk you get in this weird
+serial killer Saw movie looking fucking
+Contraption it's like a pool that's only
+like 4 feet by 4 feet and that's like
+10t deep and there's literally like a
+hanging meat scale underneath the
+fucking water no joke like I said saw
+typically I would say if you see a setup
+like this run but run with a lot of com
+like you guys see this choke blocking
+here from Jiu-Jitsu run with a shitload
+of combat awareness Don't just run
+horror movie Style we know some shit
+comes out of the ground fucking horror
+movies in any case typically I would say
+don't get into one of these things but
+if you have reason to believe you're at
+your school's Kinesiology department and
+not in a horror movie then feel free to
+get in the water is always colder than
+you prefer you sit into the device
+here's the fucked up thing you cross
+your arms breathe in and breathe out as
+you dunk your head below water level
+and ideally you breathe out as much air
+as possible because you want to have
+only like the residual volume of your
+lungs left over because they have an
+equation to estimate how much that
+probably is the more air here's a
+interesting incentive the more air you
+keep in you're like fuck that I'm not
+blowing out my air it makes you seem
+less dense and it increases the body fat
+estimate so you actually have a real big
+incentive to breathe out all your air
+underwater now you may be thinking what
+kind of insane asshole breathe all their
+air out underwater in a fucking saw
+torture chamber and that's one of the
+downsides of underwater weighing it's
+it's weird um it's strange it's from the
+past the good news is oh sorry I didn't
+finish the explanation you're on the
+scale you breathe out all of your air
+they weigh you underwater it's not
+called that for any mysterious reasons
+and then they you weigh of course
+outside of the water and based on how
+different that is because we know the
+density of water we know how dense you
+are
+now Tada pretty
+cool some equations later they say oh
+look roughly this much of you is lean
+tissue and roughly this much of you as
+fat now huge data sets and really good
+calculations and the fact that it's a
+pretty airtight method uh internal
+validity wise make this actually very
+accurate in body fat estimates
+especially if you breathe out all over
+your air but as you breathe out more of
+your air it actually becomes more and
+more accurate which is kind of cool um
+you usually get three or four dunks in
+the thing so you'll dunk it out and
+often they have just a digital readout
+it just goes right away and does your
+shit so you come up you're like what am
+I and they're like 22% you're
+likeu I can do better I can do better
+hold
+on and then uh you know come back up and
+they're like 23% you're like oh my God
+I'm just
+fat so that's how my shit went back in
+the
+day downsides you have to dunk
+underwater and breathe out all of your
+air
+that just doesn't happen for a lot of
+people they see that thing they're like
+I've seen saw fuck that fuck you I'm
+out huge facility construction that you
+need to have one of these you need a
+whole room for it with fucking water and
+the water you need to clean and all this
+other stuff it's a fucking swimming pool
+you need space you need maintenance cost
+you need a license like license you need
+an experienced operator to run the whole
+computer system and futs with the water
+and calibrate the thing it needs a lot
+of calibration it's finicky so it's uh
+used to be used for a lot of laboratory
+research that's really its only use case
+and typically it's not even used for
+that anymore they're decommissioning all
+of them because the dexa is now the gold
+standard and just use aexa because it
+doesn't you know try to drown you it
+only shoots X-rays at your
+body speaking of which the dexa is next
+dual x-ray emission
+absorptiometry the dexa shoots X-rays at
+your body and it sees how many of them
+bounce off the plate and come back to
+the device to the sensor
+and because they go through your entire
+fucking body they can estimate density
+really really well this is based off of
+equations that they've tested a lot with
+the dexa used to be okay at body fat
+estimation now it is superior the dexa
+is very accurate it can tell you within
+a one or 2% now trending towards 1%
+error what your body fat really
+is it is relatively quick you lay on the
+device for like 10 minutes and it's kind
+of cool if
+the plate moves it's really futuristic
+you feel like you're getting upgraded
+like like Frieza and Dragon Ball Z after
+Goku fucked them
+up
+um it's segmental which is real dope
+like it splits you up into right arm
+left arm right leg left leg and trunk it
+gives you an estimate for how much
+gynoid atopos you have how much of your
+fat is like in your ass and thighs and
+how much of it is Android which is like
+gut and stuff like
+that um yeah gynoid think Shakira
+Android think local construction worker
+beerbelly guy and it also estimates very
+well bone mass and apparently every time
+I go on the decka they're like we've
+never really seen a bone mass as high as
+yours and then I'm like TAA look at my
+head and they're like right you know
+Mike growth hormone is not something
+you're supposed to be drinking and
+bathing
+in they've told me so many times in any
+case there are
+downsides it costs like $100 per scan so
+it's not super cheap but not so
+expensive another downside is you might
+not have one near you you know uh
+they're not everywhere they're certainly
+more and more of them all the time and
+you do need to acquire a nuclear
+Regulatory Commission license to operate
+one because it's technically radioactive
+uh in the sense that it shoots x-rays
+it's not a big deal so good luck getting
+that shit although uh apparently we know
+people who are private individuals
+who've been able to secure one of these
+and um I guess yeah it does cost
+$775,000 and I think $5,000 a year for
+the people to come and make sure it's
+working all the
+time so it's not something you want to
+buy but something if you have a facility
+around you it's cool to
+use finally it's the first thing in our
+list which validly guesses your body fat
+very very
+well and I would say a good use case of
+it if you have one around is at the end
+of every fat loss
+phase uh you can just get one and it
+gives you great data on how you've
+changed and it's quite nice I wouldn't
+get one every Mass like muscle gain
+phase and maintenance phase and fat loss
+phase then actually it's not accurate
+enough to pick up all that stuff there's
+going to be a lot of noise how much body
+water you have is a big deal for the
+thing and how much carbohydrate you have
+loaded in the muscle so I would say is
+at the end of a fat loss phase either if
+it's right after the phase is over and
+you've blowed it up a little bit like a
+one week after or one week before the
+end or the day of pick the same relative
+time frame every fat loss phase and
+repeat the dexa like
+that all right lastly my personal person
+Al favorite MRI which stands for
+magnetic resonance
+imaging and uh the MRI machine you guys
+have all been to the hospital I'm sure
+and have seen one it is insanely
+accurate by far it shits on the dexa an
+MRI machine can actually get your body
+fat and muscle mass uh from what I
+understand down to close to the gram
+which is like fucking insane there are
+downsides however it costs like a
+zillion dollars I mean I think the
+machine costs million ions of dollars
+and it cost like $700 to turn on and off
+once or some shit like that even if you
+have stacks of fucking cash like your
+boy it's really hard to just get access
+to one you don't just show up to the
+hospital and say hey like I'm trying to
+use that for body fat usually there's
+patients with actual diseases the stupid
+shit they tell me when I try to get in
+there I even crashed a Lambo in there
+one into a machine one time to prove a
+point and I still didn't get access they
+said something about the machine was
+broken cuz I crashed a Lambo in it I
+stopped listening when poor people talk
+to me I'm I Drake them
+speak to one of my
+Butlers and the butler just gives him a
+a business card and walks off boom
+problem solved use cases for an MRI
+medical grade research sometimes they'll
+do some xviz research where they like
+put one limb in
+there and uh that is really great to
+measure small changes in hypertrophy and
+fat Mass limb to limb over the course of
+several months I have seen some studies
+on that outside of that the MRI is just
+in here to tickle your pickle a little
+bit and I don't know hopefully we'll all
+get rich enough to be able to afford
+MRIs and just be able to get like a fat
+Mass uh exact to a few grams all the
+time that'd be sweet can you imagine you
+like uh get in there and you're like oh
+this fat you go have like two pizzas you
+get back in there and it's like yeah
+you're fatter fuck it happens so
+fast all right so to wrap this all up
+what should you be using here's my best
+gold standard recommendation tape measur
+is totally cool to use especially for uh
+top end cut offs from muscle gain phase
+if you're like two times a week your
+weekly average that you're using for the
+um even over the course of two weeks if
+you're hitting to that range that last
+muscle gain phase you said like that
+this is as fat as I like to get then
+you're good to go so let me just explain
+really quick if I've been a bit too
+brisk with how this process works in
+your next mass mass phase Mass gaining
+phase the entire time or in the second
+half start to just get your
+circumferences right with a tape measure
+just over your belly but get good at you
+know the same tightness and stuff like
+that and just start writing them down do
+this like three times a week or even
+every
+morning at some point so this doesn't
+tell you where where you should stop
+your Mas ging phas but just keep writing
+them down at some point through the
+mirror and through your wheezing when
+you go upstairs you're going to be like
+that's it I'm done bulking when you say
+I'm done bulking look back at the last
+week of measurements and find out what
+the average is it'll be like whatever
+like 45 cmet or something should make it
+enough you'll do a cut the number will
+reduce you don't even have to to track
+it on a cut you can if you
+want when you're coming back up and
+bulking you're saying all right I'm
+going to bulk you know you don't want to
+get fatter than last time let's say you
+know there was last cut off point was
+good you like faint semblance of abs and
+you're like that's good enough so as you
+do the muscle gain phase through the
+entire thing or at least the second half
+start three times a week or every day
+start to measure your circumference
+around your belly button and it'll be
+like you know 35 CM 36 blah blah blah 37
+38 blah blah and then at some point is
+going to be like oh like 45 like last
+time and if that happens two times in a
+row or two weeks in a row you're like
+that's it I'm as fat as I was last time
+cutting it off it's objective which is
+really cool because the mirror can play
+tricks on you like at lighting is
+different and I don't know I kind of
+still my arms are lean if you do this
+it's a Surefire way to keep good track
+you don't have to do it but it's a good
+idea now scale mirror of strength
+everyone everywhere all at once should
+be doing this this is the thing to do
+you should be looking at the scale to
+keep track of body weight you should be
+looking at the mirror to keep track of
+sexiness and you should be looking at
+your weights and Reps to keep track of
+performance to let you know like are you
+losing muscle or are you gaining muscle
+losing muscle your performance goes like
+this gaining muscle your performance
+goes like that maintaining muscle your
+performance goes up slowly for a few
+months and then it flat
+lines dexa after every major fat loss
+phase a de is a good idea if you have
+one around again it has to be done under
+the same refeed conditions so either do
+a Deo a week before your fat loss is
+over the day before the day over the day
+after or a week after or something but
+it has to be the same time frame every
+single time what you don't want to do is
+last fat loss phase you got aexa the
+week before and this fat loss phase you
+got AA the week after and you're like I
+gained eight pounds of muscle no you
+fucking didn't you refed and got
+glycogen into your muscle cells and the
+glycogen actually expands your muscles
+and the dexa still shoots the X-ray
+through the muscle and it goes that's
+muscle and it thinks your muscles are
+bigger so
+don't do that because then you'll have
+just crazy elusory measurements and you
+won't have any reliability which is
+exactly the thing you want out of a
+dexus to tell you am I changing in the
+direction I want from one time to
+another now lastly digital visual scan
+there are a few companies doing this
+Amazon tried to do it I think it went
+nowhere this is the future of the
+industry and it just needs a few years
+to mature and I think it's going to be
+really great I will try to update you
+guys about uh Tech advances in the
+fitness space if they make any sense and
+if you have any questions about new tech
+and the fitness space throw them in the
+comments uh anytime you like and maybe
+if we see them we'll be like oh that's
+interesting we're going to call those
+companies we trying to get the shit for
+free if your boy can't get it for free
+to test it's not going to happen it's
+not a video we got a budget around here
+and uh I'll just try to weigh in uh when
+some good shit comes around all right if
+you guys enjoyed this please like
+subscribe consider joining our members
+section or our what's that called Scott
+not members yeah members you guys are
+subscribers already and if you're not
+hit the Subscribe button if if you want
+to be a member there's cool nerdy videos
+that are extra we put them up all the
+time we actually usually overd deliver
+how many videos we promise one video a
+week but it's usually more and uh having
+a whole lot of fun oh and the RP
+hypertrophy app download it it's sweet
+see you guys next time
