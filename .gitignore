@@ -3,3 +3,5 @@ sequence_classification/customer-complaint-classification_DistilBERT/models
 sequence_classification/customer-complaint-classification_DistilBERT/consumer_complaints.csv
 chatbot/eng_chatbot/.venv
 chatbot/ideas.txt
+.venv
+RAG/rag-fitness-coach/data/*
