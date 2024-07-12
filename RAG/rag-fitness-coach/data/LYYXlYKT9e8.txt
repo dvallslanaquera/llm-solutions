@@ -1,0 +1,358 @@
+There are probably an infinite number 
+of ways to train for hypertrophy.
+Broadly, most people seem to perform the same 
+weekly workouts, at least for a few months.
+But, alternatively, an individual could randomly 
+change their training variables across workouts.
+In one session you may perform more 
+sets on your exercises than usual,  
+the next session you may 
+use a different rep range,  
+the session after this you change your rest 
+interval durations between sets, and so forth.
+The common justification behind frequently  
+changing training variables relates 
+to confusing or shocking the muscle.
+The idea is usually presented as follows: your 
+muscles very quickly adapt to a given stimulus,  
+meaning training with the same routine 
+week after week makes a plateau inevitable.  
+To avoid this, frequency changing 
+training variables is necessary  
+to keep your muscles guessing 
+and exposed to the unknown.
+This idea is described in many articles online.
+Even bodybuilders, such as Arnold, 
+can be found discussing this.
+So, does frequenctly changing training 
+variables stimulate more muscle hypertrophy?
+A new study by Fox et al. gives us an insight.
+The researchers reported their results across 
+2 different papers. So when discussing the  
+results later, I would have pulled these 
+results from the two different papers.
+20 men with an average age of 26, with an 
+average of 2.5 years of training experience,  
+were recruited.
+Each subject had one leg assigned 
+to a variation condition,  
+and their other leg assigned 
+to a constant condition.
+Subjects trained both legs twice 
+per week for a total of 8 weeks.
+With the leg assigned to the constant 
+condition, each training session,  
+they performed 4 sets of 9-12 repetitions 
+to failure on the unilateral leg press,  
+and 4 sets of 9-12 repetitions to 
+failure on the unilateral leg extension.
+They rested 2 minutes between 
+sets, and loads were adjusted  
+each set and over sessions to ensure 9-12 
+repetitions to failure were performed.
+With the leg assigned to the variation condition, 
+each session, subjects performed either one of  
+4 different training protocols in 
+a randomized and balanced fashion:
+The first training protocol varied repetition 
+numbers. It had subjects perform 4 sets of  
+25-30 repetitions to failure on the unilateral 
+leg press, and 4 sets of 25-30 repetitions to  
+failure on the unilateral leg extension. 
+2 minutes of rest between sets was used.
+The second training protocol varied set 
+numbers. It had subjects perform 8 sets of  
+9-12 repetitions to failure on the unilateral 
+leg press, and 8 sets of 9-12 repetitions to  
+failure on the unilateral leg extension. 
+2 minutes of rest between sets was used.
+The third training protocol varied contraction 
+type. More precisely, it had subjects perform  
+4 sets of 10 eccentric contractions on 
+the leg press and 4 sets of 10 eccentric  
+contractions on the leg extension. The load used 
+to perform these eccentric contractions was 110%  
+of the load they would have 
+used during normal repetitions.  
+2 minutes of rest was also used 
+between sets in this session.
+The fourth and final training protocol 
+varied rest interval duration.  
+It had subjects perform 4 sets of 9-12 
+repetitions to failure on the leg press and  
+4 sets of 9-12 repetitions to failure on the leg 
+extension, with 4 minutes of rest between sets.
+So, just to restate and make everything 
+clear, the constant condition used the  
+same training variables every session, 
+while the variation condition did not.
+Rather, the variation condition involved 
+performing either one of four different  
+training protocols in a session in 
+a randomized and balanced fashion.
+After the 8 weeks of training, 
+vastus lateralis cross-sectional area  
+increased similarly between both the 
+variation and constant conditions.
+Increases in cross-sectional area of muscle 
+fibers obtained from the vastus lateralis  
+were also similar between both the 
+variation and constant conditions.
+The researchers also measured 
+an array of things within the  
+muscle fibers obtained from the vastus lateralis.
+Perhaps the most interesting thing they found 
+was how the two different training conditions  
+impacted the space taken up by 
+myofibrils within the muscle fibers.
+Before detailing what was found, 
+it's worth ensuring we understand  
+what myofibrils are as well as the 
+rest of what makes up muscle fibers.
+Within muscle fibers are myofibrils. Myofibrils 
+consist of an array of units called sarcomeres.  
+Sarcomeres are what generate force. That is, 
+they are what generates a muscle's force.
+Everything aside from the myofibrils within the 
+muscle fiber can be considered the sarcoplasm.  
+The sarcoplasm is largely water, but within 
+it also resides components like glycogen,  
+sarcoplasmic proteins, and other 
+non-contractile organelles.
+Returning to the study's findings, 
+before the training intervention,  
+the muscle fibers from the vastus lateralis 
+were comprised of around 70% myofibrils.
+By the end of the training intervention, 
+the constant condition still had roughly 70%  
+of their vastus lateralis 
+fibers comprised of myofibrils.
+However, the variation condition's vastus  
+lateralis muscle fibers now 
+only contained 61% myofibrils.
+What does this mean?
+Recall that both conditions experienced similar 
+increases in cross-sectional area of muscle fibers  
+obtained from the vastus lateralis. That 
+is, muscle fiber hypertrophy was similar.
+Given the constant condition saw no change in 
+the relative space taken up by the myofibrils  
+(it remained at roughly 70%), muscle 
+fiber hypertrophy was achieved  
+via proportion growth of the 
+myofibrils and sarcoplasm.  
+In other words, the myofibrils and sarcoplasm 
+grew at the same pace, resulting in the  
+myofibrils still occupying the same relative 
+space (again, 70%) of the muscle fiber.
+This type of muscle fiber hypertrophy, 
+where the myofibrils and sarcoplasm  
+both grow at the same pace, can be called 
+"conventional" or "myofibrillar" hypertrophy.
+Contrasting to this, given the 
+variation condition saw a decrease  
+in the relative space taken up by the 
+myofibrils (from roughly 70% to 61%),  
+muscle fiber hypertrophy for this condition would 
+have been achieved via the sarcoplasm growing  
+relatively more than the myofibrils, resulting in 
+the myofibrils now taking up less relative space.
+This type of muscle fiber hypertrophy, 
+where the sarcoplasm grows relatively  
+more than the myofibrils, can be 
+called "sarcoplasmic" hypertrophy.
+As a side note, sarcoplasmic hypertrophy does not 
+mean the myofibrils decreased in size. Rather,  
+they might have grown to some degree, or they 
+may not have grown at all. The key point with  
+sarcoplasmic hypertrophy is just the sarcoplasm 
+grew relatively more than the myofibrils,  
+which is why the percentage of space 
+occupied by the myofibrils decreases.
+To summarize the key findings of the study, 
+frequently changing training variables does  
+not produce more hypertrophy versus training with 
+the same routine, but it is not any worse either.
+Therefore, this study does not support the 
+notions of muscle confusion or shocking.
+Intriguingly, despite similar 
+magnitudes of hypertrophy,  
+the type of hypertrophy at the muscle fiber 
+level seemed to differ between conditions.
+Frequently manipulating training variables 
+appeared to produce sarcoplasmic hypertrophy,  
+while maintaining the same training variables 
+appeared to produce myofibrillar hypertrophy  
+(also called conventional hypertrophy).
+Why would this be the case?
+Currently, it's not clear whatsoever. The research 
+on what occurs within muscle fibers is very much  
+in its infancy, and it's very difficult 
+to scientifically pinpoint why certain  
+training methods would cause sarcoplasmic 
+hypertrophy or myofibrillar hypertrophy.
+But allow me to share one speculation.
+Myofibrillar hypertrophy, as it 
+involves proportional growth of  
+the myofibrils and sarcoplasm, would most 
+likely be quite beneficial for strength,  
+as remember, the myofibrils 
+are what generate force.  
+Perhaps training with a constant routine and 
+overloading by progressing load (which is what  
+the constant condition more or less involved) 
+is conducive towards this type of hypertrophy.
+Conversely, the variation condition actually ended 
+up accumulating more volume load (the product of  
+sets x reps x load) by the end of this study. 
+Perhaps this, the fact it involved more work,  
+was more conductive towards sarcoplasmic 
+hypertrophy. I speculate this is as  
+although it's far from clear what drives the 
+disproportionate sarcoplasm growth relative  
+to myofibril growth (which we know is what 
+sarcoplasmic hypertrophy is), it's possible  
+an increase in energy generating components 
+within the muscle fiber could be involved.
+I should again note this is purely speculation.  
+As noted earlier, the researchers did measure an 
+array of things within the muscle fibers obtained  
+from the vastus lateralis. We explored 
+the myofibril space measurements already.
+But, they also found that a range of 
+energy-generating components within the sarcoplasm  
+was unchanged by either training condition, 
+while total sarcoplasmic protein concentrations,  
+perhaps paradoxically, actually only 
+increased with the constant condition.  
+These details POTENTIALLY oppose 
+the notion the variation condition's  
+sarcoplasmic hypertrophy would be explained by 
+an increase in energy generating components.
+Overall, I think the findings of 
+this study are extremely interesting.  
+It emphasizes how although two different 
+training programs may produce similar whole  
+muscle hypertrophy or similar fiber hypertrophy, 
+the changes within the fiber may not be identical.
+This makes me think about the broader resistance 
+training literature, where it's common to see two  
+training protocols producing similar 
+whole muscle or fiber hypertrophy.
+For example, light loads (30% one-rep max 
+loads) have been shown to produce similar  
+whole muscle and fiber hypertrophy 
+to heavier (80% one-rep max) loads.
+In some other areas, different training 
+frequencies and volumes have also been  
+shown to be similarly effective 
+for whole muscle hypertrophy.
+Despite this, I wonder if growth within the 
+fibers is different between these various things.
+Ultimately, the research of exploring what 
+occurs within muscle fibers is in its infancy,  
+and it will be extremely interesting 
+to how this research area develops  
+in the future and the potential 
+implications it may put forth.
+Before closing out the video,  
+I think it's worth touching on some 
+noteworthy limitations of the study.
+Firstly, there were actually some 
+measurement disagreements. Let me explain.
+We already detailed how training impacted 
+the space taken up by myofibrils within  
+the muscle fibers. These measures were done 
+via something called phalloidin staining.
+However, using a method called SDS-PAGE, the 
+researchers aimed to determine the amount of  
+actin and myosin heavy chain per mg of wet 
+tissue from the vastus lateralis fibers.
+Actin and myosin heavy chains are 
+both proteins found within myofibrils.
+If we saw no change in the amount of actin or 
+myosin heavy chain per mg of wet tissue after  
+training, unless I'm mistaken, this fundamentally 
+implies these myofibril proteins still take up the  
+same relative space within the muscle fibers. 
+This is indicative of myofibrillar hypertrophy.
+Conversely, if the amount of actin or myosin 
+heavy chain per mg of wet tissue DECREASES after  
+training, unless I'm mistaken, this fundamentally 
+implies these myofibril proteins take up less  
+relative space within the muscle fibers. This 
+is indicative of sarcoplasmic hypertrophy.
+What the researchers found was the amount of 
+actin per mg of wet tissue decreased for the  
+variation condition, while it remained 
+unchanged for the constant condition.  
+This indicates the variation condition 
+perhaps experienced sarcoplasmic hypertrophy,  
+while the constant condition 
+experienced myofibrillar hypertrophy.  
+As we know, this is in line with the 
+conclusions from the phalloidin staining.
+However, the researchers found that the 
+amount of myosin heavy chain per mg of  
+wet tissue decreased both for the 
+variation and constant conditions,  
+thereby potentially implying both 
+conditions saw sarcoplasmic hypertrophy.
+Unless I've misinterpreted 
+something, this is conflicting,  
+and it's difficult to reconcile these measurement 
+disagreements. I believe different tissue samples  
+would have been used for these various measures, 
+so this might play some explanatory role.
+The second noteworthy limitation is 
+the potential sarcoplasmic hypertrophy  
+experienced by the variation condition 
+COULD merely be a result of swelling.
+Allow me to explain.
+In response to lifting weights that produce 
+a high amount of muscle fiber damage,  
+muscle fibers can swell for 
+numerous hours and days after.
+This swelling is a build-up 
+of water within muscle fibers,  
+and thus technically can be 
+considered sarcoplasmic hypertrophy.
+This swelling is only transient 
+and dissipates eventually.
+When lifting weights for weeks on end, your 
+body does incrementally adapt such that the  
+amount of muscle damage it experiences 
+after training decreases over time.
+The adaptations produced by 
+your body to be resilient to  
+damage have been called the repeated bout effect.
+However, and this is the key point, 
+the repeated bout effect is likely best  
+when you are consistently training with 
+more or less the same training variables  
+(which is what the constant condition involved).
+When frequently changing training variables 
+(as the variation condition involved),  
+it's likely the repeated bout effect 
+would occur to a lower extent.
+Based on this, perhaps the variation condition has 
+notable muscle swelling after the study (due to  
+muscle damage), thus explaining the sarcoplasmic 
+hypertrophy measured by the researchers.
+Stated another way, it was not 
+true sarcoplasmic hypertrophy.
+The researchers took their measurements 
+3 days after the final training session,  
+but it's not clear if this 
+timeframe is sufficient to allow  
+any potential swelling to disappear under 
+the training intervention's circumstances.
+Ultimately, this all is merely 
+speculation, it might or might not be true. 
+Unfortunately, the researchers did not 
+take any measurements to assess if swelling  
+could have confounded the results, so 
+nothing definitive can be concluded.
+Anyway, Thank you for watching, 
+I truly hope you found the video  
+interesting and informative in some way!

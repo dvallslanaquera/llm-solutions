@@ -1,0 +1,332 @@
+Failure is defined as the inability to perform 
+another full repetition of an exercise.
+How close an individual gets to failure 
+with their repetitions is probably one  
+of the more hotly debated training variables.
+Some propose achieving failure is 
+critical for muscle hypertrophy,  
+as it ensures maximal muscle fiber 
+recruitment and force production.
+In this video, we'll assess the soundness 
+of this claim via the current training  
+to failure literature as well as the 
+mechanistic research on muscle hypertrophy.
+Kicking things off, 4 well-designed 
+papers have compared training to  
+failure to stopping a couple of reps 
+shy of failure for muscle hypertrophy.
+Let's briefly overview them.
+A 2018 Brazillian study by Lacerda et al. had 10 
+previously untrained men train the unilateral leg  
+extension for 3-4 sets with a 55-60% one-rep 
+max load, 2-3 times per week for 14 weeks.
+With one leg, subjects performed their 
+repetitions to failure every set.
+With their other leg, they ended up stopping 
+2 reps away from failure in the first set in  
+a session, 1 rep away from failure in the second 
+set, and 0 reps away from failure in the last set.
+By the end of the study, increases in rectus 
+femoris and vastus lateralis cross-sectional area  
+were similar between both legs, 
+suggesting stopping 2-0 reps away  
+from failure is as effective as 
+training to failure for growth.
+The second study by Nobrega et 
+al., conducted in Brazil in 2017,  
+allocated each leg of 32 previously untrained men 
+into one of four conditions: a high load failure,  
+high load non-failure, low load failure, 
+and low load non-failure condition.
+All four conditions involved training the 
+unilateral leg extension for 3 sets per session,  
+twice per week for 12 weeks.
+The high load failure condition 
+involved performing repetitions  
+to failure every set with an 80% one-rep max load.
+The high load non-failure condition, also with 
+an 80% one-rep max load, involved performing  
+repetitions to just before they felt they were 
+going to fail. Based on the data provided,  
+it's likely this ended up being 1 to 3 
+repetitions away from failure per set.
+The low load failure condition 
+involved performing repetitions  
+to failure every set with a 30% one-rep max load.
+The low load nonfailure condition, 
+with a 30% one-rep max load,  
+involved performing repetitions to just 
+before they felt they were going to fail.  
+Again, this likely ended up being 1 to 
+3 repetitions away from failure per set.
+By the end of the study, increases in vastus 
+lateralis cross-sectional area were similar  
+between all four conditions, indicating regardless 
+if an 80% or 30% one-rep max load is used,  
+stopping 3 to 1 reps away from failure is no less 
+effective than training to failure for growth.
+As a separate point, it's worth noting this 
+Nobrega study nicely demonstrates a point we've  
+covered in other videos, that loads as light as 
+30% one-rep max can build muscle very effectively.
+Moving on to the third paper, a 2015 
+Australian study by Sampson & Groeller  
+had 28 previously untrained men 
+perform a bicep curling-like exercise  
+for 4 sets with an 85% one-rep max 
+load, three times per week for 12 weeks.
+One group of subjects performed all their 
+sets with repetitions to failure with a  
+2-second lifting and 2-second lowering speed. 
+This group ended up averaging 6 reps per set.
+A second group performed only 
+4 repetitions per set with a  
+2-second lowering and maximal lifting 
+speed. Based on the numbers provided,  
+this group would have been an average of 
+2 repetitions away from failure each set.
+A third group also performed 
+only 4 repetitions per set,  
+but they used a maximal lowering 
+and maximal lifting speed.  
+This group would have also been an average 
+of 2 repetitions away from failure each set.
+Although not major, there are some 
+slight limitations with this study.
+As you likely noticed, the three different 
+groups used different repetition speeds,  
+which is potentially confounding. However, 
+as described in our time under tension video,  
+individual repetition speeds between 0.5-8 seconds 
+appear similarly effective for muscle growth,  
+so the use of different repetition speeds in 
+this study is probably not a major concern.
+Also, groups two and three, who both stopped 
+roughly 2 reps away from failure each set,  
+actually performed an additional one 
+set of repetitions to failure each week.  
+However, I doubt this would 
+significantly impact the outcomes.
+Anyway, by the end of the study, increases in 
+elbow flexor cross-sectional area (consisting  
+of the biceps and brachialis) were 
+similar between all three groups,  
+suggesting stopping 2 reps away from failure can 
+be comparably effective to training to failure.
+As a small summary thus far, these three 
+studies overviewed indicate stopping 3  
+or fewer repetitions from failure can be 
+equivalently effective for building muscle  
+versus training to failure.
+However, all three of these studies were 
+conducted on previously untrained individuals.  
+One could suggest these results should be expected 
+in untrained individuals, as they would be highly  
+responsive regardless of how close they get to 
+failure with their repetitions on an exercise.  
+They may suggest that different results 
+may arise in trained individuals.
+Fortunately, the fourth paper, a 2020 Brazillian 
+study by Santanielo et al. was conducted on 14 men  
+with an average of 5.1 years of 
+training experience. They had an  
+average body weight of 74.4kg and could leg 
+press an average of 237.5kg before the study.
+Subjects trained both the unilateral 
+leg press and unilateral leg extension,  
+twice per week for 10 weeks.
+A great thing about this study was the 
+researcher's individualized set numbers.  
+More precisely, the researchers noted how many 
+sets per week the subjects performed for the  
+quadriceps before the study, and then the subjects 
+performed 20% more for the study's duration.
+For example, if a subject performed 15 weekly 
+sets for the quadriceps before the study,  
+they performed 18 weekly sets (a 20% 
+increase) for the quadriceps in this study.  
+These 18 weekly sets were equally divided 
+between the leg press and leg extension.
+With one leg, subjects performed 
+every set with repetitions to failure.
+With their other leg, they performed every 
+set with repetitions to a point before  
+failure. The data provided suggest 
+they mostly ended up stopping their  
+sets around 3 to 1 repetitions away from failure.
+By the end of the study, increases in vastus 
+lateralis cross-sectional area were similar  
+between both legs, suggesting stopping 3 
+to 1 repetitions away from failure is still  
+similarly effective to training 
+to failure in trained individuals.
+So, considering the totality of the current 
+literature, it appears in previously untrained  
+and trained individuals, training to failure 
+is not a must. Stopping 3 to 1 repetitions  
+away from failure appears equivalently 
+capable of eliciting muscle hypertrophy.
+Indeed, these results make sense mechanistically.
+Mechanical tension is currently the 
+best-categorized stimulus for muscle hypertrophy,  
+and it's quite likely stopping 3 
+to 1 repetitions away from failure  
+elicits sufficient mechanical tension levels.
+Let me explain.
+Mechanical tension is equal to the 
+force generated by muscle fibers.
+Components within muscle 
+fibers, called mechanosensors,  
+detect forces produced by the muscle fiber and 
+transduces these forces into a signaling cascade  
+that results in muscle protein synthesis (which 
+are the proteins that make our muscles bigger).
+It's worth exploring the concept of 
+motor units to further understand  
+overall mechanical tension and why 
+training to failure may not be necessary.
+A motor unit refers to a single motor neuron 
+and the multiple muscle fibers it innervates.  
+When the single motor neuron sends an electrical 
+signal through to the muscle fibers it innervates,  
+those muscle fibers produce force.
+Within a whole muscle, a variety of motor 
+units with different characteristics exist.
+In general, these characteristics 
+likely lie across a spectrum,  
+with low threshold motor units on one end, and 
+high threshold motor units on the other end.
+Typically, a low-threshold motor unit consists of 
+a small motor neuron that innervates slow-twitch  
+muscle fibers that produce low amounts of force 
+but are highly fatigue resistant. Due to this,  
+low-threshold motor units are described as 
+highly fatigue resistant but low force-producing.
+A high-threshold motor unit generally consists of 
+a large motor neuron that innervates fast-twitch  
+muscle fibers that produce high amounts of 
+force but are highly fatigable. Therefore,  
+high-threshold motor units are described 
+as high-force producing but very fatigable.
+For maximizing overall mechanical tension (and 
+thus the stimulus for overall muscle growth),  
+we'd want to recruit as many motor 
+units as possible during an exercise  
+(from the low-threshold motor units all the 
+way up to the high-threshold motor units).
+Furthermore, we'd likely want the individual 
+motor units to produce at least decent degrees  
+of their respective force capacities for a fair 
+duration. The precise details of this will differ  
+depending on the motor unit in question. Remember, 
+low-threshold motor units have overall low-force  
+producing capacities but can sustain these forces 
+for a long time. Conversely, high-threshold motor  
+units have overall high-force producing capacities 
+but cannot sustain these forces for very long.
+Here's the main points:
+Firstly, It's not clear when you 
+reach maximal motor unit recruitment,  
+and the motor unit literature indicates 
+this can differ between muscles.
+However, the literature indicates this is 
+likely achieved a fair while before failure.
+For instance, one study suggests maximal 
+motor unit recruitment for the shoulder  
+and trap muscles may be obtained 
+3-5 repetitions before failure.
+Secondly, by the time you've reached failure,  
+it's quite likely many motor units 
+(particularly the high-threshold motor units)  
+are past producing their highest 
+forces and are instead just fatiguing.
+Remember, it's tension (analogous to force)  
+that's categorized as a prime stimulus for muscle 
+hypertrophy. The idea that more motor unit fatigue  
+is beneficial for muscle hypertrophy is 
+not supported by the current literature.
+A motor unit modeling study by Potvin and 
+Fuglevand demonstrates our points nicely.
+Their model included 7 different motor 
+units, ordered in terms of thresholds.
+Motor unit 1 was the lowest threshold motor unit,  
+while motor unit 120 was the 
+highest threshold motor unit.
+The graph on-screen depicts the 
+contribution of each motor unit to a 50%  
+maximal isometric contraction held until failure. 
+The total contraction lasted 100 seconds.
+Except for motor unit 120, all of the other motor  
+units were recruited from 
+the onset of contraction.
+Motor units 1, 20, 40, and 60 produced steady low 
+forces throughout the full contraction duration.  
+This makes sense, these would be 
+considered the low-threshold motor units  
+(which produce low forces but 
+are highly fatigue resistant).
+Motor unit 80, a higher-threshold motor 
+unit, produced its most force for the  
+set at the start of the contraction, 
+where it thereafter gradually fatigued.
+Motor unit 100, a higher-threshold motor 
+unit, continued to increase its force  
+contribution up until the 65-second 
+mark, and thereafter began to fatigue.
+Motor unit 120, the highest-threshold motor 
+unit, was recruited at the 70-ish second mark,  
+and steeply increased its force contribution 
+up until the 95-ish second mark,  
+where it then steeply fatigued.
+This data demonstrates motor unit recruitment,  
+as well as the maintenance of at least decent 
+amounts of respective force production from  
+the individual motor units, is achieved 
+before failure. At the point of failure,  
+no additional motor units nor enhancements 
+in individual motor units force occurred.
+This probably explains why 
+training 3 to 1 repetitions  
+away from failure is sufficient for muscle growth.
+I should restate this data was from 
+modeling isometric contractions.
+Recruitment patterns and strategies 
+likely differ between isometric  
+and the isotonic contractions that 
+occur during your typical exercises.
+However, I'm unaware of any reason to 
+believe that the main point (that failure  
+offers no additional motor unit recruitment or 
+enhancements in individual motor units force)  
+would not also be the same 
+with isotonic contractions.
+In summary, the current literature, 
+as well as mechanistic rationale,  
+likely indicate stopping 3 to 
+1 repetitions away from failure  
+is similarly effective to training 
+to failure for muscle hypertrophy.
+Now, some may be thinking in the real world,  
+away from the laboratory in which 
+researchers can verify proximity to failure,  
+an individual may not actually be able to 
+accurately estimate how close to failure they are.
+For example, an individual may think they've 
+stopped 3 repetitions away from failure,  
+but in actuality, they may have been 5 or 
+even more repetitions away from failure.
+This is a very solid point. In the next video, 
+we'll explore some interesting recent research  
+that can help an individual become more accurate 
+at predicting how far from failure they are.
+In the video after that,  
+we'll be exploring something that many may have 
+been thinking about throughout this video. That  
+is, could stopping more than 3 repetitions away 
+from failure still optimize muscle hypertrophy?
+Specifically, there's some really 
+intriguing velocity-based research  
+that potentially indicates, 
+under certain conditions,  
+training farther than 3 repetitions away 
+from failure could optimize hypertrophy.

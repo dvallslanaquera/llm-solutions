@@ -1,0 +1,1415 @@
+hey guys dr. Marquez all here for
+Renaissance period ization rp+
+& RP university talking to you guys
+today is about so we're continuing on
+with the course of the training
+principles in today's lecture is lecture
+2 simply because lecture one was
+introduction but this is the first
+training principle the most important
+training principle of specificity so
+first we're going to start off with a
+simple definition just to make sure that
+we kind of understand where the rest of
+this talk is going and remember all the
+principles have very simple definitions
+fundamentally but to apply them the best
+we need to know a very deep technical
+definition to make sure we're very very
+much correct in our application we're
+going to talk about the technical
+definition after that we're gonna give
+some examples of how the principle can
+be properly applied possibly over
+applied there is such a thing and under
+applied we're going to talk about a
+couple of sub principles of specificity
+these aren't important enough to stand
+on their own because there's so much
+constrained by the principle of
+specificity but they're definitely
+important enough to list and explain
+without just explaining them within the
+general concept and then after that we
+are going to talk about what programming
+applications that are kind of a way now
+that we know what this principle means
+what does that mean we have to kind of
+the big picture
+watch out for in a programming to make
+sure to do and make sure not to do so
+fundamentally specificity can be defined
+very easily basically if you here's the
+definition if you want to get really
+good at something if you want to improve
+measurably at it your training should
+probably be focused on doing that
+something or should look like the sport
+or ability itself that you're training
+or at least be training its components
+right it's kind of like a relatedness
+sort of thing so whatever you want to
+get good at you had better be training
+something that looks and feels and works
+like the something you're training for
+you can't get too far away or you're
+training to where your training looks
+like nothing what you're training for so
+just to really quick examples soup
+simple definition she's super simple
+examples you know you don't train for
+gymnastics if you want to be good at
+basketball you want to be gonna BES well
+you probably train some components or
+the whole game of basketball and if you
+want to be strong and that's your number
+one goal you don't do distance swimming
+you can also do some distance swimming
+but distance swimming is probably gonna
+get you good at what was it the thing oh
+yeah it's gonna get you good at distance
+swimming and strength training is going
+to get you good at being strong sounds
+super obvious but there are some deeper
+implications for the training process
+that people do violate when they design
+program so it's not quite this it is
+generally this simple but if we look
+into some specifics there are some
+mistakes that can be made so let's go to
+the technical definition here it is just
+going to read it off its super wordy
+technical definition of specificity your
+arrangement of training for a particular
+sport or ability and by that we mean
+like the sport of basketball or the
+ability to be strong because being
+strong is not a sport right has to
+reflect the demands of that sport and/or
+ability by either training them directly
+or at least training the underlying
+systems that support those demands we'll
+talk about what the underlining systems
+are in just a bit but basically training
+should be similar to what it is you want
+to get good at in one or some or all of
+the following ways the kinematic
+similarity should be there right the
+actual positions and velocities of how
+your body moves around the kinetic
+variables should be similar what kind of
+forces you are exerting and are being
+exerted upon you have to be similar and
+bioenergetic variables what pathways are
+you using to produce ATP is it going to
+be the phosphocreatine pathway for
+explosive performance the glycolytic
+pathway for intermittent performance or
+is it going to be the oxidative pathway
+for a performance that involves longer
+duration or some combination of those
+that should reflect fundamentally what
+it is you're training for so for example
+in kinematics runners should probably
+stick to running or something that looks
+a lot like it because that motion of
+running has to replicate the
+act of actually running in competition
+to transfer best to training strength
+athletes on the kinetic side and the
+fourth set of things are asked to
+present hi
+sometimes maximal forces so a lot of
+their training the core of their
+training should have them lift heavy
+things to produce high forces if you're
+a strength athlete but you don't produce
+a lot of high forces and training you
+are misunderstanding the specificity
+principle and leaving a lot of gains
+kind of on the table instead of making
+sure to outline your training properly
+and then an example of the bioenergetic
+alignment you know a wrestler has to
+buffer a lot of lactic acid right a
+lactic acid builds up from grappling and
+if you buffer it properly it doesn't
+build up as high they're also you know
+in times of less activity or during
+breaks in the match it can really go
+away you can get more of your
+performance back wrestlers should be
+pushing that lactate threshold in
+practice so that they can be better at
+that exact thing in the actual
+competitions for which they're trained
+so there's a small caveat to it this
+very direct specificity can be violated
+on occasion only if that violation at
+least trains the underlying systems that
+support those direct abilities so for
+example football is a sport in which we
+don't exert ourselves for 40 seconds at
+a time it is a sport in which we exert
+just for several seconds at a time
+really fast running really hard hitting
+tackling etcetera so if you train just
+specifically in a narrow minded approach
+to football you're gonna get very
+powerful and very strong very fast but
+you might be missing out on some muscle
+size to make you even stronger more
+powerful and more fast especially when
+opponents are resisting your movement so
+hypertrophy training which is
+characterized by you know set durations
+that you know can be 30 seconds to a
+minute in length and of course the load
+is going to be less than what you would
+experience on the field getting hit to
+submaximal because you're doing it for
+reps seems like a violation of
+specificity but what we're doing in
+hypertrophy training for football and
+why it does fit into the grand
+architecture of the specificity
+principle so we're training an
+underlying mechanism that is incredibly
+important in football which is muscle
+size the muscle size then potentiates
+strength improvement it potentiates how
+much ballast we carry so we can't be
+moved around as much and it potentiates
+power and speed so muscle specific
+training hypertrophy training isn't
+directly specific to football but it is
+specific in the grand scheme because it
+does support an underlying ability
+whereas if we trained football players
+by making them do distance swimming well
+neither the swimming nor the ability to
+have a very profound level of endurance
+past two minutes of play is a really
+important American football I mean the
+average play lasts a couple of seconds
+you get plenty of breaks in between
+plays there's no reason to be able to
+train yourself to do a repetitive
+basically cyclic effort for a long time
+doesn't pay off and as a matter of fact
+we'll learn later that might cost you to
+some extent so if it trains the actual
+activity are very similarly great that's
+specific and if the training modality
+trains the some underlying
+characteristics that transfer very well
+to our actual activity and help it
+that's okay too
+specificity for the reason quite kind of
+that there is direct specificity and a
+little bit of indirect is a spectrum so
+for example what is most specific to
+competition bench-pressing for one rep
+max what kind of training mm the kind of
+training is most specific is competition
+bench-pressing
+for one hour max with the exact rules of
+the actual bench press competition sets
+of three a little bit less specific
+that's a five a little bit less specific
+sets of eight with a wide grip a little
+bit less specific still dumbbell presses
+less specific still overhead presses
+even less specific bicep curls to make
+sure that the triceps don't get too much
+stronger the biceps and start causing
+elbow pains less specific still but
+because specificity is a spectrum we're
+not going to be trying to get get rid of
+everything nonspecific we're just going
+to make sure that most of our training
+fits towards that one end of the
+spectrum and if anything on specificity
+is really far down the other end of the
+spectrum we're gonna have to have a real
+good reason why it's there it's gonna
+have to be an underlying systems
+provider and if it's not it might not
+belong in our train
+remember we only have room for so much
+in our training more the specific stuff
+has to be in there than less in addition
+to that the specificity and this is a
+very important point for a part of the
+specificity principle is that the direct
+specificity of training has to increase
+with proximity to competition so if it's
+four months away from your powerlifting
+competition you can do sets of ten and
+the front squad even though that's very
+very unlike what your low bar one or max
+squad training is like but remember it
+does train an underlying system quad
+size which will translate to quad
+strength will translate to a bigger one
+or M squad and you're doing it far away
+from competition as the competition gets
+closer you might switch to sets of three
+or five low bar as the competition gets
+really close you might do doubles or
+singles low bar and then boom you're all
+the way there
+your specificity increases as you
+approach the competition because you're
+taking all the general underlying
+factors and you're wedging them into
+very specific ability you could have the
+same average specificity over the course
+of a macro cycle of training but do it
+backwards and get really shitty results
+so if two weeks after your last meet and
+sixteen weeks before your next one you
+did doubles and triples and a low bar
+squat and then a couple weeks later you
+started doing fives in low bar squat
+then a couple weeks later you started
+doing your a couple months later we
+started doing front squats four sets of
+10 and then you had a competition that
+week after yeah it's a little
+specificities the same triangle is the
+same size right but we flipped it
+inverse and and now it doesn't work
+anymore so big part of specificity is
+that given that not all of your training
+will be directly specific that you have
+underlying systems forth which is more
+general training you want to put more of
+that general training more of the
+variation away from specificity further
+away from the competition as the
+competition is closer you're going to
+want to make training more specific so
+what are some examples just simple
+examples of application well here's an
+example of proper application how to do
+this properly so a gymnast knows kind of
+what routine she needs to do her best at
+her conference championships coming up
+she practices parts of that routine at
+their own sort of time and builds muscle
+in the gym the particular kind of muscle
+that makes those parts easier to do so
+she's you know trying to do like some
+sort of Iron Cross ass or situation then
+she's gonna try to build up her lats etc
+to make sure that it's possible to have
+the strength to do that so on and so
+forth so all of her muscle building
+isn't just working out it's specific to
+making her better at those parts of a
+routine and as her competition gets
+closer and closer she's just putting in
+putting the routine that she has in
+parts together as a whole practice as it
+more often as a whole more often in
+competition pace and then when the
+competition comes she does her best
+course it's possible to over apply
+specificity so what does that mean we
+tell someone about the best specificity
+principle we may also tell them it's the
+most important both of which are true
+they go oh my god and they don't hear
+any other other principles there's a
+couple of six other ones and they think
+oh my god specificity is so important I
+have to make sure I do it right and they
+take it all the way as far as it'll go
+so for example a soccer coach basically
+has all of his practices as a full field
+of play soccer matches every practice is
+a soccer match well what's the problem
+with that it's probably not enough
+training there's an overload problem
+most soccer matches don't involve super
+crazy exertions they involve occasional
+exertions with a lot of waiting and
+strategizing instead of waiting all that
+time if you had small-sided games or
+drills you could work athletes much
+harder and condense more overload and
+training into a shorter time thus
+getting better faster it's almost like
+going to a wrestling going to wrestling
+tournaments instead of wrestling in a
+wrestling room to get better at a
+tournament you spend a whole lot of time
+waiting you spend time getting there you
+spend time looking for snacks in between
+matches you could spend an hour or two
+between matches depending on how you're
+seated is that good part of training no
+of course not is it very specific to the
+tournament yes but does it get you
+better as fast as possible no way so if
+we just played soccer games all the time
+especially a lot of players would get
+really screwed over and overload the
+goalie I mean how many rushes to goal
+are there a couple every game let's say
+maybe 20 shots on goal per game isn't
+crazy and a super competitive
+20 shots on goal that's only 20
+opportunities for the goalie to exert
+and practice and improve upon his skills
+that sucks right one big factor we have
+to realize about specificity is that
+game play is often more often a time to
+show off how good you are not a time to
+improve how good you are games do a much
+better job showing off how good you are
+versus improving the ultimate example
+would be do you get better at body
+building by literally doing body
+building competitions putting oil on
+your body tanning and posing what's a
+small part of it but mostly it's
+training that looks nothing like what
+you're doing on stage is it building the
+underlying system so it makes you better
+absolutely but it's not directly
+specific so we wave or reply specificity
+we forget about variation doing some
+different things every now and again to
+keep ourselves progressing we forget
+about or load training isn't even hard
+anymore because it has to be so super
+specific then we trade off a lot of the
+other we get zeros on a lot of other
+principles big old one on specificity
+and it's too much specificity because
+not because there's anything around too
+much specificity but because we screw up
+all the other training principles and a
+lot of the mistakes we're going to be
+making all these examples of
+over-application are under application
+of training principles is going to be
+basically an over application of one
+usually means under application of some
+others which on the net balance isn't
+negative so there is such a thing as too
+much specificity for sure under
+application example not applying enough
+specificities for example a marathon
+runner runner runs one day week ok
+cycles another day ok so kind of gets
+you in general shape does the elliptical
+on another kind of general adult fitness
+swims on another day and does
+rock-climbing in another day and then
+she's hoping to reduce her marathon
+times well gee that's a lot of not
+running no it's gonna get hurt a good
+general shape but is good general shape
+enough to make it the best marathon
+absolutely not
+ray she's gonna realize that because
+chilly runs one day a week she doesn't
+have that kind of endurance transfer
+that maybe she's gonna have shin splints
+because she's not used to using the legs
+as much and a variety of things that
+just make her not as good her pacing is
+gonna be off because she doesn't have an
+opportunity to practice or pacing nearly
+as much
+so basically the under application of
+specificity a lot of times is the or
+application of a principle we'll learn
+about later which is a variation too
+much variation means your training is
+not specific enough you don't get as
+good as you could have been all right
+into the sub principles so the sub
+principles are kind of play supporting
+roles the kind of slight tangents from
+the principle specificity they still
+make sense in its sort of grand
+architecture but they're definitely
+worth their own discussion because they
+have some cool implications of their own
+that we can't miss so first the
+principle is what we call training
+modality compatibility fact some fact to
+lay this out before we set out the
+principles so there's only a certain
+amount of room in each muscle cell to
+put stuff like the machinery that makes
+you contract or mitochondria that gives
+you endurance you can't have a cell that
+has the most contractile machinery
+possible and the most amount of Condry
+impossible because they literally
+compete for physical space it's like
+saying you want a car that has the
+biggest possible engine that you can fit
+into a car and also you want the car to
+have the ability to seat seven people
+it's just one of the other unless you
+want to make the car bigger right and if
+you want to make the car bigger as you
+made the car bigger now we can make the
+engine even bigger so you never really
+can fill out everything ever because we
+have is working with a certain unit
+there's trade-offs the nervous system
+has a limitation in its ability to be
+functionally flexible more particularly
+the nervous system can be really
+well-trained to save its energy and save
+it's sort of demands on the body and ask
+the muscles to contract maybe not super
+maximally and but with a lot of
+endurance so the nervous system can get
+really good at sort of repetitive tasks
+stimulation like running for ten miles
+the nervous system can be really good at
+telling you to put your leg one in front
+of the other on the other hand the
+nervous system can also get good at
+really really explosive activities
+summoning all of your motor units
+everything in your brain to try to get
+you to have one gigantic explosion of
+effort
+it's a jump or a push or throw if it
+gets really really good at one of those
+things it's literally using the same
+systems and structures and circuits that
+it would be to get really really good at
+the other one of those things you can't
+be the best at both because you're using
+the same thing it's like having your
+computer be full of all sorts of word
+processing programs and programs for
+designing all kinds of presentations and
+you know Adobe Photoshop and stuff and
+also at the same time having your
+computer be optimized for gaming and
+online gaming there's only so much room
+in your hard drive in your processor can
+only eat out so much you kind of gotta
+pick which one you really want to
+prioritize we could you have a computer
+that does both okay but not either one
+of those the best right because if you
+have a gaming computer that's supposed
+to have everything free except for you
+know programs to make the gaming
+experience go well you know you load up
+a bunch of other crap on there
+especially if you have it running at the
+same time and your gaming experience is
+gonna slow down significantly and vice
+versa so same thing in the brain as a
+computer it only has a certain finite
+amount of resources there got to try to
+get you muscles to do as much of
+everything they can there's some
+competition there in functionality in
+addition there is only so much
+contractile tissue you can ask for body
+mass so we'll come back to the cell
+example you can stuff a whole lot of
+mitochondria into cells and not have a
+ton of contractile tissue so the muscle
+cells are really good at endurance but
+they don't exert a lot of force they
+don't have the mechanics to literally
+produce much force but they're super
+awesome and endurance at low levels of
+force on the other hand you could have
+very little mitochondria in a muscle
+cell when a whole lot of contractile
+machinery great for force production or
+explosion super crappy at endurance
+because the mitochondria literally
+produce most of the energy that we need
+for endurance activity and they're just
+not really around in sufficient amount
+to replenish that kind of volume of
+activity so you can say okay well why
+don't I just have a whole bunch of both
+kinds of muscle fiber types well let's
+say you want to be the best combination
+thrower slash endurance runner you could
+have a whole lot of slow twitch fibers
+for the running side and a whole lot of
+fast food showers to the throwing side
+but because you're going to need a
+certain number of fast twitch fibers
+certain amount of muscle fiber that's
+faster twitch to be an elite thrower and
+a certain amount of muscle fiber that
+slow twitch to be an elite run
+without weight down without being
+weighed down by other stuff how the hell
+are you gonna do that you'd have to
+weigh like 400 pounds or let's say 350
+and a whole bunch of slow twitch muscle
+reserved for the running and a whole
+bunch of fast twitch muscle reserved for
+the throwing but then when you're
+running where the hell what the hell
+does the muscle for the throwing do fast
+which muscle doesn't help you at all
+when you're running as a matter of fact
+it can hurt you significantly just by
+accumulating lactate if you run slow
+enough maybe it doesn't activate as much
+and then it just sits there it's like a
+150 pound backpack that you have to
+carry around everywhere you go there's a
+reason marathon runners weigh like 150
+or less pounds is because they
+physically want to carry as much as
+little extra stuff as possible so
+because we're limited to how much
+contractile tissue our body can carry
+and wants to carry because of extra
+weight we can't fill it up with an
+infinite amount of stuff we have to
+choose right so we can't be amazing at
+everything and here's the thing some
+training modalities or specific
+abilities have much less of those
+systems that they use in common some
+have more systems that they use income
+the ones that have less systems that
+they use in common kind of compete more
+for resources and more demand so for
+example if you lived with a roommate and
+you both more or less ate like really
+similar stuff could you just buy in bulk
+and shove all of your food into a pretty
+small pantry and fridge totally because
+the big containers they're nice and tall
+and you can shove them in you could buy
+in bulk and put stuff everywhere no big
+deal there's a lot of overlap between
+what you eat but if you have a roommate
+that's a completely different diet then
+your eating can you fit all the stuff
+well they're gonna buy some stuff like
+just make sense to buy in bulk that
+don't sell in small amounts and soryu
+you can have more overall stuff just
+more different jars of stuff and because
+jar space is we have to have the actual
+can be made of something all of a sudden
+we start to run out of room because
+we're trying to do too many different
+things at once just the same way some
+things for example we'll get more into
+this in just a bit
+endurance ability use some systems and
+some abilities like the ability to be
+very fast
+or powerful we use a lot of the same
+systems so they don't have a lot in
+common and they compete kind of for
+resources to see which one is gonna be
+best thus interfering with each other
+right so if you want to be the best at
+some abilities you have to trade out a
+lot of other abilities if they're not
+compatible with those and if they are
+very compatible then you don't have to
+trade off a lot of those abilities at
+all this is especially true if you want
+to pique those abilities at the same
+time can you be a pretty good physique
+athlete and weight lifter yeah but you
+do physique during the kind of peak for
+a show in July and peak for
+weightlifting show in January and you
+have kind of six months to really retool
+your training to become a really good at
+one while the other sort of suffers but
+if you try to peak at the same time
+let's say you have a weightlifting meet
+in July and a week later you have a
+bodybuilding competition geez that's a
+lot of competitive demands and you're
+not gonna be very good at either one of
+those things so there are definitely
+some abilities that are more compatible
+than others and fundamentally it's
+always a trade-off so let's talk a
+little bit more about this if you want
+to do concurrent training training for
+two or more things at the same time to
+get as good as possible what are some
+limiting factors well first training
+time why can't you get good at both
+things to their maximum abilities so you
+are either training for one thing or you
+training for another thing right for the
+bodybuilding weightlifting example you
+do it snatches and cleaning jerks you do
+a lateral raises an upright Road you
+can't very well do both at the same time
+so if you want to fit in everything it
+takes to be the best weight lifter and
+everything it takes to be the best
+bodybuilder you have run over the amount
+of time you have to train in a week okay
+so we can't train infinitely in a week
+let's say we can train 10 hours we're
+gonna have to remove some weightlifting
+training and remove some bodybuilding
+training
+thus hurting both point number two what
+about recovery time right the more you
+are recovering from something let's say
+soccer play the less you can be
+recovering from something else
+sketball so let's say Tuesday Thursdays
+you play soccer Monday Wednesday Friday
+you play basketball and you have other
+teammates in basketball that also play
+Monday Wednesday Friday but they don't
+do soccer so on Wednesday you'll come in
+and you're slow you're tired your coach
+goes what the hell's wrong with you how
+come you're not moving you're a coach I
+had soccer practice yesterday so instead
+of using that time to recover from
+basketball use that time to Train soccer
+and they'll use the rest of time to
+recover from at least some combination
+of soccer and basketball well that's no
+good how are you gonna be the best
+basketball player if you were busy
+recovering from soccer a lot of the time
+when you're trying to recover from
+basketball you can't there's no way to
+do it because we're dealing with finite
+resources and lastly not of least
+importance are conflicting physiological
+conditions so a good example these are
+for why it's really difficult to be
+super powerful explosive for one or two
+times and really good at endurance at
+the same time there is our literal
+physiological processes that are
+different to optimizing one or the other
+and they're usually relatively mutually
+exclusive that means you as your body
+gets really good at one it gets worse at
+the other other opposing pathways here
+example so molecular regulators of cell
+activity the ones that really get up
+regulated and make you better at power
+include ones like mTOR right the you
+know so mammalian target of rapamycin
+it's a protein that basically organizes
+hypertrophy and strength adaptations in
+the cell to some large extent mTOR has
+not really turned on with endurance
+training another set of molecules and
+regulators sort of generally called a
+NPK adenosine monophosphate kinase that
+system has turned on a PK directly
+impinges on mTOR literally as a NPK
+turns on it switches mTOR off or
+switches it down it's like turning up
+one knob on kind of one of those switch
+lights that has a knob instead of a
+switch and turning another one down at
+the same time you can't have both lights
+on at once because there's only so much
+energy coming in to the actual circuit
+that's not really good NPK breaks down
+muscle and rewards endurance adaptations
+while mTOR buildin that's
+not good at all brings us to our next
+point what kind of muscle size
+physiology is Donna is is sort of put
+forward by power training and rewarded
+in power well big muscles produce more
+power but on the other hand small
+muscles a low level of muscle size is
+rewarded because it has a higher
+relative endurance in endurance sport so
+if you're really gigantic you're not
+going to be very good at endurance sport
+but if you're really really small you're
+not going to be very powerful again
+trade-off that there's no way to be both
+what is how can you be both big and
+small at the same time you can be medium
+but then you're not really great at
+either one of those things
+fatigue States the kind of training that
+is required for endurance generates a
+ton of fatigue but you're carrying all
+the time good news is that fatigue
+doesn't really interfere with endurance
+training very much at all I mean crazy
+levels of fatigue to start interfering
+with endurance adaptations on the other
+hand power as a training variable is
+incredibly sensitive to fatigue as soon
+as fatigue Rises beyond some pretty low
+point on a scale of endurance for sure
+we start to see declines in power
+training ability declines in power
+output
+you just get start getting worse and
+there's no way to get better unless you
+drop that fatigue so if you try to train
+for both power and endurance at the same
+time and really get the most out of them
+or one of the fatigue environments from
+endurance literally poisons the training
+for the power environment and that's no
+good at all we can't have the best of
+both worlds
+what about fiber type well fiber type
+probably changes slowly and to some very
+small extent with long term training and
+also there's genetics for fiber type
+that we all start out with that give us
+kind of a big basic blueprint of the
+average of what we're gonna be the rest
+of our lives
+slow twitch fiber types are really
+rewarded in endurance activity while
+fast which pas fiber types are rewarded
+and in power activity so even through
+training or genetics okay you can't have
+both right it's one or the other
+particularly when you're talking about
+literally zooming in on cells you can't
+be good at both you can't have both it's
+two different kinds of machines all
+right and lastly our neural
+characteristics endurance training
+favours and actually develops your
+nervous system into being able to
+perform submaximal repetitive
+contraction of the musculature
+submaximal repetitive movements that
+don't fatigue you a lot the purpose the
+fatigue earnest resistance but power
+training both trains and rewards
+explosive highly fatiguing movements
+because we don't care about fatigue is
+we only have to do it a couple of times
+then we win the event so we're trying to
+get our nervous system to be amazing at
+two different things which is pretty
+much impossible we got a big very
+serious problem here
+so concurrent training there are
+intelligent ways to combine certain
+things but fundamentally we have to
+admit we're working at a trade-off can
+you have a combination best pickup truck
+station wagon race car yeah you can is
+that going to be the best pickup truck
+no way it's got too much race car and
+station wagon and stuff to interfere
+with the best pickup truck for example
+instead of having a ton of bed space you
+have a big engine and also you have an
+elongated car because you need the
+station wagon part too right so can we
+have a good average approach totally but
+do we have to admit that if we take it
+on the track it's gonna get embarrassed
+yes it's gonna be a great pickup no is
+it gonna be a great station wagon also
+probably not because we're working with
+limited resources and one thing has to
+trade-off away from another so got this
+cool little chart up for you guys and
+this is mostly for your own sort of
+personal knowledge but remember we said
+that some modalities interfere much more
+highly with other modalities than they
+do with still other modalities so we
+have a list for you here's a one to 11
+list as a one to ten list but the kind
+of the first one is a pretty cool
+example not from training of modalities
+that tend to interfere greatly with each
+other versus ones that don't tend to
+interfere very much so the first one is
+muscle gain versus fat loss okay its
+nutritional but it's still a great
+example how much does attempting to gain
+muscle and do your very best that
+interfere with fat loss well let's see
+gaining muscle and doing your best means
+hyper caloric diet more calories than
+you burn how much does that interfere
+with fat loss almost completely and
+anyone other than beginners and very
+other interesting times of the training
+process so is a huge interference there
+so so what's the lesson there the lesson
+is if you try to do both at the same
+time we're probably gonna get very close
+to nowhere
+probably a good idea to maybe do them in
+sequences or phases so they're not being
+done at the same time
+next one remember the ones at the top
+the ones I'm reading first they're the
+most interfering down to the least and
+this will make very good sense to you
+once I start kind of reading them off
+endurance interferes with speed training
+so endurance training interferes of
+speed training a lot why because speed
+training is done at a low fatigue super
+explosive state of fast twitch muscle
+fibers endurance is very opposite of
+every single measurable quality except
+for the fact that you're still using
+your legs right endurance training
+interferes with power just a little less
+than speed because power has a bigger
+force component and not as much of an
+explosive component of speed it's not as
+fatigue sensitive but everything else is
+pretty much the same huge interference
+effect endurance training interferes to
+strength training quite a bit so can
+people be both very strong and very
+injured yes because they don't need the
+nervous system qualities of incredible
+explosiveness anymore and strength
+training is a bit more fatigue resistant
+it doesn't get damaged so much or
+impinge so much with high fatigue levels
+as due power on strength so you can have
+quite a bit of both still pretty big
+interference what about endurance and
+size well muscle size we really don't
+super care about fiber type we care
+almost not at all about nervous system
+characteristics or explosiveness and
+training for size quite a big fatigue
+threshold so there's not a huge level of
+interference there but there's still a
+significant one next level of
+interference so number six does training
+to be as big as you can interfere with
+speed well Hali yeah it does but you're
+gonna be pretty fast cuz you've got a
+lot of muscle and that moves a lot so
+it's already nothing like endurance
+interfering with everything else
+how much does size interfere with power
+well if you just trade for pure size
+you're doing lots of sets of ten sets of
+twelve there's not very good power
+training but you do have a lot of big
+really strong muscles that is no longer
+super interfering how much does size
+interfere with strength well again sets
+of ten sets of twelve vs sets of three
+to five much more fatigue versus
+strength training there's some
+interference there but it's not huge you
+can be really big and really strong at
+the same time the rest of these are only
+minutely different from each other so is
+it possible to train for maximum
+strength and maximum speed at the same
+time yeah there's only a tiny bit of
+fatigue based interference is it
+possible to train for strength and power
+at the same time be very good
+absolutely you just have to make sure
+that as the competition approaches maybe
+the last couple of weeks you pull most
+of your strength training to really left
+to really let power rise and what is the
+difference between power and speed again
+tiny little fatigue difference a little
+bit of a specificity difference power
+and speed almost don't interfere each
+other at all
+so if you want to say I want to be as
+powerful as possible and as fast as
+possible while g-getting as powerful as
+possible is probably a really good way
+to becoming as fast as possible so is a
+huge overlap there so if someone says
+now hold on you're trying to train for
+powers be the same time training
+modality compatibility sub principle
+says it's not a good idea it's actually
+says it's a great idea because the
+compatibility is incredibly high but if
+you tell someone you want to be training
+for marathons and you want to be the
+fastest 60 meter sprinter that you can
+be you got another thing coming that's
+going to be a really big problem
+so some principle number two is called
+directed adaptation technical definition
+is that adaptations are best made and
+retained after they're made when similar
+stimuli are presented in the sequence
+without too much short-term variation so
+the example here is that every single
+week week to week to week you train week
+one strength week two strength week
+three strength week four strength at the
+end of that process you're going to be
+pretty F and strong because you're
+getting the body very similar signals or
+and over and over I remember physiology
+is relatively especially
+intermediate-advanced resistant to
+adaptation and it doesn't like to hold
+on to adaptations it you know get
+annotation and I'll try to drop it off
+as fast as possible because that app
+tastes are metabolically expensive and
+they leave you to less flexibility your
+body kind of wants to be ready for Anna
+sort of all things at all times but if
+you say hey look we need to get strong
+your body think is strong yeah yeah I'm
+making some adaptations next week early
+hey body strong again you know okay
+we're gonna have to do something about
+this next week hey strong again oh my
+god
+next week strength again after four
+weeks of strength training your body's
+gonna be starting to make some really
+serious inroads on strength some of
+which are going to be relatively more
+permanent than others nervous system
+alterations they don't just go away
+after a while is a your body's thinking
+and an evolutionary since of course it's
+not really thinking this like month of
+strength training I feel like this is a
+pretty consistent stimulus and
+consistent challenge for us in our
+adaptive evolutionary environment
+probably a good idea for me to keep some
+of these adaptations around for just a
+little while maybe a couple
+couple months here because we could come
+back and challenge us again with
+strength it's getting pretty consistent
+right just like if you know you keep
+bidding getting bit by the same no sort
+of half deadly snake venom you build a
+resistance to that venom and it stays
+around for a while because your body's
+like yeah I feel like that snakes coming
+back we got bit every single week for
+the last five I'm just gonna drop my
+resistance of that venom same general
+idea same kind of adaptive system logic
+there on the other hand if one week you
+train for strength and the next week you
+drink for power and the next week a
+train for speed and the next ring you
+train for size what the hell is that
+your body is supposed to get good at
+exactly remember a lot of those are
+competitive modalities to begin with so
+we have that problem but still even if
+it get as good as possible on all of
+them it's getting a really really mixed
+message that's why we may sort of make
+fun of the bro logic like confuse the
+body bro yeah you want to present
+novelty and variation in strategic ways
+but you want that variation to exist in
+a certain particular amount of time long
+enough for the body to really start to
+develop it systems and keep that level
+of development right that's a really
+good idea a good analogy and actually
+kind of an example because this is still
+sport and movement related is a dance
+class analogy I like to use I've taken
+like one and a half dance class in my
+entire life
+I hate being taught how to dance I make
+my own groove damn it but it's a pretty
+good analogy cause here's the deal let's
+say that your significant other are you
+or going getting sort of taken and going
+to dance classes once a week there are
+two approaches we can take let's say
+we're going for about eight weeks we can
+do you know salsa dancing one-way
+blankie dancing that actually modern
+dance the week after and-and-and you do
+different kind of dancing classes every
+single week for eight weeks certainly
+enough kind of different kinds of dance
+to do that on the other hand we can take
+just salsa dancing classes for eight
+weeks straight at the end of that eight
+weeks the average person who is not like
+a dance prodigy how good are they gonna
+be at any one of those dances they
+learned they're gonna suck you think one
+class of modern dance and then you move
+on to other kinds of dance this is just
+enough class to confuse the living
+out of you you want me worse than
+dancing after visions lose your
+confidence getting a you know showing
+off your dance moves from another class
+and they're like nope that's all wrong
+and they keep
+rewiring all your systems but if you
+take the same eight weeks and train
+salsa dancing salsa dancing salsa its
+salsa after eight weeks you gonna be
+pretty damn good at salsa dancing and
+when you quit four months and come back
+it's gonna take you very little time to
+pick up the old moves used to have one
+then a couple of weeks you'll be as good
+as you ever were at salsa dancing but if
+you take 8 weeks of random classes you
+can take 16 and 32 weeks of random
+classes at the end of that with three
+times more training time you're not
+gonna be very good in any of those
+because there's too much confusion
+there's no directed adaptation so direct
+adaptation separate principle really
+tells us that if we want to get good at
+something we don't have to train that
+something all the time forever but we
+have to train it a meaningful block of
+time several sessions strung together
+each one with presented overload if we
+get too wishy-washy start training 50
+different things at once we're probably
+not going to get very good at any one of
+those things because there's no
+summative ability to take one and build
+on top of the other
+you're breaking down too often and not
+building enough so last point of
+discussion here what are some
+implications I mean these are not all of
+the implications we could write a book
+about all the implications of just
+specificity some of the program design
+implications that you should be
+concerned with that this principle the
+passive specificity gives us well first
+one before you design any program have a
+clear goal as to what the purpose of the
+program is and what you want to improve
+sounds audience folks most of you
+watching this will probably remember
+times when people ask you questions or
+you ask them about their programs and
+they were kind of thinking okay hey can
+you help me design a program you're not
+sure yeah what's what's going on and
+they're Kokee so um here are my sets and
+reps what do you think and you go so
+what is it you want to get the best that
+you want strength power my per trophy is
+this first sport and they're like yeah
+mm-hmm and you're like I'm sorry I
+didn't misunderstand we were saying we
+do you mean like at all those oh just
+everything why don't we just insert like
+ability to move objects with our mind
+and I lasers
+powers the ability to create a universe
+in your own hand we just add everything
+if it's not really coming to the expense
+of anything else if we can have
+everything we want but we can't right so
+a lot of people will design a program
+kind of thoughtlessly putting sets and
+reps together and their benchpress will
+go up all right maybe they do a lot of
+sets of threes that's a 5 a lot of
+pauses and they'll go yeah like my texts
+just aren't it like too small I want
+their pecs and then you ask them so is
+your program tailored to two hypertrophy
+in your pecs and they're like and yeah
+like a bench like good hold on what do
+you want more a bigger bench or bigger
+pecs because you can have a good deal of
+both but especially the short-term you
+got to pick which one's more important
+to you your bodybuilders and power
+lifter don't train exactly the same way
+and that person might be like oh you
+know I've never really given it any
+thought
+do I want more good bench is important
+pecs are important so that thought
+process that you started them on they
+should have had that before they ever
+wrote the program because then their
+program would have given him what they
+wanted so before you ever write a
+program do some soul-searching so to
+speak figure out what it is you want out
+of that program and it can be a bunch of
+things you just have to prioritize them
+she's okay I definitely want to get
+better at benching so I'm gonna put
+heavy benches first in my program but I
+also want a good deal of size I know
+those things interfere with each other a
+little bit I'll just put some size
+training after every heavy workout still
+have like days to drop fatigue I'll get
+plenty big and play strong it'll be
+sweet that is totally cool or you can
+see I just want to get super strong I
+already have pretty decent size sets of
+three and five it is most of the time to
+your program with a very little added
+volume totally awesome and if you're
+like now you know what I don't we care
+about strength anymore it at least for
+the next couple months I just want to
+get huge pecs then you know sets of you
+know six to twelve wraps or something
+like that on average more isolation
+moves etc not so much we're worrying
+about nervous care system
+characteristics and precise technique of
+benching much more about making sure the
+volumes have or the muscles have high
+volumes of work and recovery etc now
+you're getting what you want so before
+you ever design a program specificity is
+so important because it tells you look
+if if you want something you gotta train
+in these exact ways to get it but if you
+don't know what you want how the hell
+are you supposed to know a line the ways
+to get it you're not gonna get what you
+want do you order blind
+off of a menu at a restaurant are you
+just hungry they say what do you want to
+hear like I don't know just give me some
+food right and you'll get food but is it
+gonna be the food that you wanted no but
+if you actually look at the menu I want
+macaroni cheese and steak
+boom boom order and you get exactly what
+you want so make sure you have clear
+goals to what you want or else you get
+something pretty much I ran point number
+2 for program design considerations from
+specificity at intermediate levels
+especially because in your super like
+rank beginner or novice you just get
+better at everything you can train
+everything and get better everything at
+especially intermediate levels has
+become apparent that Fitness is not a
+concept it's just not a concept the only
+so if someone says I want to get fit
+they've been working out for a while the
+question you have to ask them right
+after is fit for what hey is world
+Strongest Man at the time of this video
+recording Eddie Hall is he fit for being
+the world Strongest Man yes very well
+fit the strongest player in the world
+can we say he's out of shape you know
+he'd only lift a car so many times until
+you're like I don't know what out of
+shape looks like but that sure as hell
+is not out of shape is Eddie Hall fit
+for running marathons no it's a
+different kind of fitness you probably
+run 200 meters and get winded and follow
+nothing wrong with that cuz that's not
+what he's trying to do on the other hand
+you get a marathon runner to come to
+world Strongest Man qualifying
+competition they won't be able to move
+any of the implements let alone load
+them where they're supposed to go or do
+reps of them easily physically won't be
+able to roll some of the dumbbells are
+they out of shape of course not there
+are the best some of the best shape in
+the world it's a different kind of shape
+so remember this quest for fitness has
+to be answered with what it is exactly
+you want right a lot of times again it
+comes down to soul searching it
+Renaissance a lot of our clients come to
+us and say you know I want to get better
+at CrossFit I want to get better at
+weightlifting and then some individuals
+who maybe haven't given enough thought
+two or three months into the process as
+they get better across from
+weightlifting and for sure check those
+off the list ago you know what I've kind
+of wanted
+ABB's and we're like why didn't you tell
+us I don't know I felt kind of conceited
+about it admit what you want and go get
+what you want and everything is good but
+if you don't admit what you want and if
+you just want to be in shape you're
+gonna find that there's a lot of
+different kinds of shapes all different
+you know good at different things pick
+the one you want and go for it at least
+at some time interval you can pick
+another one later right and point number
+three there are modalities that are
+relatively compatible like power and
+speed
+there are modalities that are very
+incompatible like endurance and speed
+and everything in between
+understand how big of a trade-off you're
+making between those modalities and set
+concurrent goals with the realism what
+does that mean that means if you want to
+be the most powerful and fastest you can
+be man you're in for a whole lot of both
+of those but if you want to be as
+powerful and as endurance as you could
+be you're gonna have to understand that
+you can't measure yourself up against
+the best power athletes in the world
+anymore and you can't measure yourself
+up against the best endurance athletes
+anymore because you're gonna be nowhere
+near either one of those because you're
+trying to do both you're gonna get a
+half measure of both and there's nothing
+wrong with that it's cool to be in super
+overall general great shape just
+understand that you won't be in an
+amazing specific shape for anything else
+like what's the best bodybuilder
+marathon runner looked like probably
+someone who weighs like 170 180 super
+jacked super lean not enormous legs and
+can run a marathon is he gonna be
+running the Boston Marathon and just
+around 2 hours absolutely not he'll be
+finishing middle of a pack if he's lucky
+he's gonna be winning bodybuilding shows
+left and right no way man that's not big
+enough but is it gonna be looking pretty
+sweet and being pretty in turn of course
+so understand the trade-offs in and make
+them intelligently after when you're
+sequencing your training when you're
+doing training and you're doing training
+design it's a good idea to Train similar
+conditions together so if you are
+training to be big and strong at the
+same time that's pretty good as opposed
+to training to be light or dieting to be
+light and having a high level of
+endurance at the same time so it's a
+good idea to Train generally in the same
+several months to be as big an you can
+of strong as you can but if you
+which the goal to being as enduring as
+you can and as light as you can just for
+appearance or maybe to improve your
+gymnastics ability probably a good idea
+to train those at the same time if
+you're training to be as endurance as
+you can and as big as you can at the
+same time tough if you want to lose a
+bunch of weight and to be as strong as
+possible at the same time really tough
+so make sure to sequence those
+conditions together so that you do the
+best and all the ones that you can and
+they don't never fear with each other as
+much as competition date nears training
+should be more specific that's point
+number five it's super obvious people
+screw this up anyway and if you're
+training to be a weightlifter and
+someone comes in deep in your offseason
+the only thing you're doing is singles
+in a snatch and clean and jerk your
+training is probably messed up you
+should be doing plenty of wraps plenty
+of sets getting bigger getting stronger
+if you're doing sets of 10 and sets of
+eight a week and a half before your
+weightlifting meet you're also doing
+something wrong so make sure that your
+specificity increases as you get close
+to the competition last couple weeks it
+should look a lot like competition
+training and here's a really big point
+point number six save kind of one of the
+best for last after you make a program
+or you look at a program that somebody
+else made or you look at a program that
+you want to purchase and you've seen its
+structure you could go to every single
+part of the program and ask about every
+feature of the program is this feature
+training the direct ability itself that
+I want to improve or training an
+underlying driver of that ability is
+this making me better at low bar
+squatting directly by being the low bar
+squat or is this giving me the spinal
+erectors strength or size that it takes
+to love our squat a lot that's an
+example if the answer is no to either
+one of those if for example you have a
+powerlifting program that has you
+running a half marathon on Saturday does
+that make me in any way stronger no does
+that support the underlying systems for
+strength No then it's a discarded
+element you can throw it away it's a
+really specificities almost like a kind
+of like a very fine-tuned cleaning brush
+you have this big training architecture
+you can clean off a lot of crap that you
+don't need by asking is it specific to
+the actual goal or is it an underlying
+systems trainer if it's neither one of
+those you probably don't need it
+you'll be down to a smaller program well
+that's easy to recover from that gets
+you all the goals you want and doesn't
+interfere with anything you don't folks
+that's it for specificity next time we
+will talk about overload
+[Music]
+you

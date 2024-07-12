@@ -1,0 +1,248 @@
+For maximizing hypertrophy, should low, 
+moderate, or high repetition numbers be used?
+Well, as we've mentioned in other 
+videos, there's a great number of  
+studies finding loads between 80% one-rep 
+max and 30% one-rep max produce similar  
+muscle hypertrophy, so long as repetitions 
+are performed to or very close to failure.
+Very broadly, this equates to 
+performing between 8 and 35 repetitions.
+But, what about fewer than 8 repetitions?
+Say 5 repetitions, for example. Could 
+this still optimize hypertrophy?
+For quite a while, I automatically 
+assumed there was good evidence showing  
+5 repetitions could build muscle optimally.
+In fact, I've previously said in videos reps 
+between 5 and 35 are similarly effective  
+for hypertrophy, provided repetitions 
+are performed to or close to failure.
+However, a new study by Vann et al. made 
+me re-assess this belief and re-examine the  
+research on rep ranges, and now I'm less certain 
+if 5 repetitions could optimally build muscle.
+Let us overview this study, 
+discuss its limitations,  
+and then detail how it relates to 
+the overall rep range research.
+Vann et al. recruited 15 trained men 
+with an average back squat of 167kg.  
+For these subjects, this equated to 
+them squatting 1.9x their bodyweight.
+Each subject had one leg assigned 
+to a high load condition,  
+and their other leg assigned 
+to a high volume condition.
+Both legs were trained on the unilateral 
+leg extension and unilateral leg press,  
+three times per week for a total of 6 weeks.
+With the leg assigned to the high load 
+condition, they performed 3 sets of 5  
+repetitions on both exercises every session. 
+They also progressed load weekly by 2.5%.
+During the first week, they trained with 
+82.5% of the pre-study one-rep maxes on both  
+exercises, and they progressed this load by 
+2.5% each week such that by the 6th week,  
+they were training with 95% of their 
+pre-study one-rep maxes on both exercises.
+With the leg assigned to the high volume 
+condition, they performed the program on-screen.
+They trained with sets of 10 repetitions with 60%  
+one-rep max loads. They did not progress 
+this load whatsoever throughout the study.  
+By the 6th week, they were still training 
+with 60% of their pre-study one-rep maxes.
+What they did progress, however, was 
+the volume (in the form of sets).
+During the first weeks, they mainly 
+performed 1 to 2 sets per exercise.  
+But during the later weeks, they mainly 
+performed 3 or 4 sets per exercise.
+Before and after the study, a 
+range of measurements was assessed.
+The main one we'll explore is 
+cross-sectional area of the vastus lateralis  
+(which is an indictor of 
+vastus lateralis hypertrophy).
+After the study, the researchers 
+found increases in vastus lateralis  
+cross-sectional area were greater for the high 
+volume condition versus the high load condition.  
+In fact, the high load condition 
+saw on average no gains.
+In other words, performing sets of 10 reps with a 
+60% one-rep max load, and progressing set numbers  
+but not load, produced more hypertrophy than 
+performing sets of 5 reps and progressing load.
+These findings are highly interesting, 
+especially when considering how the two  
+conditions differed in the set numbers they 
+performed and how close to failure they trained.
+Exploring set numbers first, despite the high 
+volume condition progressing their set numbers  
+across the 6 weeks, they still ultimately did not 
+perform as many sets as the high load condition.
+The high load condition performed 
+18 weekly sets for the quads,  
+whereas the high volume condition only 
+averaged 15 weekly sets for the quads.
+Despite these differences, the high volume 
+condition still experienced more growth.
+As for how close to failure they trained, we know 
+the high volume condition involved performing sets  
+of 10 reps with a 60% one-rep max load, and they 
+did not progress load at all throughout the study.
+As you can probably perform 
+20 maximum repetitions,  
+give or take a few, with a 60% one-rep max 
+load, this group would have been training  
+10 or so reps away from failure per 
+set. This is very far from failure.
+Opposingly, the high load condition 
+performed sets of 5 reps with loads that  
+likely meant they were largely training 
+0 to 3 reps away from failure per set.
+Despite the high volume condition training much 
+further from failure than the high load condition,  
+they experienced more vastus 
+lateralis hypertrophy.
+Let us now go through some limitations and 
+considerations with this Vann et al. study,  
+and then try and figure out how it 
+fits into the rest of the literature.
+Firstly, we know that by the end of the study, 
+the high volume condition saw greater increases  
+in vastus lateralis cross-sectional 
+area versus the high load condition.
+These after study measurements were taken 3 
+days after the final training session. However,  
+the researchers also took this measurement 
+again 10 days after the final training session.
+For the high volume condition, they saw 
+a numerical decrease in average vastus  
+lateralis cross-sectional area from 3 days 
+to 10 days after the final training session.  
+Now, this change in cross-sectional area from 3 to 
+10 days after the final session was not classified  
+as statistically signficant. Even so, as the 
+subjects did not train in these days after the  
+final session, this numerical decrease in muscle 
+size can likely just be attributed to detraining.
+However, for the high load condition, they 
+saw a numerical increase in average vastus  
+lateralis cross-sectional area from 3 days 
+to 10 days after the final training session.  
+Now, this change in cross-sectional area from 3 to 
+10 days after the final session was not classified  
+as statistically signficant, but it's nonetheless 
+difficult to say why the numerical average did  
+increase given they were not training. Perhaps it 
+was some sort of delayed supercompensation thing.
+Overall, I don't really think any of this 
+changes the interpretation of the study.  
+After all, 3 days after the final training 
+session, the high volume condition  
+still experienced more vastus lateralis 
+hypertrophy than the high load condition.  
+I just nonetheless thought it would be worth 
+sharing this slightly peculiar finding.
+The second limitation/consideration is 
+the study only included 15 trained men,  
+which like most resistance training 
+studies, is a very small sample size.  
+Larger sample sizes would likely be more 
+informative and strengthen the data.
+As a final limitation/consideration, 
+the study was only 6 weeks,  
+which is on the shorter side of typical 
+resistance training studies we see.
+Hypertrophy is not a quick process, 
+especially in trained individuals,  
+so it would be interesting to see how this 
+study design plays out in the longer term.
+Moving forward, what are the potential 
+takeaway from this Vann et al. study,  
+and how does it relate to 
+the rest of the literature?
+Two potential takeaway are that maybe 
+there could be something special about  
+progressing set numbers for hypertrophy and/or 
+5 reps are simply suboptimal for hypertrophy.
+The first one, that there's some special 
+about progressing set numbers for hypertrophy,  
+is difficult to verify. There simply is no 
+other research (I'm aware of) exploring how  
+progressing set numbers over weeks compares to 
+training with the same number of weekly sets.  
+As a result, there really is 
+not much else to comment here,  
+we can only hope that future 
+research provides further insight.
+As for the second one, could 5 reps 
+simply be suboptimal for hypertrophy?
+What does the rest of the research say?
+The table on screen summarizes all 
+the current research (I'm aware of)  
+exploring how 5 or so reps compares 
+to higher rep numbers for hypertrophy.
+I should note all studies had subjects perform 
+their reps to or very close to failure.
+All of them indicate 5 or so reps were similarly 
+effective to higher rep numbers for hypertrophy,  
+indicating 5 or so reps might be 
+perfectly optimal for hypertrophy.
+However, all but one of them also had confounders.
+More precisely, the subjects training with 5 or 
+so reps performed more sets per exercise and/or  
+used longer rest intervals between sets than 
+the subjects training with higher rep numbers.
+In many cases, performing more sets per exercise 
+and resting longer between sets (particularly  
+resting longer between sets of compound 
+exercises) seems to be better for hypertrophy.
+Thus, I think we could argue 
+much of these studies were  
+biased towards the subjects 
+training with 5 or so reps.
+If set numbers and rest interval durations 
+were equated between all subjects, maybe  
+training with 5 reps would have been suboptimal 
+compared to training with higher rep numbers.
+Now, one study by Weiss et 
+al. did actually have all  
+subjects train with the same set 
+numbers and rest interval durations.
+This study did actually find that 3-5 reps 
+were similarly effective to 13-15 reps  
+and 23-25 reps for building muscle.
+Nevertheless, combining the Vann et al. 
+study with the rest of this overall data,  
+it's clear to see it is far from crystal 
+clear as to whether 5 reps can truly be  
+optimal and efficient for hypertrophy.
+More research is going to be 
+highly valuable and insightful.
+At the end of the day, it's really your choice on 
+how you interpret all the data we've overviewed.
+If your main goal is to maximize hypertrophy, and 
+you've been training with 5 reps and experiencing  
+perfectly fine hypertrophy, I don't think 
+there's any solid reason to change anything.
+However, if you have been experiencing 
+subpar hypertrophy from sets of 5  
+and/or you'd just like to err on the side 
+of caution to ensure you're maximizing  
+hypertrophy most efficiently, it might be 
+sensible to avoid training with 5 reps,  
+at least for the time being until 
+there's further future research.
+As noted at the start of this video, there's 
+a good number of studies demonstrating with  
+all other training variables equal, 8-35 
+reps are similarly effective for building  
+muscle so long as repetitions are 
+performed to or close to failure.  
+As a result, it may be sensible to 
+stay within this repetition range.

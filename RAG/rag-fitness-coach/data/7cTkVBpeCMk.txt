@@ -1,0 +1,1008 @@
+okay what is going on everyone so in
+this video what I want to do is go
+through a bunch of topics that were
+covered in last month's issue of mass
+where I'd normally just pick one of
+those topics and do a complete deep dive
+on it in just one video on this video I
+want to do something a little bit
+different we're gonna go through the
+whole issue over here together I'm gonna
+share my thoughts on it and let you guys
+know some of what would be covered in a
+typical issue of mass so because I'm
+gonna be covering a bunch of different
+topics I'll have all the timestamps down
+below I'm just gonna go at my own pace
+here we're gonna work through this issue
+together so I don't want to start with
+over here is this our PE and RI are
+complete guide our PE is something I've
+talked about a lot here on the channel
+and it's something that I use in my
+training programs but I don't think I've
+ever done it full justice in a video
+really describing exactly what it means
+and how you sure to apply it and the
+same thing goes for our IR I still get
+asked what these concepts are all about
+I'm so very briefly just so everybody is
+on the same page here our PE stands for
+rating of perceived exertion so it's
+basically a subjective measure of how
+hard it feels like you're working and
+our IR stands for reps in reserve so
+it's kind of like the inverse of our PE
+if you took a set completely to failure
+you hit that tenth rep and you can't get
+another one that would be zero reps in
+reserve if instead you stopped at rep
+nine that would mean you had one rep in
+reserve or one rep left in the tank so
+in this article doctors or dos goes
+through all the different applications
+of our PE and you'll see that it's not
+quite as simple as a lot of people might
+think now the most common use of our PE
+is for simple load prescription so it
+basically allows you to figure out what
+weight you should use so if I told you
+to do 3 sets of 10 on a bicep curl at an
+RPE of 8 that would give you some idea
+of how heavy the weight needs to be in
+order to have you in that right effort
+or exertion zone and that's how most
+people use it but that's far from the
+only way it can be used now before we
+dig into the application I do want to do
+a really brief history here because I
+think it's actually really interesting
+so the RPE scale has actually been
+around since the 1970s and
+it originated in endurance sports with
+aerobic exercise applications and
+originally it was set up on a our PE
+score that ranked from 6 to 20 now that
+might seem totally random but the reason
+it was set up like that is because a
+rating of 6 would correspond to a heart
+rate of 60 beats per minute and a rating
+of 20 would respond to a heart rate of
+200 beats per minute so that would be
+like the hardest cardio you could
+imagine down here and this would be like
+very very light aerobic exercise up here
+in the time between then and now a lot
+of people have helped develop it for
+resistance training but I think that the
+way most people use it today in the
+fitness community can probably be
+credited to Mike Teixeira who is a
+powerlifting coach and he was kind of
+the first guy to use reps in reserve
+descriptors to set up our PE so just
+looking at table 3 down here this is how
+it would in fact be set up so in our PE
+of 10 like we said that would be maximal
+effort so couldn't have gotten another
+rep rp9 would mean you've got one rep in
+the tank now our p 9.5 is kind of
+interesting though sometimes hear people
+say this and it doesn't mean that excuse
+me it doesn't mean that you could have
+gotten an extra half a rep what it
+really means is you wouldn't have any
+reps in reserve but you probably could
+have done a little bit more weight so
+the same reps with a little more weight
+and then when you get down in like this
+eight seven six
+zone it's a little bit more of a gray
+area generally meaning like you've got a
+couple reps left in the tank maybe two
+or three reps and left in the tank
+something like that so I want to dig
+into a few different ways that you can
+implement RPE the main point of our PE
+to begin with is to be used as a form of
+autoregulation
+so basically what this means is rather
+than you know a coach telling you you
+need to go in and do three sets of eight
+on the bench press with 225 pounds
+instead he would say you know do three
+sets of eight on the bench press - and
+RPE of eight and then you would choose
+the weight based on how you're feeling
+that day so with RPE on days that you
+feel good you have that freedom to go
+heavier and on days that you don't feel
+good you can go a little bit lighter and
+this has been shown in the literature to
+increase strength gains over time when
+compared to a more fixed approach let's
+actually just go back to this table real
+quick for context because I know a lot
+of people in my effective reps video and
+in some other videos are under the
+impression that you should just always
+go to failure like you need to train as
+hard as possible all the time and then
+in that case RPE would kind of be
+obsolete because you would just always
+train at an RP 10 but we know for many
+reasons and I've covered this on a
+channel a lot that because you can get
+similar hypertrophy as long as you're in
+this zone of let's say RP 7 2 RP 10 it
+makes sense in most contexts to be
+leaving some reps in the tank if you're
+going all the way to failure you're not
+getting much more hypertrophy but you're
+creating a lot more fatigue and then
+that imposes more limitations on your
+ability to recover so that's kind of the
+conceptual basis behind it apart from
+the auto regulation part let's look at
+this table here table number 4 and this
+is an example of what a about a four
+month training program would look like
+using RPE
+so over here you'd be training three
+days per week so this would only be for
+say one exercise so let's say you're
+really trying to get your bench press up
+you'd hit the bench press on say Monday
+Wednesday and Friday and then this would
+be the first month or so this would be
+the second month third month and fourth
+month so you can see here in the first
+month we're doing quite a lot of volume
+work so three sets of ten forced it to
+eight even on the strength day it's
+still a really high volume day five sets
+of six but the RPE is quite low so only
+a five to seven RPE for this month then
+in the next month you can see the volume
+is a bit lower so we've slashed about
+two reps from every set on each training
+day but now the RPE is a bit higher so
+you're exerting yourself a little bit
+harder but the volume has dropped down a
+bit in the third month kind of the same
+thing volume is lower again rep count is
+lower means the weights are heavier and
+you're also pushing yourself a little
+bit closer to failure so working out
+about a seven to nine RPE here and then
+in the fourth month this is what I would
+call something like a powerlifting
+peaking block basically you can see even
+on the highest volume day you're still
+pretty much doing pure strength work and
+then some triples on the second day and
+then you're doing heavy singles at an
+RPE of 9.5
+so a very high exertion level on the
+third day in this block which is going
+to get you very acclimated to lifting
+very heavy loads and so this would be an
+example of using an auto regulated model
+to prescribe load over an entire macro
+cycle and it uses basically a simple
+linear progression or a linear
+periodization scheme where volume is
+coming down as the intensity and the
+load is going up another interesting
+thing that they talk about here is how
+to adjust a load if you miss that RPE so
+this is something I get asked a lot from
+my programs let's say you go in you're
+gonna do three sets of eight at an RPE
+of six to eight right so you're leaving
+two three maybe four reps in the tank on
+every set so you load some weight up
+that you expect what have you in that
+RPE zone but as it turns out it's
+actually way too light well in that case
+for your next set you would want to
+increase the load based on this table
+over here so if your actual RPE was like
+a four you'd want to increase the load
+by eight percent
+now obviously you don't need to monitor
+it to that level of specificity unless
+maybe you're like a competitive power
+lifter or something the general idea is
+that if the RPE was too low increased
+the weight for the next set if it was
+too high you decrease the weight for the
+next set according to these metrics over
+here and if you were in the right target
+zone so if it actually was in the right
+zone RPE six to eight say then it would
+be the lifters choice so if it was
+towards say the lower end of that range
+you might want to add a little bit of
+weight if it was a little bit high you
+might want to drop it back a bit or just
+keep the weight the same and see what
+happens so that's an interesting table
+and that came from a paper from Eric
+Helms okay so I'm not gonna go into a
+lot of detail on this part basically
+Auto regulating volume so a lot of
+people think of RPE as a way to auto
+regulate the load you can also use it to
+auto regulate volume and a couple
+interesting ways the first way is to
+determine the number of reps that you do
+in a set that's one that I've used a bit
+myself and we'll talk about that and the
+other way is the number of sets in a
+session for a specific exercise so we'll
+look at this really quickly in this
+table six here so yeah the first one is
+auto regulating the number of reps in a
+set so for this you would basically
+choose how many sets you're going to do
+for a specific exercise so let's say
+four sets on squats
+you would go with 70% of your one rep
+max so let's say that comes out to be
+three 315 pounds you wouldn't have a
+target rep count you would simply stop
+each set once you've hit an RPE of six
+to eight so you know the load you're
+using you know the exercise you're using
+you know the number of sets you're gonna
+do and you just leave the reps to be
+auto regulated by the RPE this is
+actually how Eric Helms trained when I
+trained with him in Australia I'll link
+that video down below for all of his
+exercises as far as I can remember he
+didn't actually have a set rep count so
+he would never say oh I'm gonna do three
+sets of ten on this he would say I'm
+gonna do three sets at an RPE eight
+which means whether he got to ten reps
+or he got to six reps or he got to 14
+reps whatever it may be he would just
+stop once he hit that RPE and this is
+really nice because a lot of the times
+people will just hit their target rep
+count and then stop and they might not
+be anywhere near close to failure or
+they might be killing themselves just to
+reach that rep count when most often in
+training programs the rep count is kind
+of arbitrary like it's meant to just get
+you in the general ballpark to start
+working on any given adaptation
+so using RPE to regulate it makes
+perfect sense the other way that you can
+use this is auto right regulating the
+total number of sets in this case you
+would choose the exercise you choose the
+amount of weight and you would know the
+number of reps and then you would just
+keep doing sets until you reached your
+target RPE for that day so for example
+let's say you do your first set of
+squats and you hit an rp7 you're like
+yeah I could have got like three more
+reps on that set you do another set
+maybe on this set you reach RPE seven
+and a half or something next set RPE
+eight you would cap it once you reach
+that RPE of eight assuming that was
+where you wanted to stop now for some
+people especially women who can just
+tolerate a ton of volume this could
+probably get carried away so you could I
+don't know put some weight on the bar do
+12 13 14 sets and still feel like your
+RPE hasn't hit that upper threshold so
+it's probably a good idea to put some
+kind of cap on the number of sets so
+that your volume doesn't get out of
+and I'm so generally speaking you'll
+probably want a volume cap of like five
+or six sets for a given exercise but
+this is a cool way to auto regulate
+volume and it's something I feel like a
+lot of people haven't considered in
+terms of applications of our PE there's
+a bunch of other stuff here in the
+article if you guys would like to check
+it out if you're subscribed I'm not
+going to go into a lot of detail on the
+rest pause stuff here there's also ways
+to track progress and predict your one
+rep max different progression schemes
+you can use with RPE you can set up a
+flexible template based off of your
+warm-ups using RPE that's fairly
+straightforward and one thing that
+actually wasn't mentioned in the article
+that I use in my programs is having the
+training track last set RPE this was an
+idea I got from Bryce Lewis years ago
+from an interview we did and basically
+the idea is after you finish your last
+set write down what the RPE in fact was
+for that set and then the next week you
+can refer back to it and say okay this
+wait for this much for this many reps
+gave me a nine-hour PE last week you
+might do that again the next week but
+the last set felt easier it was only an
+8 RPE so that's an indication that your
+strength has improved and maybe now next
+week it's time to increase the weight
+and that can give you all kinds of
+useful feedback as a coach and as an
+athlete so tracking that last set RPE I
+think is a good tool as well alright so
+that is the RPE article it's so much
+information in there I thought it was
+fantastic up next I want to talk about
+this piece from Greg knuckles on multi
+joint versus single joint exercises for
+the biceps this was a study from Munro
+and colleagues and it was another one of
+those studies that compared multi joint
+compound exercises to single joint
+isolation exercises now this type of
+research in general I think is trying to
+figure out if we need to do isolation
+work or if we just stick to the basic
+compound stuff will that be enough to
+maximize hypertrophy of all the
+musculature so I can see this having
+application for people who say don't
+have a lot of time to spend in the gym
+and they want to find the most efficient
+training program that's going to give
+them their best bang for their buck when
+it comes to size and strength it would
+be good to know if you could you know
+your biceps well with just doing rows
+just doing pull-ups or pull downs or
+what have you or if you actually need to
+bother going through the effort of doing
+curls as well so that was exactly what
+this study looked at they compared doing
+just dumbbell rows to doing just bicep
+curls I'm so the study design I'm gonna
+just briefly go through this it was
+actually really interesting so they did
+eight weeks of either biceps curl on its
+own or a dumbbell row on its own however
+it used a within-subject unilateral
+design so what this means is each
+subject acted as their own control by
+doing only dumbbell curls on one arm and
+doing only dumbbell rows on the other
+arm and then they would just measure the
+differences in biceps hypertrophy
+between the two arms this is a really
+good study design and exercise science
+literature because let's say you were to
+split these ten subjects up into two
+different groups there could be some
+muscular freak of nature in one of the
+groups that really drags the group
+average up for that condition and it
+could really skew the results especially
+with the low sample size like this so
+the within subject design is a stronger
+way to put a study like this together so
+they also actually measured strength
+here so let's take a quick look at that
+here in figure 1 & 2 so figure 1 this
+was looking at dumbbell row strength
+nothing too surprising here doing the
+multi joint compound movements of the
+row led to more strength increase on the
+row doing a bicep curl didn't really
+increase strength on the row as you
+pretty much expect similarly doing bicep
+curls made you stronger at bicep curls
+doing bicep curls didn't make you
+stronger at doing rows that's what you'd
+expect strength is generally very
+specific so if you want to get better at
+the benchpress you need to benchpress if
+you want to get a stronger curl you need
+to curl that's that's the way it tends
+to work it's like any skill you want to
+get better at it you should practice it
+more often provided you're practicing it
+with with good technique one interesting
+thing though about the the strength
+findings is that there wasn't much of an
+observed cross education effect so this
+refers to something that's been seen
+quite a bit in the literature where if
+you only train one arm or one limb the
+other limb will still see a strength
+benef
+up to 40% as large as the trained limb
+so maybe in this case doing dumbbell
+rows you'd expect to see about maybe 40%
+of an increase on the arm that didn't do
+rows simply due to the Cross Education
+effect I don't know why that would be
+not observed in this study but I thought
+it was an interesting point here okay so
+the the size results in figure 3 pretty
+clear that doing single joint movements
+led to more biceps hypertrophy than just
+doing the multi joint movement so
+clearly just doing dumbbell rows wasn't
+enough to grow the biceps on its own and
+I think that this does add to the idea
+that if you want to maximize biceps
+hypertrophy it really is important to
+isolate the biceps especially past the
+beginner level now I think it's worth
+saying that there was this study from
+gentle and colleagues that found that
+pull-downs so doing lat pull-downs did
+result in similar biceps hypertrophy to
+doing biceps curls so it could be the
+case that for beginners the study was
+that beginners hold-downs are better at
+building the biceps than dumbbell rows
+are and there could be a few reasons for
+this so just in general when you're
+looking at whether or not a compound
+lift is going to carry over well to an
+assistance muscle I think that there are
+a few things you want to consider the
+first is well the first is range of
+motion but we're gonna look at whether
+or not it's likely to limit performance
+on that exercise so with the pulldown it
+seems more likely to me that the biceps
+could be the limiting factor especially
+in beginners people have a tendency to
+want to pull with their arms more than
+with their lats so it could be the case
+that people were fatiguing on these pull
+downs because their biceps were giving
+out and then obviously you'd expect to
+see similar biceps hypertrophy to a
+group doing biceps curls whereas with
+the dumbbell row the way the lift is set
+up by mechanically it's much more likely
+that the lats will be the limiting
+factor so your lats are almost always
+going to fatigue before your biceps will
+on a row so that could be why the nun
+Bell Row isn't as good of a biceps
+builder as a pulldown would be for
+beginners
+another consideration is the range of
+motion for the exercise just looking at
+another example with the benchpress be a
+good enough exercise to maximize triceps
+development maybe but I would say it
+probably at least depends on your grip
+width so if you're gonna go with a very
+wide grip the amount of elbow extension
+range of motion is going to be very
+small whereas if you go with a closer
+grip obviously you're taking your elbow
+through a much larger range of motion
+the triceps are going to be targeted to
+a greater degree another interesting
+thing about the triceps is that there
+are an example of a bi articular muscle
+at least the long head of the triceps is
+and when it comes to by articular
+muscles they act on two joints so in the
+piece Greg kind of mentions that when it
+comes to these bi articular muscles it's
+a good idea to use isolation or
+isolation type exercises that target
+both functions of that muscle so just
+going with the triceps for example it
+trains both elbow extension and shoulder
+extension so doing some kind of pullover
+based movement with also tricep
+extension included would make sense and
+this is why if you've seen my technique
+Tuesday video I recommend doing skull
+crushers with the arms more back
+overhead because you can get that slight
+bit of pull over shoulder extension
+action and get the the long head of the
+triceps more involved that way and the
+same thing goes for the hamstrings they
+cross both the hip joint and the knee
+joint so just doing let's say squats for
+example would be terrible for the
+hamstrings for reasons I've talked about
+in other videos you want a directly
+trained hip extension and knee flexion
+which means you want to include a leg
+curl and some kind of hip hinge hip
+extension based movement like a Romanian
+deadlift so those are all the
+considerations there as far as the
+original question for the this paper do
+multi joint exercises cause as much
+hypertrophy as single joint exercise
+like Greg says here it may not be that
+much of a useful question in practice
+you'd probably want to combine exercises
+especially in these instances but if you
+are looking to set up the most efficient
+routine possible there are some can
+iterations when it comes to you know how
+much of a range of motion is involved
+how likely is that exercise to limit
+performance on that muscle and is the
+muscle by articular muscle for the
+record the main by articular muscles
+that you'd be concerned with from a
+physique perspective would be the long
+head of the triceps the hamstrings and
+the rectus femoris of the quadriceps and
+that's something I'm going to talk about
+in my next technique Tuesday video on
+training the quads so you guys can stay
+tuned for that all right what do we got
+next all right so next I want to go
+through this piece from Eric Helms
+called the pop chart problem processed
+foods and overeating so this was a
+summary of a really cool paper from
+Kevin halls group looking at the
+difference between processed foods and
+non processed foods or minimally
+processed foods so I'm not gonna go
+through this whole thing in that much
+detail there's so much to this study I
+would need at least one full video so
+I'm just gonna go through the main
+takeaways here basically in a metabolic
+Ward which makes the study very
+controlled 20 adults were presented with
+diets consisting of either unprocessed
+or ultra pop processed foods and those
+foods were matched for calories sugar
+fat macro nutrients and fiber for two
+weeks and the participants were told
+they can they could consume as much as
+they wanted of each diet so basically
+the diets were very similar except for
+the fact that one was processed and one
+wasn't and if the subjects just so chose
+to eat everything that was put in front
+of them they would have eaten about 3900
+or about 4000 calories in both groups so
+the subjects were basically told they
+could just stop eating whenever they
+felt like stopping eating basically but
+if they all if they all the subjects eat
+everything they would have eaten about
+4000 calories so basically what the
+study found was that the subjects eating
+the processed food diet ended up eating
+about 500 calories more per day which is
+really significant and the reason for
+this pretty straightforward processed
+foods are consumed in excess because
+they're eaten faster they suppress
+appetite less and they require more
+energy beak
+assumed to achieve a similar amount of
+protein intake as compared to
+unprocessed foods so the protein intake
+thing is probably a really big factor of
+this later in the article Eric talks
+about protein leverage theory which is
+pretty much the idea that in order to
+feel fully satiated or to sufficiently
+blunt your hunger after a given meal you
+need to reach a certain threshold of
+protein and because very highly
+processed foods tend to be lower in
+protein per calorie you have to eat more
+calories of them in order to reach that
+protein threshold now I think that this
+study has its most of its application in
+the discussion between people who are
+flexible dieters who really you know
+track their macros and argue that as
+long as you hit the macros it doesn't
+really matter where the macros are
+coming from or what foods you eat
+whereas on the other side you have
+people saying well you have to eat clean
+in order to lose weight and I think that
+the truth isn't really found on either
+extreme in this case and I think that
+where it's useful is in the reality that
+tracking should be a temporary thing
+like unless you have a specific goal
+that you're shooting for whether that
+being a competition or a photo shoot
+vacation fat loss for summer whatever
+the case may be most people won't be
+tracking forever he says in the piece
+and 99% of people aren't gonna track
+macros for the rest of their lives
+so knowing that a unprocessed diet makes
+fat loss so much easier as it allows you
+to eat fewer calories can be a good
+guiding tool for people who aren't
+tracking obviously now where that advice
+that as long as you hit the macros
+you'll achieve good fat loss could have
+merit would be if you're talking to
+someone who is actually afraid of
+processed foods in that case you know
+you could let that person know if they
+have a Snickers bar occasionally it's
+not going to derail their process
+they're still going to be healthy
+everything will be perfectly fine
+but outside of that context it's not
+really all that useful especially if you
+plan to get away from tracking every
+macro very specifically so kind
+to conclude Eric said the good news is
+that unprocessed diets Rock they result
+in effortless fat loss eating a whole
+food diet for the average person is
+gonna result in higher levels of satiety
+less hunger and a lower energy intake
+leading to more fat loss and if you
+aren't sure what that kind of diet looks
+like I just want to thank lots of fruits
+vegetables lean proteins and in general
+a diet dominated by single ingredient
+foods so this is a cool paper I thought
+that was that was really interesting
+after that we're gonna quickly go
+through this piece on alcohol from air
+Trexler so Eric was recently is not Eric
+Helms as a different Eric he was
+recently added to the mast panel and
+I've been enjoying his write-ups as well
+he had this beautiful quote here the
+thought of choosing between gains and
+alcohol is a troubling dilemma so he
+sought to answer that question in this
+piece so basically I did another video
+on alcohol consumption and how it
+affects gains and everything related to
+it
+so I'll link that down below gonna go
+through this really quickly what I found
+surprising here was that there wasn't
+you know in this study which was a
+meta-analysis numatic review they found
+no meaningful effect on pretty heavy
+alcohol consumption so about eight
+standard drinks for an 80 kilogram
+person when it comes to recovery from
+resistance exercise but when I looked
+into this deeper it seemed like the
+recovery measures to me were not
+necessarily how we might always think of
+recovery from a training perspective
+like they measured isokinetic strength
+levels they looked at creatine kinase
+levels which is a marker of muscle
+damage and counter-movement
+jump performance kind of these athletic
+measures that may not necessarily
+translate to the way bodybuilders would
+train I can speak from my personal and
+coaching experience that if I have a
+heavy drinking episode like eight
+standard drinks I'm dehydrated the next
+day I'm lethargic my sleep was terrible
+and my performance is inevitably worse
+to the point that I usually recommend
+just taking the day off
+rehydrating filling glycogen back up and
+then getting back to training the next
+day so I think the context matters and I
+believe it was found
+that the impact on recovery did depend
+on how much you actually drank which
+you'd expect and there was also a sex
+specific effect so heavy drinking seems
+to affect men much worse than it does
+women and that's true both of recovery
+and of its effect on muscle protein
+synthesis I'm so I covered in that other
+video that alcohol consumption does
+blunt muscle protein synthesis and it
+does so to the point that even consuming
+extra protein isn't able to fully rescue
+that decrease in muscle protein
+synthesis so even if you eat protein
+along with the alcohol it's not able to
+rescue that decrease in MPs however that
+effect is much more prominent in men
+than in women and that's probably
+because estrogen seems to have some kind
+of protective effect on those mechanisms
+and on recovery so that is an
+interesting caveat there women can
+probably get wasted and perform better
+and not have their muscle gains
+inhibited as much as men would but all
+in all despite that interesting finding
+on recovery heavy alcohol intake is
+still really bad for pretty much
+everything we care about as people
+concerned with physique and strength it
+has unfavorable effects on protein
+synthesis it really negatively impacts
+sleep quality I think this is a really
+big one because a lot of people will
+notice that they may fall asleep faster
+when they're drunk but this the actual
+quality and the duration of the sleep is
+significantly worse and so that's
+actually really bad for recovery it's
+also been shown to at least in one study
+increased testosterone acutely or over a
+very short timeframe but over a longer
+time scale and add heavier doses it
+really decreases testosterone which is
+probably bad for an app ilysm so in
+general consistent intake of high doses
+of alcohol is a bad move for those who
+want to optimize health body composition
+or performance so I definitely recommend
+using alcohol in moderation now by the
+same token having the occasional
+drink glass of wine bottle of beer isn't
+going to derail your progress in any way
+I think that that's fine and if you are
+someone who tracks
+crows you can fit it into your macros
+the thing is is the more inebriated you
+get the more your inhibitions tend to be
+lowered and so you're more likely to go
+on some kind of binge and then other
+research has found that that usually
+isn't compensated for later so when you
+drink go out and have a binge you
+usually don't make up for it by eating
+less the next day so that's just usually
+ends up being stored as fat or glycogen
+in the best case so alcohol alcohol is
+bad when it comes to body composition
+for the most part and you should
+definitely use it in moderation all
+right if you guys have stuck around this
+long I'm impressed
+it's the first time I've done a video
+like this so let me know what you think
+I could have easily split this up into
+like six different videos but I thought
+it would be cool to kind of just like go
+through one issue with you guys okay
+next piece has to do with the whole
+muscle confusion phenomenon so a lot of
+people especially bodybuilders seem to
+be under the impression that you need to
+constantly be switching things up in the
+gym in order to make continued progress
+Arnold really talked about this and a
+lot of body builders over the years have
+made a big deal out of muscle confusion
+like you need to keep your muscle always
+guessing in order to force it to respond
+and adapt and grow and it does make
+intuitive sense but there's just no
+backing for it whatsoever in the
+literature at least on a short-term
+timescale so what this study did
+basically they use the same unilateral
+design the within-subject unilateral
+design as the second piece that we
+discussed so one leg did unilateral leg
+extensions and unilateral leg press and
+just kept everything the same so they
+did the exact same training program over
+the course of the duration of the study
+over the course of eight weeks so
+basically one leg did the exact same
+workout for eight weeks the other leg
+switched a bunch of variables up so they
+would have adjusted the load they just
+did the rest periods even adjusted the
+number of sets and what they found was
+the exact same leg growth between both
+legs so it didn't make any difference if
+you switch things up a lot or if you
+kept it exactly the same and that isn't
+really surprising to me we don't know
+we what it is that causes a muscle to
+grow but we do know that progressive
+tension is really important so you can
+keep everything the same as long as
+there's a progressive overloading
+stimulus in place then the muscle will
+grow and it doesn't really seem to
+matter if you're switching all these
+variables up now by the same token it
+also doesn't matter if you do prefer to
+vary things more frequently for example
+I find training gets boring if I just
+keep all the exercises and all the reps
+and everything the same all the time
+even though it might be good for
+progressive overload this study shows
+that it also doesn't matter if you
+switch things up more frequently as long
+as you can have some kind of progressive
+tension stimulus in place it's okay to
+switch things in and out if that makes
+training more enjoyable for your
+specific personality type one caveat
+here I would say is that if you have
+been training with a simp like a very
+similar training style for a really long
+time like with the exact same approach
+introducing something novel is likely to
+elicit new hypertrophy this was found in
+other research from a group of power
+lifters who basically were doing like a
+lot of really heavy low rep work for a
+long period of time once they started
+throwing like 20-plus reps at them they
+started to grow much better so I think
+this lends some support to the idea that
+you can block out your training over a
+longer time scale to focus on a specific
+adaptation in each block or doing
+something slightly different from block
+to block so that your attention is
+focused on the short-term you're not
+just constantly switching everything up
+but over the long term you start to vary
+things to continue driving progress
+forward and I think that ultimately a
+lot of the research on periodization
+does come down to periodic alteration in
+training variables so I would vary
+things over a longer time scale so say
+from training block to training block
+rather than from workout to workout so
+hopefully that makes sense I think that
+that data was was pretty cool I think
+this is the last thing we're going to
+touch so okay sodium bicarbonate
+supplementation don't know if you guys
+have heard much about it at
+might have some legitimacy so sodium
+bicarb is just baking soda and the basic
+idea is that if you supplement it
+because it's so chemically basic it'll
+help buffer the acid buildup that you
+see in muscle as it starts to fatigue
+and accumulate metabolic byproducts so
+in this study here which was a
+systematic review of 35 studies found
+that 66 percent of the studies which is
+pretty good showed some performance
+improvement from sodium bicarbonate
+however it's mostly been used in
+endurance contexts so only one of those
+studies was on resistance training in
+the piece doctors or dose concludes that
+to benefit from baking soda
+supplementation it seems that high
+volume training sessions with short
+intervals are necessary so if you have a
+really high volume block of training
+with really high rep stuff for example
+or even a single workout it might not be
+a bad idea to supplement with baking
+soda that might improve your time to
+fatigue and maybe the the volume for
+that session however a big caveat here
+is that it does tend to cause a lot of
+gastrointestinal distress as you'd
+imagine especially at the recommended
+dose so down here at the bottom he
+recommends a 0.3 milligram per kilogram
+dose so if you are gonna try it he
+suggests splitting that up into three
+separate doses and even if you do that
+it might not be a bad idea to do it on a
+non training day first just to see how
+you respond to it definitely wouldn't
+put it in the same category as creatine
+or caffeine or even whey protein in my
+opinion but it could have some merit
+take in 60 minutes prior to training in
+terms of buffering those protons from
+that muscle fatigue so there's that oh
+and there's this piece on intermittent
+fasting so I'm not gonna go into any
+detail about this I thought it was
+really great though I've done another
+video on intermittent fasting personally
+I'm not a big fan of intermittent
+fasting as a way to maximize the
+anabolic response to feeding over a
+24-hour period I think there is enough
+mechanistic research to suggest that
+splitting your protein intake out more
+evenly is probably a more optimal way to
+split it up but still there are so many
+examples now
+people in the real world who practice
+intermittent fasting and who are really
+jacked like it doesn't seem to be
+holding them back in any way but what I
+would say is if you are gonna use
+intermittent fasting I would try to keep
+that eating window from getting too
+confined
+so here Eric suggests feeding with an 8
+hour eating window is a suitable
+strategy for lifters and he says there's
+no adverse effects as long as total
+daily protein intake is high enough and
+training occurs in the fed state if
+you're gonna do intermittent fasting
+since it can be a useful tool for
+adherence you can reduce hunger and
+people find it's just a way for them to
+eat that's more convenient it seems to
+be ok but I would try to keep that
+feeding window a little bit more open
+try to train in the fed state pay a
+little bit more attention to your parry
+workout nutrition and definitely make
+sure that your total daily protein
+intake is high enough ok and then the
+last article I told you guys there's a
+lot of information for issue so this
+last article was one that I covered in
+my effective reps video very briefly on
+growing more by avoiding failure so this
+was another study that kind of lends
+credence to the idea of using RPE to
+manage your fatigue as going to failure
+all the time does actually seem to
+inhibit growth at least according to
+this study so if you guys want to have a
+read through that I'll have the link to
+mass down below if you guys would like
+to subscribe and I think I'm gonna leave
+it there for this one mass is running a
+2-day sale today and tomorrow so they do
+this for the first two days of every
+month if you guys would like to check it
+out I'll have that link down below and
+if you guys decide that you're gonna
+subscribe later in the month or next
+month or what-have-you
+make sure you go through Jeff nipper
+calm go over to the affiliate tab and
+then click the mass link over there that
+way you can support me in the work I'm
+doing here on the channel while taking
+your knowledge game a couple of notches
+so that's it for this one guys thank you
+so much for watching if you made it this
+far don't forget to leave me a thumbs up
+subscribe if you haven't already and
+I'll see you guys all here in the next
+one

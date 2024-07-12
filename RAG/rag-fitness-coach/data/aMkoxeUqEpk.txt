@@ -1,0 +1,3297 @@
+[Music]
+hey folks dr michael cartell here for
+rplus and rpu
+lecture number two in the theory of
+science course
+study let's get into the the rules of
+study design aka how science is actually
+done
+what are we going to talk about today
+we're going to talk about
+the flow of
+the certainty and expansiveness of
+information
+from the least likely or
+sort of least set in stone which is
+notion all the way to the most set in
+stone understanding which is
+theory we're also going to talk about
+how people use the term theory
+wrong 97 percent of the time
+it's going to piss you off later after
+you watch this video you're never going
+to look at theory again and you're going
+to start correcting people and you're
+going to run out of friends and you're
+going to be hopeless and alone
+which is the point of most of these
+courses secondly we're going to talk
+about how to generate a precise
+hypothesis which is actually a bit of an
+uphill battle
+and just trying to generate a hypothesis
+already makes you think so much more
+clearly about the world
+so much more scientifically it's
+valuable as its own exercise
+we're going to talk about confounders
+that is when you see the world even
+through a scientific lens
+and you're trying to distinguish between
+what causes
+uh lead to what effects it's not always
+100
+clear that you're seeing what you think
+you're seeing
+that what you think is causing something
+is really what it's causing it and
+that's what confounders are
+but we have ways to deal with that which
+is through
+study validity there's two types
+basically
+two fundamental types you can get much
+more uh gradations if you get in a
+little deeper which we won't do in this
+uh overview course
+there's internal validity and external
+validity basically internal validity
+we've got to get a lot
+uh through a lot of stuff there is the
+idea that your study
+is set up to actually examine what you
+think it's examining
+external validity is how com we apply
+the results of your study to the actual
+world
+and sometimes they come in a trade-off
+to each other so we'll talk about all
+that
+at the end of this lecture you'll have a
+much better understanding of how to read
+studies
+and how to determine if studies are
+really concluding what they think
+they're concluding
+to what extent they are concluding what
+they think they're concluding how
+powerful the conclusion is
+and basically how many grains of salt
+you need to swallow
+given any study because you'll read some
+studies and you'll be like wow that is
+really phenomenal
+you know they really concluded what they
+think they did and this is a pretty
+pretty gold
+study that we can include in our grand
+view of what's going on
+other studies at the other end of the
+spectrum you're going to look at them
+like this is just basically garbage and
+a study just doesn't conclude
+anything we can reliably say is the
+reality
+right every study ever done lies
+somewhere on the spectrum between the
+two
+and we can grade them according to how
+well they fit
+this understanding let's get right into
+it first up
+super important terms in science we have
+essentially four ways
+of categorizing things we think we
+understand
+there are many many other ways to look
+at this but this is a pretty good one
+so probably might be worth your time
+the first one is what
+economist and philosopher thomas sol
+terms notion now from what i'm aware
+this
+there's other terms for notion um the
+way he uses notions specifically is the
+way i'll be using it so if you ever get
+curious you know
+google thomas soul and notion and he's
+got articles
+about how he uses that term and the way
+he uses it and what we'll be using here
+is basically an idea that is assumed to
+be true
+people say it and it's never really
+precisely articulated and it's not
+really a fully formed idea for example
+and here's the thing a notion can
+actually after we filter through a
+couple of these other ones end up being
+completely true or almost completely
+true
+or it can end up being completely false
+the problem is
+the way a notion is stated it's really
+difficult to tell
+if it's true or false or anything in
+between so
+for example we can go after something
+that is actually has a lot of validity
+but it's still stated notionally
+squats are good
+okay what what does that mean
+right people like imagine uh you know
+someone coming up to you in the gym and
+talking shop with you you know someone
+is not training for a while
+and they say oh you know like so look
+what do i do in the gym like squats are
+good right
+what are you really gonna think like uh
+there's definitely that notion that
+squats are good
+before we actually answer the question
+of what they're good we could ask the
+very rudimentary next question of
+what for like good for what like
+are squats good way to spend time on
+thanksgiving with your family
+no right are they a good way to try to
+build an advanced weapon system to
+destroy a planet
+no definitely not okay so they're just
+definitely not a universal good
+okay very few of those by the way all
+right
+so the good for what our squad's a good
+way let's zoom in okay so we're not
+trying to build a weapon system but
+we're trying to be in the gym and get
+fit
+well fit for what you know our squats
+good for people trying to get big arms
+no again no are they good for people
+trying to get big legs maybe
+likely if we zoom in even further and
+say are they good
+for people who want to build big quads
+yeah very much closer to the answer
+being yes
+but now that's not a notion anymore
+right that is a much more
+specifically stated idea him
+starts to look a whole lot more like a
+hypothesis which we'll get to in just a
+second
+right so that idea we're saying now is
+well i believe that in the context of a
+well-periodized plan
+for most individuals squats are a very
+effective
+and a good trade-off of fatigue to
+stimulus way of growing the quadriceps
+yeah that's not a notion like can you
+imagine someone coming up to you in the
+gym you'll be like yo buddy i saw you
+lifting let me ask you a question a
+squat's a programmatic way
+to implement quad hypertrophy
+specifically for my goals but wait what
+what the hell
+damn you sure don't sound like you say
+that stuff but yes technically i guess
+right so a notion is usually a very
+simple statement that a very
+blanket statement often and and you know
+it's got a good chance there's there's
+definitely some notions have a lot of
+grains of truth
+and some notions kind of don't here's
+another notion
+natural food is good for you like man
+you know we've got to get a definition
+of what natural
+food means we have to get a definition
+of what good for you means
+and here's the deal notions are cool you
+know as a way of thinking about stuff
+you don't care to learn much about
+but if you really want to know shit and
+i mean
+know it very precisely know it enough so
+that it can be actionable
+and those actions can have a good
+probability of leading to what you want
+right if you want to engineer outcomes
+around yourself
+whatever it is training life anything
+you want to go a step further than
+notions
+notions are cheap really cheap right
+you got to go to the next which is a
+hypothesis so a hypothesis
+is an idea that is precisely defined
+so that it can be tested another way of
+thinking about it is it's a
+serious guess about how things work
+right
+so a notion is an idea that is assumed
+to be true
+which is already bad right because
+there's no good reason to assume it's
+true
+and that is not very complicated it's
+not very specific and it's not very
+clearly defined
+so it can mean a whole lot or it can
+mean a whole lot of nothing right
+notions carry very little information
+hypotheses carry more information so a
+hypothesis could be you know
+i hypothesize which is by the way a
+serious guess
+that because of the biomechanics of
+squatting because of my personal
+experience with myself and
+loads of my clients because of the
+accumulated wisdom of the bodybuilding
+community over years
+i hypothesized that squats are a very
+effective way
+to trigger hypertrophic stimulus in the
+quadriceps muscles
+if done in a particular way that is
+relevant to good technique right you
+would have to you could do a little bit
+more sub defining there what good
+technique means
+but basically man that's a pretty
+precise definition i mean we can always
+get it more precise but
+as you can tell that second part of the
+definition there it's a serious guess
+like you're not fucking around anymore
+you're actually saying look this is how
+i think things work
+i've taken a real good load of time to
+make sure i'm really precise about what
+i mean
+right so hypothesis remember that
+doesn't
+it it could be totally wrong right i
+hypothesize
+that i have instead of a heart you know
+a class ii
+fusion generator yeah so that's an
+interesting hypothesis i wish
+probably give me dragon ball z powers
+but but unfortunately that's probably
+not true
+but a hypothesis at least goes better
+than a notion because it's
+more precise it's a serious guess and
+it's not just an assumption of truth
+that's one thing you don't want to do in
+science be like yeah that's true right
+like
+is it though you gotta get a little bit
+more precise and
+actually test stuff now here's the next
+part hypotheses
+that have been confirmed through a
+variety of ways
+through a conciliance of confirmation
+from all
+angles over a long course of time
+can rise to the level of facts
+okay so some people say like oh yeah you
+know your facts
+facts are more important than your
+feelings i hope when they're saying that
+they actually are referring to things
+that are facts not you know very biased
+political opinions that are just not
+true so on and so forth
+facts in sort of the way
+scientists think about the world boy man
+they're
+real real rarefied air
+there are very few things that can be
+stated as fact
+for example if you followed any of my
+other lectures
+uh you know that uh my colleague my
+coach broderick chavez and i
+have like a high carb mass hypothesis
+now we have like six different
+lines of reasoning and evidence to
+support it we think it's very likely to
+be correct
+but because we're not quite sure exactly
+its magnitude of effect
+and we can't rule out that there's some
+pretty decent but small chance that
+its effect is zero we still call it a
+high carb mass
+hypothesis this is a very good guess
+it's got a lot of data behind it but
+it's not convincing data
+so what does it take for something to be
+anointed as a fact
+well a couple things it's got to be
+confirmed
+through multiple lines which means what
+anecdote
+what is it what does that mean that
+means it's gotta actually fucking happen
+you know like people have fucking seen
+it
+right like like uh you're a hypebearer
+it's a fact that some dude can lift a
+car
+well he better have fucking lifted a car
+this shit better be on video
+right now maybe there was trickery
+involved which is why anecdotes not good
+enough
+right uh maybe the car was uh gutted and
+it was lighter than a regular car
+maybe it was just all the youtube prank
+and the shit was like digitally
+remastered or some shit
+right but at least some people have to
+fucking have seen some shit anecdote
+bare minimum like boom this just fucking
+happened
+all right but anecdotes not enough right
+because of all those things it could be
+illusory
+next logic it has to make some fucking
+sense
+right probably pretty good sense
+for example you look at the person
+lifting a car
+and they weigh 440 pounds and their
+quads are the size of car tires
+and their hands are the size of toasters
+and you're like huh
+well cross-sectional area is predictive
+of strength and
+uh this person is pretty well leveraged
+to well do some shit that's like lifting
+a car like it
+fucking makes sense if something about
+it doesn't make a whole lot of sense
+i don't know about fact then it's just a
+hypothesis
+all right right that this is
+hypothetically this man can lift a car
+and i know we have some evidence
+which is a video but you know he's going
+to have to do it under more controlled
+conditions blah blah blah so it has to
+make
+some fucking sense sometimes things can
+be fact and not make any goddamn sense
+but then they have to have a whole
+lot of the other stuff like physicists
+have just confirmed this measurement
+over and over and over we have no idea
+how we get it
+but it definitely happens that might be
+a fact even
+i would even say that's a strong
+hypothesis right but it's gotta it's
+gotta
+fit into our logical schema of
+everything else we know
+at least fit in as much as it's like
+tenable like okay i can see how this
+happens it doesn't have to be like this
+is exactly what i would predict
+but it'd be like okay it fits in it's
+not like totally discordant
+totally crazy like what the fuck is that
+going on right so it's anecdotally gotta
+be true shit actually have to happen
+it's gotta make some fucking sense
+next is uh in our field especially not
+like in physics or anything
+practical experience has to probably
+confirm it
+at some point all right so what does
+that mean like if people say well
+hypothetically
+like you know so anecdote this guy got
+jacked using this weird
+program scientists developed where he
+does like one a one rep max every 15
+minutes for three days straight and then
+he rests for two and then he repeats it
+right okay anecdotes cool
+logic it makes sense because you know
+high forces lead to hypertrophy or gay
+so logically it's fine
+uh practical experience who who the fuck
+else got jacked off this program
+right nobody so when you say okay
+is it it's a fact that this works
+not yet it's a it's a very interesting
+hypothesis
+and the scientists that design the
+program if they're worth their weight
+right in science um they'll say hey you
+know we have this interesting super new
+training theory with
+or sorry super new i made that my own
+mistake uh super new training idea that
+we've developed
+new training hypothesis that this is a
+cool way to train that probably leaves
+hypertrophy
+but they're going to tell you themselves
+if they're good scientists like look you
+know it worked in a lab
+um we'd really i honestly like to see
+people try it in the field to see if it
+really musters up because some things
+seem to work in the lab don't work in
+the field because a variety of
+conditions could be very different
+or it's just a one shot one off or
+statistical error who knows right
+so there's got to be practical
+experience right so let's let's let's
+we've squats through this
+anecdotally have people gotten big legs
+squatting fuck yeah logically does it
+make sense makes total sense practical
+experience especially summed up over
+many generations of thousands and
+thousands and millions of lifters
+totally right and what about research
+last one is research and research so
+there has to be
+good scientific examination why because
+science is the only method
+that allows us and we'll see later to
+quiet the noise of statistical error
+to quiet the noise of confounding
+effects like could be this but it could
+be that
+could be this other thing we didn't even
+think about enough research that's very
+well done like we'll describe here
+quiets all that noise and really allows
+you to see
+reality very clearly it's a very limited
+view but it's a very clear view
+and if you really think squats get your
+legs big they had better fucking get
+them big in a lab too
+it can't just happen like well
+anecdotally it happens that's good
+enough for me like
+man if there's an effect really there
+good research is gonna find that effect
+and if
+over and over and over studies simply
+can't find it
+a good example is like weight loss
+through keto people swear by the shit
+and swear that calories don't matter as
+long as you drop your carbs you can eat
+as many calories as you
+want you can eat a ton of calories and
+still lose weight well
+anecdotally there's tons of that
+logically it doesn't make a whole lot of
+sense but
+let's say we go skip that part practical
+experience tons of people have it and
+they seem to think it works
+what about research well every time we
+do a metabolic wart study on keto
+and we drop the carbs and raise the fats
+we don't see any kind of magic weight
+loss for some reason when
+people's activity and diet is completely
+controlled by scientists
+all the magical effects go away so
+definitely the the fact that you can
+lose tons of weight and eat a ton of
+calories
+by a keto is not a fact it's still a
+hypothesis
+right sometimes it's a notion too that's
+you know really unfortunate
+so all of these things have to come
+together notice
+we have to have anecdote you have to
+have logic you have to have practical
+experience
+and research beyond a reasonable doubt
+beyond a reasonable doubt so
+every one of those has to be like yeah
+yeah fits the bill
+anecdote we got it so let's take a look
+at the car lifting guy
+lifted a car people saw it uh live they
+saw there we have cell phone videos on
+youtube
+sweet logically he's fucking enormous
+and he's super strong and he's a world
+record holding power lifter okay so it
+makes sense anyone could lift a car he
+probably could
+and you sort of get the weight of the
+car you do like the vector analysis and
+you're like okay
+he lifted the back of the car which is
+lighter than the front um
+we have like an idea of how much that
+weighs and if you you work all the
+the trigonometry you're like okay well
+it's actually like 700 pounds in his
+hands
+he's dead lifted like 980 in competition
+like okay it was
+clearly within his abilities it's not
+like you know it's like 2 000 pounds
+you're like the fuck that doesn't make
+any sense
+practical experience like you know
+there's like the world's strongest man
+they've literally like dead lifted cars
+before like that's an event
+so that's happened over and over and
+people have done it and so you're like
+okay well okay
+so clearly it's just happened it's not
+just anecdotal like there's a lot of
+practical experience saying that is
+possible and feasible
+um and then research beyond a reasonable
+doubt we get the guy in the lab we get
+like a mock car set up to exert the same
+kind of forces he does it
+and and boom boom voila problem solved
+in fact he can fucking lift a car
+right that's it so if you can't get that
+it's just even semblance of degree of
+certainty about all those things you
+can't call shit facts
+right so you can't say well this is the
+fact that blah blah
+might just be a notion i'll tell you
+nine out of ten times people say
+if this is a fact notion it is not even
+remotely examined
+right the other point nine times it's
+just a hypothesis
+okay and then point one times it's
+actually a fact
+all right so facts are you know science
+uh on the grand scheme of everything we
+think we know facts occupy a tiny
+percent of that
+which is bad because we know no a lot of
+shit that's not true
+but it's good because facts have to be
+elite they have to be the one percent
+hopefully they're gonna grow right two
+three four five you know when alien
+advanced society has 90
+facts or some shit like that um but the
+facts are special
+and they should be because really really
+really have been
+really confirmed it's as sort of
+thinking
+rational well-meaning people when we say
+something as a fact that means we
+did our fucking damnedest to try to
+figure that shit out and we're
+really fucking confident it's true now
+sometimes facts get deposed back to
+hypotheses
+sometimes they get disproved right but
+that doesn't happen that often
+it really does um you know people think
+uh for example a lot of the quote
+unquote facts that science have like you
+know people will say
+you say i love science like yeah i don't
+know about science like they seem to
+just refute their own facts every couple
+of years or every couple of generations
+or every couple like lifetimes and
+you're like really is that true
+and you ask them for an example of that
+and what they give you is actually
+notions
+right because motherfuckers usually
+don't even know the difference between
+facts and notions
+so they'll say you know they used to
+think the earth was the center of the
+universe like uh-huh
+and you call that a fact like yeah that
+was a fact like
+let's go to fact let's see was it
+anecdotally confirmed to be the center
+of the universe
+uh no you know you know how fucking big
+you already
+know anything to make belief so there's
+not even an anecdote there like i guess
+we're here and
+the sun kind of sort of circles around
+us and the star sort of seemed to circle
+around us
+okay it was a given anecdote logic is it
+logically inferrable
+with any degree of certainty that humans
+and and the earth should be the center
+of the universe
+fuck no what a ridiculous egotistical
+thing right even if you happen to be a
+theist and you believe in god and
+creation and all that
+okay uh how do you know god doesn't have
+like a fucking super important fucking
+planet and
+you know the vega system that is really
+his fucking chosen people you know the
+fuckers would be
+you know he tried he fucking sent all
+the disciples down and we fucking killed
+them all and he's like oh fuck these
+people
+he's over there doing some other shit
+he's barely paying attention to us maybe
+right
+so you don't even know that logically it
+should be in further center of the
+universe
+practical experience fuck even get
+practical experience something like that
+right there's no telescopes back then
+there's not even any fucking data on
+what the
+universe structure looks like this is
+this might not even be a way to get
+practical experience
+and then uh what about um well okay i'll
+actually give you a good example of
+practical experience there
+um we actually have measured the
+structure of the universe
+uh hypothetically this has never
+happened we have concluded
+uh based and we basically have a
+hypothesis that we're the center of the
+universe
+and a couple of predictions fall out of
+that hypothesis like if this is really
+true
+x y and z also have to be true like
+radio waves have to bounce off a certain
+way
+we have to see like redshift or
+blueshift with the planets and the stars
+and then you go through that checklist
+and
+all these shits are true so that's like
+practical experience basically looking
+at telescopes and shit
+that says yeah fucking seems like the
+earth really is the center of the
+universe right
+and then beyond uh research beyond the
+real research beyond a reasonable doubt
+research in fucking bible times are you
+fucking kidding me
+it's a fucking dark ages nobody did any
+fucking research galileo did some
+research you know got a shit
+in trouble real quick so basically
+you know people say well it used to be a
+fact that the earth was around it was
+not a fact
+it wasn't even a fucking or sorry earth
+oops flat earth slip up
+don't tell nasa don't edit that out
+scott i want that in
+so so basically you know people think
+the earth used to be the center of the
+universe that it used to be a fact it
+wasn't even a hypothesis
+all right some people like copernicus
+galileo etc
+they were the first people to even name
+that a hypothesis
+it got a lot of people in trouble for
+even calling that hypothesis
+how dare you right it was a fucking
+notion
+right so a lot of times people think
+facts get overturned facts rarely get
+over it happens it happens
+but it's very rare which is why we can
+be very confident in facts which is when
+you know something is a fact
+you can use it as a pretty stable base
+of operations
+for inferring other things and finally
+getting an understanding of some shit to
+be able to have actions remember from
+earlier
+that result in predictable consequences
+and make your life better in whichever
+way you want
+lastly theory theory
+oh my god i could do a whole fucking
+video i'm not going to take up this
+whole video to rant about the shit
+theory is defined as an interconnected
+framework
+of facts that allow or allows for
+strong hypothesis generation and thus
+prediction of future events
+slash relationships okay a theory
+is something that has shitloads of facts
+connected to each other
+painting a grand architecture that makes
+very very good sense at every way you
+look at it
+gravitation is a theory there are a
+bunch of facts about how gravity works
+the degrees of acceleration the masses
+of bodies
+so on and so forth all of them are facts
+because they're fucking confirmed by all
+this stuff
+and they all make sense in light of each
+other and they're basically never
+violated
+so gravitation is a series of
+interconnected framework of facts
+that allow for a really strong
+hypothesis generation here you go
+how heavy you're going to feel on
+jupiter like if they you know jupiter's
+gaseous uh gaseous planet so if they
+give you a fucking platform
+or some shit to the core and you stood
+on the platform how heavy would you feel
+on jupiter
+well we know the mass of the planet
+right we can predict
+exactly how you're gonna fucking feel
+right it gives us a
+really good hypothesis generation like
+imagine if gravity wasn't a theory
+it was a notion and someone was like hey
+we're gonna we have the technology to
+visit other planets and they're about to
+land on this fucking planet that's like
+four times the mass of the earth
+and someone's like how heavy am i going
+to feel on there they'll be like i don't
+know
+you know your guess is as good as ours
+no well luckily gravity is a fucking
+theory so it really allows
+for really strong predictions here's
+another one evolution
+is a theory of evolution and i'll get to
+this in a second it's not a guess
+okay is it a highly interconnected
+framework of all supporting facts
+we have the genomic record we have the
+fossil record we have the geological
+record
+we have microevolution demonstrated in
+laboratories
+we have macroevolution demonstrated
+again through all the fossil record
+genomics and everything like that
+all right all that taken together fuck
+that's a whole lot of facts
+and they allow us to make predictions
+that are consistently true right
+evolutionary biologists make a bunch of
+predictions about
+how you know you tell evolutionary
+biologists and evolutionist psychologist
+uh you tell them the difference between
+uh in sizes of male and female in a
+species they've ever seen
+you tell them about sort of how rare
+food is or how plentiful enemies are so
+on and so forth
+and they can give you predictable
+behaviors that are very likely to occur
+how the fuck are they doing that because
+they have
+a theory that allows them so many facts
+we really start to see the landscape
+really well
+when you see a landscape well someone's
+like hey point to the trees you're like
+well there they are because we know
+where the fuck they are that's how the
+shit works right
+here's the thing 97 times or whatever
+fuck i said out of 100
+people say i have a theory stop shut up
+you don't have a theory okay one person
+doesn't make up a theory
+one person can make up sorry to throw in
+this term a model
+which is potentially a way to link facts
+that makes sense right that's kind of
+like
+uh sort of somewhere between it's like a
+hypothesis version
+of a theory okay hypothesis is a fact as
+modelist a theory
+sort of but that's like takes teams of
+scientists and
+maybe one can do it but that sure as
+hell isn't a theory all right and you're
+not a fucking scientist you're some
+fucking random dude
+saying some bullshit right not you but
+the person is telling you this kind of
+shit
+so people say you know i have a theory
+you do not have an interconnected
+framework of facts
+that allows for strong hypothesis
+generation that's not what you have all
+95 times out of 100 when someone says i
+have a theory
+they have a notion two percent of the
+time
+they have a hypothesis which is like
+really like man
+and if somebody really you're like i
+have a theory that if we manipulate
+volume and intensity relationships in
+the following way we're gonna get the
+following like holy shit that's a real
+hypothesis
+they're the man right usually they're
+like i have a theory
+that if you lift big weights you get
+huge you're like
+boy i wish i knew what you meant by big
+weights or
+huge rate or get and what's the time
+scale who the fuck knows it's not even a
+hypothesis
+it's literally a notion right it's a
+fucking guess
+the only difference between that kind of
+notion and the usual kind as usual kinds
+like this happens
+when someone says i have a theory
+they're at least having enough humility
+uh to to call their shit a guess okay so
+usually when someone says i have a
+theory it's like a really poorly
+educated guess
+theories are not guesses theories are
+built on a foundation of facts
+theories are more fucking factual than
+facts are because they connect multiple
+facts
+really really super important to
+understand so
+folks when you're talking if you want to
+be a
+super scientific about shit use these
+terms use them well
+right don't just throw around the term
+fact very few facts out there very
+rarefied error
+don't just throw theory around i it's
+great to use the term hypothesis all the
+time
+and uh call out notions when you see
+them you don't have to tell people
+that's a notion but in your own mind
+you're like that's a notion
+that's a notion that's a notion so now
+that we have
+this architecture here this
+understanding we can start to see okay
+notions are bullshit they're nice it's
+maybe like if you need to make a
+decision super fast you can go on
+notions but
+not scientifically you shouldn't do that
+so how do we get to theories because
+well ideally everything is a theory
+everything is explained by grand theory
+and we can predict everything that's
+going to happen and we're fucking all
+powerful and all wise and
+science wins right so how do we get to
+that or some increasing semblance of
+that
+well you know we got to get the facts
+first because in fact so we have collect
+facts and we order them together and
+then they become theories
+how do we get to fact hypotheses right
+all facts start out as hypotheses first
+and after getting vetted like fucking
+crazy they might get anointed
+or appointed to be facts so
+super important to generate hypotheses
+right
+so next slide how do we generate a
+precise hypothesis
+the thing is it's not very easy as we've
+already seen
+the nature of a hypothesis has to be
+tested
+and for something to be tested
+scientifically and tested well
+we have to find out what exactly we're
+claiming
+okay let's go through a couple of
+notions
+and try to clean them up as best as we
+can to turn them into hypotheses a
+couple of
+examples here number one a claim
+i can beat you up right people usually
+say meaner things like yo
+i can kick your fucking ass right so
+i can beat you up when people say that
+what exactly does that mean
+does that mean in an altercation at a
+bar or a club
+the next question is am i allowed to use
+a chair or a broken beer bottle
+like because usually someone says you i
+can fucking kick your ass and you're
+like oh is that right and you fucking
+take a chair and pick it up they're like
+yo what the fuck are you doing you
+fucking crazy asshole
+like oh oh you implied that there's
+going to be a rule system
+what's the rule system right there's
+like a really good wrestler
+can beat up most people unless the rule
+system is the guy has a knife
+right or you know if the rule system is
+you're allowed to strike or you're not
+allowed to strike so i can beat you up
+is you know maybe the most formal way to
+postulate that
+is i can defeat you by a judge's
+decision or tko
+in a sanctioned mixed martial arts match
+most people don't say that when they say
+i can beat you up but if you're if you
+really like you're getting some beef
+with someone you're like yo i can kick
+your ass and they're like no you fucking
+can't you're like
+all right let's enroll into an amateur
+mma fight
+have it be sanctioned or go to an mma
+gym and have the expert people there you
+will pay him a hundred bucks
+and they'll like ref the fight for us
+we'll sign the waivers
+and they'll make sure it's all rules and
+everything's followed and we'll actually
+decide in a formal systematic manner who
+can actually kick whose ass
+pretty precise claim uh another one you
+know there's always
+i can beat you up with what weapons you
+know like you talk shit to the wrong guy
+he used to be navy seal
+i don't give a shit how much fucking
+fighting you know you're gonna die
+before you ever get to the guy
+right so i can beat you up pretty
+interesting claim seems really
+straightforward
+and it's pretty close it's one of the
+more straightforward ones that we're
+going to examine
+but even still you have to be very
+precise once you say i can defeat you in
+formal next martial arts competition
+under the standard ufc rule set man that
+is a hypothesis
+right and that can be tested right every
+time you watch ufc
+or you watch bellator and you see a
+fight happening that is literally a
+hypothesis test
+when people bet on one fighter versus
+another they're literally just
+hypothesis testing
+i believe that your my guy can beat you
+up under the following set of very
+precise conditions really sweet really
+awesome right
+you used to be a notion now it's a
+hypothesis here's the next one
+strong men are stronger than power
+lifters you see this kind of dumb ass
+shit debated all the fucking time on
+instagram is who's stronger like
+world's best powerlifter or a strong man
+well what do you mean by strong
+and someone's going to be like what do
+you mean fucking everyone who's strong
+does everyone really know strong
+right when a guy does a 1rm with 500
+pounds
+and another guy does a 10rm with 4.95
+who's stronger the fuck 495 guy
+why he lifted less weight yeah but he
+did 10 with it
+so how do you compare the two you
+probably should put the same
+weight on the bar and then here's
+another question if you have the same
+weight on the bar
+one guy does it once one guy does it
+three times can you say the guy that did
+it three times is stronger
+well strength is defined as the skill of
+applying force to an object and is
+usually defined as maximal force
+so when one guy benches 500 for a single
+and the other guy benches it for a
+double
+the maximum force was pretty much the
+same right it's pretty pretty identical
+the load is the same
+and for all intents purposes is the same
+force i'll give a shit how many reps you
+fucking did it with
+uh do the same strength so then you're
+like okay
+i guess the way we're really going to
+find out if people are stronger is
+if we specify that your maximum lift has
+to be harder or heavier
+now we're getting somewhere so it's got
+to be a one repetition max
+or hey shit a five or five rep max but
+both guys have to do five reps then we
+compare the load because you know we're
+not comparing reps here that's not what
+strength is
+and then going we ask the next question
+what's the lift going to be
+you guys ever like walk into a gas
+station and start chatting up with a
+clerk and they're like
+you're pretty big how much do you lift
+and you're like what do you mean lift
+like there's like the bench press squat
+deadlift clean
+jerk stone loading i don't fucking know
+what you want like you know usually
+you just say like you know usually they
+want a no bench or if they're like an
+old lady or something you just give them
+your deadlift because it's the most
+impressive and they're like oh my god
+you're a superhero like i'm a super
+villain bitch
+and you get all the fucking groceries
+you don't pay for the shit you run off
+where am i anyway so we have to specify
+the lift or series of lifts
+power lifting is a pretty good start
+right because you've got a squat bench
+deadlifts multiple angles multiple
+muscle groups
+very formal rule set what about strong
+men
+well you can compare strength and strong
+men but sometimes you know the
+competition implements that are picked
+the events
+just might not favor one guy over
+another right like you got a guy who's
+just not technical with stone loading
+and he can deadlift a shitload more than
+the other guy he can bent row a shitload
+more
+he can press a shitload more he can
+squat more but the other guy just
+knows stone loading technique super fast
+or super super well
+and he beats him on stones is the guy
+who beat him on stone stronger
+maybe if you've defined strength as the
+ability to lift stones
+which is an interesting way to define
+strength it's not wrong
+necessarily but good luck convincing
+people of that right
+so when people say strongmen are
+stronger than powerlifters what i'm
+getting at is
+you're going to have to really define
+what strength is and get people
+strong men who are arguing for
+themselves powerlifters argue for
+themselves to get some
+some overlap here that's okay this is
+how we're really going to test it and
+they potentially could
+right they could say okay let's do we do
+overhead press a strong man you guys do
+as power lifters bench press
+let's do a best five rep max uh
+incline barbell press and that's gonna
+be strong today
+okay cool that's a good start and
+there's more comprehensive there's
+better ways
+but look as we get to that hypothesis
+remember strongmen are stronger than
+powerlifters
+notion strong men have higher five
+repetition maximums in the inclined
+barbell press
+when tested under formal conditions
+versus power lifters that is a
+hypothesis
+right and if we're really it's
+interesting because once we start making
+hypotheses we realize each hypothesis
+is just a tiny sliver of knowledge so if
+you want an expansive hypothesis
+you're going to have to say like not
+only are we testing incline barbell
+press
+we're testing the upright row we're
+testing the weighted pull up we're
+testing the bent row we're testing the
+squat
+we're testing the good morning or
+something hamstring strength
+and then you can really say like we've
+tested 90 of the muscles of the body
+in major compound non not super
+technical movements that everyone
+knows and we've tested them on maximum
+strength to really see who's stronger
+now
+that's a good experiment very hard
+that's very precise hypothesis they get
+you a very precise very good answer
+but if you just say yo they're stronger
+and you're like well why they're like
+because
+because strong men can do more stone
+loading or like all right that's
+again a notion right next one next
+example last example
+broccoli is healthier than ice cream
+it's a hypothesis it's a fine idea and
+it's mostly true but not always true
+here's an example in the context of the
+average
+overweight westerner right some fucking
+cocksucker from denmark or
+canada or the united states uh is he
+better off replacing
+half of his ice cream consumption with
+broccoli consumption
+yeah fuck yeah he's gonna lose weight
+and more micronutrients
+it's all great by every indices of
+health he's gonna be better off
+now what about a person who is anorexic
+and incredibly underweight
+what about a person from a country with
+starvation
+like they finally get that person out of
+starvation can you imagine adopting a
+child out of a starving country a job to
+adopt a child
+from the sudan amazing what a great
+thing you did and you sit them down at
+the dinner table and you're like you
+know hello
+you know we're in your new family are
+you hungry and they're like uh-huh
+and you're like okay here's a plate of
+broccoli they're gonna be like what the
+fuck like can you send me the fuck back
+to the sudan
+like he's just kidding me right you give
+him ice cream and they're like fuck
+calories carbs and it's literally by
+blood measurements of health going to
+make them healthier
+to eat ice cream for like weeks on end
+until they renormalize to a normal
+weight they stop running out of like
+literal fats to
+construct their brain tissue all right
+so broccoli is healthier than ice cream
+how do we turn that into a hypothesis
+that actually has merit beyond an ocean
+we say broccoli is healthier than ice
+cream
+in the context of replacing some
+fraction of ice cream in the modern
+average western diet
+in a mostly overweight individual now
+that's a hell of a hypothesis
+and you can do a study you can take
+people and have them live in a community
+or a ward
+and you can give the 50 of them the same
+amount of ice cream they always ate and
+50 of them you trade off their ice cream
+to the broccoli that's a shitty fucking
+group to get into by accident
+hey you in the ice cream brook the
+broccoli group like i don't want to talk
+about it
+i gotta eat broccoli later right then
+you know you get a very clear result
+you're like yeah clearly for these
+people broccoli is better
+but not guaranteed not guaranteed so
+again if we want to generate hypotheses
+we have to generate very very precise
+guesses at what's going on and then
+tested them
+all right getting on to testing them so
+hypothesis testing which is most of
+science
+turns out it's not as simple as it could
+be
+one of the big reasons is confounders
+confounders are the reason we need these
+very elaborate study designs
+because confounders basically make it
+that
+what you're seeing is not really what's
+going on right so the definition
+here is causes or effects that are not
+the causes of effects we assume
+are responsible for the interaction a
+couple of examples
+claim notion people today are less fit
+because of television watching
+seems seems tenable right television
+watching has been increasing for a long
+time especially through like the 70s 80s
+90s
+and obesity has increased during that
+same time and fitness
+average fitness has declined i say oh
+that's yeah
+tv definitely right but hold on a second
+what about fast food what about fast
+food consumption
+fast food consumption you know tv like
+you watch more tv then you become more
+sedentary
+and then you gain weight and you burn
+less fit well you know plausible
+certainly something to it um but what
+about
+a more direct link of like you're just
+eating more fucking tasty high fat high
+carb food
+fast food and it's super addictive sort
+of i don't like to use that term
+formally it's super
+like rewarding so you want more of it
+you eat more fast food you gain a little
+weight you become less fit
+uh that seems at least as powerful
+potentially of a mechanism
+as does uh the idea of tv watching
+right and the thing is like there's some
+good research to show that people
+even who are sedentary actually burn
+quite a few calories relative to their
+body weight and
+doing much more exercise definitely
+burns more calories maybe not as many as
+we'd expect so there's some reason to
+believe that
+just sedentary behavior probably doesn't
+make you fat but sedentary behavior
+plus excess eating almost certainly
+makes you fat so
+if we just say people today are less fit
+because of tv watching
+right that's a fine hypothesis but if
+you were on like uh you know uh what was
+that fucking show back in the day
+um who want to be a millionaire the
+millionaire show scott fucks that show
+called
+who wants to be a millionaire right
+regis philbin the man
+right if you're on who wants to be a
+millionaire and you're answering the
+million dollar question
+in in his options right and it's like
+how did americans what is the largest
+explanatory factor
+for the reduction of fitness in
+americans from 1970 to 2000
+and one of them is americans are
+watching more tv but one of them is
+they're eating more fast food are you
+really just gonna pick the tv one
+no you're gonna be like oh fuck i had to
+phone a friend i got a phone doctor mike
+you call me i'm like i don't fucking
+know
+right just guess right so there's an
+example of a potential con founder
+because and here's here's how bad
+confounders really are
+who are the people that watch the most
+tv they're the same fucking people that
+eat the most fast food
+so it's really hard to tangle apart
+right so there's another cause could be
+responsible
+right confounders get even trippier than
+that let's look at another one
+notion i got stronger because i trained
+my arms more
+like my arms got stronger uh because or
+sorry like
+uh my bench press got stronger because i
+trained uh my arms more
+okay interesting uh i guess sort of
+hypothesis notion
+well potentially here's what happened
+yes it's totally possible you train your
+arms more your triceps got stronger
+your chest didn't get any stronger and
+all of a sudden you're benching more but
+here's the thing
+what if you had been chronically
+overdoing it for your chest
+you train your chest let's say your
+chest and technical terms was
+exceeding its maximum recoverable volume
+too often
+and you started training your arms more
+so you were like ah yeah
+i can't just be in the gym for four
+hours so i'm gonna train my chest less
+you train your chest less and it puts it
+back in between minimum effective volume
+and maximum recoverable right in that
+sweet spot
+between the two somewhere and all of a
+sudden you're making fucking awesome
+chest gains your chest gets stronger
+right so it's actually the opposite
+cause of what we thought
+right you'd be like hey why'd your bench
+press get stronger like fucking train my
+triceps more wrong you train your chest
+less
+that's why and when they train their
+triceps more they might have hit close
+to mrv so much that the triceps just
+plateaued
+right so i got my fucking my back butt
+up because i train my triceps more
+false it's literally the opposite of
+that it's because you trained your chest
+less
+but fuck you know you started training
+your arms more and then your bench got
+stronger so what are you supposed to
+fucking conclude
+well that's the thing is if it's a
+serious hypothesis it requires much more
+in-depth analysis
+than just anecdotal evidence which is
+what you have remember it's got to mean
+anecdote
+practical experience and formal research
+blah blah blah all that stuff has to be
+checked off it's not a fact
+it's not even a hypothesis yet all right
+so hypothesis generation
+tough because there's confounders around
+we got to figure out what's really going
+on we might have to look a little deeper
+and
+really get to formal research last one
+you got a new relaxation pillow the
+relaxer 5000
+stay calm it doesn't do anything sexual
+though that would be very sweet right
+relaxation pillow and you you got it you
+fucking bought it for like 200
+on amazon you sort of felt ripped off
+but you're trying to justify it yourself
+you know what it fucking helps me
+recover bro i sleep better i fucking get
+better rest everything's going great it
+fucking works
+well it could just be a placebo effect
+right very very well established the
+fact that when you believe something to
+be true
+if it's something your brain has a power
+to change in your body or in your
+actions
+it could just be your brain changing it
+like uh one of the best ways to recover
+is uh to really actually
+relax how do you relax well if you
+believe that you were being relaxed by
+something you were much more likely to
+be like
+and all of a sudden you do that you fall
+asleep better you sleep better and you
+recover faster
+because you believe you're getting a
+fucking recovery specialty with this
+pillow
+but that's actually not doing shit
+interestingly enough
+uh don't want to spoil any other
+lectures in the rpu
+massage its effects on recovery work
+pretty much like that
+it's nice to have someone touching you
+and it's super calming
+because it's calming it's all the other
+effects it's kind of muscle shit
+like fucking you're working on your
+knots or some shit the fuck that is what
+the fuck is a muscle knot
+and by the way there's a good question
+for you muscles don't tie themselves in
+knots that's
+fucking insane but neither here nor
+there you get a relaxation pillow you
+think it's helping you because of its
+magical relaxation powers or what's got
+like perforated holes to drain away your
+asses or some shit
+bullshit turns out it's a placebo so we
+can't assume
+that relationships that seem true are
+true
+we have to test them more formally we
+need a way
+to link cause and effect and in order to
+do that
+we have to obviate we have to push away
+all the confounders to see reality
+how the hell do we do that well we do it
+by study design
+the entire purpose of scientific studies
+is to take confounders take causes take
+effect
+and try to remove as many confounders as
+possible like if you have like
+a cutting board you got to get rid of
+all the garbage and see
+what is actually causing what right and
+for studies to be good we have to
+consider
+a couple of things first internal
+validity is the way the study structured
+actually allowing the study to conclude
+what it does we'll talk about internal
+validity
+in just a bit second is external
+validity let's even say the study
+concludes that it concludes
+how useful is that for us to apply to a
+normal population
+quick example we learned that a certain
+kind of dribbling
+makes it less likely that you get the
+ball stolen from you but the test was
+done
+in 8th grader can we say that we're
+going to recommend this to nba
+athletes i don't know i sure like to see
+it work in nba athletes first
+eighth graders don't have that kind of
+reach they'll have that kind of
+athleticism
+and that dribbling thing might have been
+something the eighth graders are new to
+but people in high school try and it
+doesn't work because people figure out
+their game so by the time you get to the
+nba
+nobody does that shit right that's like
+trying like a basic jiu jitsu 101 arm
+bar
+on a world champion grappler he's gonna
+be like really you don't think i've seen
+this a million times
+like damn it what arm bars work against
+untrained opponents
+like yeah sure we can even have a study
+that says that but it's not externally
+valid to world champions
+other things might work better at that
+point another thing to consider
+there are essentially two types of
+studies we can do in science there's
+there's way more gradations we can split
+them up
+there's two big ones there are
+observational studies where we don't
+change anything
+we just look at stuff like we look up
+the cdc's report on diet and disease
+and we know they they talk to 10 000
+people they ask them a shitload of
+questions about how they're eating
+and they measured a shitload of things
+about their disease rates for like 20
+years
+did they tell them how to eat no did
+they make them sick on purpose i sure
+hope not i don't know man the
+government's making us look
+sick but putting fluoride in our water
+or whatever right
+so none of that happened nobody
+interfered with anything they just
+collected data and they're just looking
+at it
+the thing is observational studies don't
+let us infer
+true causation they can give us really
+good hypotheses
+they can generally get hypotheses but
+you can't do causation because you
+didn't actually manipulate anything and
+see
+if i put this in does it work if i take
+it out does it not work right
+but correlations are pretty good and
+they're a really good start
+interventional studies we actually
+intervene
+like you give mice sucralose and then
+you give other mice not sucralose
+and then you see how the effect goes and
+then you switch the groups
+and you give the other mice not
+sucralose and you give these my
+sucralose and you see
+okay do they get more cancer or
+something you're actually changing
+something which
+formally allows you to make a good guess
+at causation like this is
+actually causing that there's plenty of
+room for both kinds of studies
+observational studies tend to be more
+externally valid you know interventional
+studies
+tend to be more internally valid right
+and we're going to talk about later
+there's might be a little bit of a
+trade-off between the two both have
+their place
+we just need to know how how much we can
+conclude from both
+right all right let's get into the
+depths of stuff
+with internal validity okay
+there are a couple of concerns with
+internal validity we're going to go
+through each one the first one is
+setting up controls what is the purpose
+of
+what the hell are controls and what the
+purpose of setting up well basically
+you want to make sure that the effect
+you think you see
+is the effect you're actually seeing
+okay that's called controlled conditions
+it's the quieting down of everything
+else
+to make sure we're actually seeing what
+we want um we'll talk about
+observational studies later on something
+called covariates
+this is for interventional studies right
+generally speaking there's got to be a
+way for us to think okay
+when we make a change how do we know it
+wasn't just by chance that we saw the
+effect for example
+you take lifters you measure their quads
+you have them do squats you measure
+their quads later
+and their quads grew what if they were
+like 13 year olds their quads were
+growing anyway
+what if the quads would grow just as
+well from leg pressing so what the hell
+are you concluding anyway
+who the fuck knows right there was no
+way for you to control the conditions
+enough
+to make sure that okay we're going to
+test this and we're going to test not
+this
+to make sure that when this is here and
+it's not here it's
+the effect we're looking for is not
+happening when when our proposed cause
+is around
+right like if you're saying something
+causes something else when the cause
+isn't around you better not fucking see
+that something else
+right if you on purpose take it away
+there better not because if it just
+happens anyway how the fuck you know
+that your shit is even causing it right
+so uh there's a couple of ways to do
+that one thing you can have
+is what's called a control group it's
+the most straightforward way it has its
+upsides and downsides
+easiest way to understand this the
+control group there's two groups
+treatment group and control group
+treatment group gets the shit you think
+causes something
+and remember your measuring effect in
+both groups and the control group gets
+nothing right or some version of nothing
+so
+uh you feed one group of rats you're
+trying to see if
+sucralose fake sugar right artificial
+sweetener causes cancer
+you feed one group of rats the
+experimental group the treatment group
+you feed them sucralose
+the other rats you feed just regular
+diet there's no sucralose just regular
+fucking sugar
+same old shit right so the regular diet
+rats somebody could say
+be like hey what do what are these rats
+eating like they visit your lab and
+they're like whoa
+cool science what are those rats eating
+and you're like well they're eating
+sucralose we're testing to see if it
+causes cancer yeah
+and they're like what about those rats
+what are they eating and they're like oh
+no they just eat a normal diet they'd be
+like that's stupid
+why ha well here's why because if we
+have measure the effect at the end and
+both rats get cancer at the same rates
+well clearly the sucralose isn't
+probably fucking not causing cancer
+because how the fuck do both rats have
+the same cancer rates
+sometimes they see like the normal
+eating rats have more cancer you're like
+okay well clearly sucralose is just not
+responsible for shit right
+so a control group really allows you to
+see if there's no
+cause that we want to see present does
+the effect still happen or does it
+happen less or more
+now there's another way to do it two
+treatment groups
+so you could say okay what grows quads
+more
+squats or not squats who the fuck does
+not squats for getting big that's kind
+of stupid way to compare
+things like of course squats are going
+to grow your legs more than not
+squatting
+or training at all that's a stupid
+control group so in exercise and sports
+science
+a lot of times you'll have two treatment
+groups that compare two different things
+two relevant things
+so the hypothesis is squats grow your
+legs more
+your quads more than leg presses ah now
+you have two groups
+a squatting group and a leg pressing
+group one group squats one glute
+leg presses four months later we see how
+much change in muscle size there was two
+treatment groups is cool
+for a variety of reasons and one of them
+is it's way more easy to apply to the
+real world
+right especially if you pick your
+treatments properly and then
+lastly a really interesting way to do
+things difficult because it takes more
+time it's not always applicable
+but a crossover design crossover design
+is super cool
+the simplest way to do it is you do
+let's say a
+uh this is really exotic an eight month
+study
+and quad hypertrophy you've got
+dedicated subjects
+and the groups start out with just like
+in the last study
+four months of leg press four months of
+squat but then after the next four
+months you flip the groups
+so the people that used to leg press for
+four months they're squatting for for
+the next four months
+the people that used to squat their leg
+pressing now and you measure
+the quad size before the study starts
+right at the four month mark in the
+middle
+and then right at the end so if you see
+that when the groups that were squatting
+no matter who was squatting after squats
+they did better than leg presses and
+squad size
+fuck man looks like anyone you apply
+squats to whether in this group that
+group
+doesn't matter they fucking get bigger
+you got you're on to something
+but if the both of the groups grew more
+in the second half of the study than the
+first
+it doesn't matter squats or leg presses
+you're like i don't know
+we really can't conclude much of
+anything because if leg presses really
+were a fucking thing
+or sorry if squats really did grow more
+than leg presses you'd expect to see
+because
+any time we put in squats and take out
+leg presses we see better growth
+if that's true we're on to something for
+sure right
+main point here and there's many other
+ways of doing this but the main point
+here is you can't just apply a treatment
+and then measure the effect you can't
+say okay this is the cause i think
+this is the effect oh sweet we got the
+effect right if you did that
+you'd be like okay well you know i think
+the cause
+of you know uh shark attacks is ice
+cream consumption
+and then you would go you know to see
+where ice cream can
+consume the most and uh it turns out
+shark attacks have on a shitload because
+ice cream is consumed on beaches during
+the summer and you're like i fucking
+knew it the sharks love the ice cream
+they can detect your carbohydrate levels
+through the fucking ocean and they come
+out and they're actually after the ice
+cream it just happens to be inside you
+already and then they're just going
+after well that's ridiculous right
+we never actually applied a different
+treatment and saw well let's go to a
+place where people really don't eat ice
+cream and apparently there's like you
+know
+some beaches in australia where ice
+cream is just not really sold and the
+surfers they don't need ice cream anyway
+what's the rate of shock attacks it's
+like a fucking trillion
+you know per hour or whatever like crazy
+australian shark attack rates you're
+like huh
+no ice cream but still shark attacks
+okay back to square one so you can't
+just and this is even that was an
+observational example
+i'm like spacing on how you even design
+a study that didn't like
+uh have a group squat and then and then
+measure hypertrophy pre and post and say
+squats are great for hypertrophy
+compared to what right that's not a
+statement that carries a lot of validity
+and it might not even be true that
+squats are great fibery
+because how do you know if they did
+nothing they would
+uh grow quads more for example you could
+take teenagers
+and do an endurance running program with
+them for two months and they'll grow
+legs between a and b
+but the thing is that the teenagers that
+didn't even do the insurance running
+during that time just for maturation
+they grew legs even bigger so you could
+say well see endurance running in
+teenagers increases leg size bullshit it
+actually attenuates leg size
+uh you just never measured a control
+group so super super important
+without proper controls i'll tell you
+what right out of the gate if you ever
+read a study
+it has improper controls garbage because
+we can include shit
+right next study blinding what does
+blinding mean it literally means
+everyone wrote the study gets blinded
+after like the taj mahal engineer so
+they can never replicate it again just
+kidding that'd be super fucked up all
+right
+so blinding occurs on a spectrum
+from meh to better to best
+you can't always have the best because
+some research settings just
+aren't conducive to the best kind of
+study blinding
+but based on how the study is blinded
+and how it's conducted
+you can rate it remember your rating
+studies on how good they are it's not a
+zero or one rating it's like a one to
+ten scale
+the best studies the tens are all best
+blinded we'll talk about that means in a
+second
+but if you have a blinded study that
+does a lot of other good things you can
+still conclude something from it
+so what is matte blinding okay the
+subjects know what the study
+is testing and so do the people
+administering the test
+imagine a psychologist administering an
+iq test to you test of intelligence
+and it's like you show up and they're
+like here's 50 bucks
+if you complete this test and you're
+like sweet what's the test like it's
+your intelligence test and you're like
+okay
+so the researcher knows it the subject
+knows it
+eh you know there's no blinding everyone
+knows what's going on right so
+potentially there could be some
+confounding there
+um thing is for some things like
+intelligence that's actually okay
+if you know it's an intelligence test or
+not it doesn't fucking matter because
+you just got to take a shot at the title
+right if someone knows it's an
+intelligence test there's no way for
+them to gain the system or some shit
+these are some questions you have to
+answer either right or wrong
+and a psychologist knowing his
+administering intelligence test or not
+doesn't really seem to bias people in
+one way or another like
+he's sitting there all expecting her
+shit and he's just sitting there
+normally he's done a trillion times
+right
+so if the subjects know what the study
+is testing
+you know that that's definitely uh
+potentially not a great thing in some
+contexts but sometimes it's okay
+right if you're measuring abilities it's
+usually okay
+uh if you're measuring things that are
+subject to the placebo effect
+real bad here here's an example give
+someone
+a pill that's supposed to reduce their
+pain
+and let's say their subjects are
+experiencing some chronic pain
+and you just give them a pain pill and
+the researcher is like here's a pain
+pill
+and the guy's like what does it do like
+it reduces your pain
+and they take it and we just monitor for
+three hours like every 30 minutes we ask
+them how much pain they're in
+placebo effect they're going to be like
+yeah i think i think it's working yeah
+for sure
+but if we just gave him a pill and
+they're like what's this for and we're
+like um
+you know it's actually just a test pill
+we're not even sure what it does but
+we're gonna give you a bunch of
+questions and some of them are pain
+questions but they didn't even know it
+was a pain study so they just honestly
+rated them and it turns out the pill
+doesn't do shit or the pill is effective
+and they're like ah actually
+less pain i don't know what the fuck has
+to do with anything but i honestly don't
+feel as much pain as normal
+right so that's in the better category
+so better is subjects don't know what
+the study is testing
+or they think it's something else right
+the something else thing is fucking
+hilarious because
+uh people don't show up to psychological
+experiments often and just let you test
+them for shits and giggles when they
+don't even know what it's about
+so what they do sometimes here's a
+really classic example
+uh this is really the institutional
+review application for this must have
+been pretty extensive
+they were measuring anger responses in
+college age students and how people
+sociologically deal with the expression
+of anger
+and i believe it was multiple groups of
+students they were testing and i think
+students from like i'm misremembering
+the study but i think students from like
+the east coast
+uh seem to be uh deal with anger a
+little bit different than students from
+the midwest for example
+so what they did was they invited
+students into a psychological evaluation
+and they said like oh you're going to
+take a test and it's about like visual
+spatial learning or some shit people
+don't even
+know whatever the fuck that is so you
+will connect some dots and stuff
+on their way into the test they had
+an accidentally another researcher bump
+into the person right while they were
+walking and the researcher was
+instructed to be cold about it
+so the researcher every single subject
+that came in because they came in one at
+a time
+the researcher walked through the same
+hallway and they had video cameras and
+everything
+unbeknownst to them and he would bump
+into them and be like
+watch where you're going and just kind
+of have like some papers you know
+brainiac like
+watch where you're going and he kept
+going and the way people
+responded to that was being monitored i
+didn't fucking know that was the case
+so did they give honest answers yeah
+fuck yeah because what you're gonna ask
+people that like hey this is a study
+about how you respond to people
+trying to get you angry all right or
+this guy's going to bump into you let us
+know how you feel
+of course you're going to put your best
+foot forward and be like oh wait i'm
+totally cool don't worry as a researcher
+but when you don't know what the fuck's
+going on you think you're there for
+another reason
+you're single-blinded by subject-only
+blinding because the researcher knows
+what he's doing
+right you're much more likely to be very
+honest about what's going on so it's
+fine i think that
+people i misremember the people from the
+east coast or no
+it was uh southern students i believe
+were more likely
+to be like yo what the fuck is your
+problem whereas i think northern
+students
+don't quote me on this we're like oh my
+mistake or something like that and they
+were more likely to like internalize it
+and sort of just blame themselves
+i was in that study your boy stabbed
+somebody after that shit the fuck out of
+my face
+i wish i wish i was that tough all right
+lastly
+the best kinds of study designs again
+not always practical but our sort of
+gold standard is double blinding
+subjects and study personnel both out of
+the loop how the fuck does that work
+well here's the deal
+you give subjects a study on creatine
+you want to see if creatine makes them
+more jacked
+so you measure their jackets you know
+month one month six or some shit like
+that
+and they take creatine every day except
+when they come over to pick up the
+creatine from you
+you know you like give them a new
+creatine uh like stash every couple
+weeks
+uh they're like so this is creatine
+right and you tell everyone it's
+creatine
+but half of the subjects get just like
+powder like fucking powdered sugar or
+some shit
+or something that looks and feels and
+tastes exactly creatine but just
+fucking isn't all right it's basically
+inert like like maltodextrin or
+something
+so you're lying to people they sign the
+waiver right so
+no big deal but they literally just
+you're telling everyone it's creatine
+or you're telling everyone it's
+something totally different so they're
+completely blinded they don't know what
+the fuck it is
+because if everyone's assuming it's
+creatine you get the same placebo effect
+from everyone
+but if the real creatine group does
+better you can be like well clearly they
+all thought it was the same shit they
+just you know
+obviously it's the creation itself how
+do you blind the personnel okay
+why do you need to blind the personnel
+because here's what can happen
+you get a graduate student in charge of
+dispensing the creatine and the
+uh the maltodextrin the fake creatine
+you know if they're not blinded
+they know which one's which okay and
+they can either give conscious or
+subconscious cues
+to the person that's real or not right
+so conscious cues are like hey
+here's your creatine it's not really
+creatine
+right that sucks because they're like oh
+sweet they don't even train as hard
+because it's bullshit they're giving me
+fake supplements
+and then they rate later like my
+workouts aren't going that great and
+because they don't try they don't grow
+as much
+shit we don't know what's going on but
+there's also unconscious clues
+like if you tell someone like hey you
+know this is the real creatine but don't
+make it look like it they're going to be
+like excessively nervous like oh here's
+your definitely your creatine
+monohydrate that's almost 100 percent
+creature monitor for sure
+it's definitely not um it's not melted
+extreme i'll tell you that
+right you're like that sucks they
+probably think you're lying now right
+solution the graduate students don't
+know what the fuck they're giving out
+the researchers in the back room whoever
+get to be in effect in this interaction
+they portion out all the stuff they know
+which boxes are which which little
+baggies of creatine look at that your
+college campus sling and baggies of
+powder just like underground again
+and uh you know they know what they're
+giving out but the people actually
+giving them out the master students they
+don't know what the fuck was what
+so the you know because like people like
+know each other right the master
+students sometimes teach the undergrads
+that are in the study
+the undergrad would be like picking up
+be like hey so this is a real creatine
+or not and the master system is like
+actually i have no fucking clue i
+literally just don't know they're like
+fuck
+so they just have to lift and try as
+normal or the average cancels out and
+then you actually find out if creatine
+works or not
+in supplement studies double blinding is
+really fucking important
+in a bunch of psychological studies
+double blinding is super important
+in training studies no blinding
+is oftentimes okay like you take two
+groups of people
+and you're like this is a study designed
+to see which exercises get you more
+jacked you're in the squats group
+there's other people doing leg presses
+lift most students are like i don't
+fucking know each other i don't care
+just i'll just do what you say and we
+measure muscle fractional synthetic
+rates later and say okay you got more
+jacked
+right and also like you know if the
+people testing it know what they're
+testing
+nine times out of ten they're still
+going to yell at the squats and leg
+press group just as
+much to really pump them up so so that's
+you know
+not really a factor right single
+blinding the subjects
+you know don't know what the study is uh
+that could be important in some other
+cases
+so basically ideally ideally almost
+always have double blinding
+but sometimes it's really not that big
+of a deal if it's single blinding but
+sometimes it is so you got to read the
+study get the context and move forward
+on your conclusions
+all right internal validity next up
+sample size this one's really
+straightforward
+the more subjects you have to test a
+hypothesis with
+the less the chance is of experiencing
+chance events
+for example you have one subject in each
+group
+one person has been training for six
+years
+another person for six months just oops
+randomly
+you give them the same program or you
+slightly different program one guy who
+gives leg presses one guy you give
+squats
+the guy who gets leg presses has only
+been training for six months so he like
+multiplies his quad size but like a
+physically visible amount
+the guy that's been training six years
+you give him squats or leg presses or
+something
+and he barely gets any hypertrophy at
+all that's noticeable in like six weeks
+because jesus christ like you've been
+lifting for six years you're not gonna
+grow that much that fast
+so you conclude well clearly the person
+who got the leg presses grew more so leg
+presses work better well that's fucking
+ridiculous a sample size of two are you
+kidding me it could all be chance
+it could just be like those people are
+just very different people how do you
+reduce that well you know a sample size
+of 10 in each group
+you know now we start to get more of a
+normal distribution in each group
+especially if you randomize
+the people in each group like you people
+won't just come in and they're like i
+want to do squats or i want to do leg
+press
+you literally just get 20 people
+together you do random number generator
+that puts them either in squats like
+press squats like press squats leg press
+and you just totally there's
+you know they're basically random now
+here's the thing you can try to assign
+randomness
+but you can still get groups that are
+they're different and there's not much
+to do about that you can try to make
+them a little bit more similar by
+scaling them to strength
+but there's stuff you could be missing
+and you never quite know what
+confounders are floating around
+here's the thing the sample size of 100
+in each group
+and you randomize it geez i mean it's
+very unlikely that a couple aberrant
+people here and they're going to really
+skew the results that
+much so all of a sudden if your sample
+size is really big you can really
+conclude some stuff and you can allow
+for the detection
+of smaller differences right if someone
+improves by two percent
+in a sample size of two people the way
+statistics work
+you basically can't tell if it's due to
+chance but the more people you have
+testing something
+the finer tune you can say okay wow you
+know this gives you
+one percent more hypertrophy but because
+it was 1500 people in each group
+we can actually say that's a pretty
+reliable difference
+right that is a meaningful difference it
+actually happened it was probably not
+due to chance
+but if you got two cocksuckers and one
+got one and a half percent stronger than
+the other
+you know it could have been 50 stronger
+doesn't matter still probably due to
+chance
+right so the sample size generally the
+rule is the more the merrier
+some exceptions to that very few um so
+when you look at university studies and
+you're like man this study sucks how
+come they only had like five people in
+each group
+uh it's hard to recruit people and
+money's not infinite like you you do a
+study that
+includes functional uh you know imaging
+you have like an mri study for muscle
+growth
+mris are like a grand pop like it's like
+a thousand dollars to run the machine
+once
+oh you're fucking you made money you got
+a 500 subjects in each group what the
+fuck is this like you know
+like we're not like some fucking you
+know infinite money generating country
+we're just like yeah we're just spending
+millions of dollars on just bodybuilding
+science
+that's not happening right so a lot of
+times sample size the number one concern
+is study complexity like jesus we have
+to get through 500 training subjects
+you're not going to train 500 people in
+a lab
+right and also just money and resources
+like it's just not uh not realistic so
+usually sample size is like people will
+get as big of a sample size as they can
+to be able to get enough precision to
+detect the effects they want to see
+so if they're expecting that quad growth
+usually happens at like you know
+two pounds of quad growth is something
+that like if they detect they can say
+okay that's a reasonable difference
+you get enough subject to where you can
+detect like half pound differences
+so if you get a two pound difference
+because half pound is already good so
+four times that that's definitely not
+due to a chance
+that's an example there more than merry
+or sample size
+next your investigation tools including
+statistical tools for internal validity
+have to be good and proper that's two
+different things
+first of all tools have to be accurate
+and precise enough
+to get you what you want for example you
+are trying to test
+whether or not a new warm-up strategy
+will give a slight boost to performance
+but the force plate on which you're
+measuring forces doesn't detect force
+forces that are 10 pounds apart and it
+turns out that reliably
+when you warm people up with one
+strategy versus another
+they get nine pounds more force can you
+guys imagine if you figured out a way
+that you warm up your bench press
+differently at a powerless you meet and
+pretty much on average gets you nine
+fucking pounds more on your bench you
+fucking kidding me that's amazing
+well if you test it on a force plate
+that doesn't do anything lower than 10
+pound increments
+you never caught it you'd be like looks
+like they're the same
+oops right so you have to make sure that
+your instruments are accurate and
+precise to what you want to
+actually measure right next
+tools have to measure on the actually
+like what you want to actually measure
+they have to measure what we actually
+need all right so for example
+if you do a fiber biopsy which means you
+take out
+one muscle fiber potentially you section
+it off and you look at the structure of
+that fiber and you see if that fiber has
+grown or has shrunk so on and so forth
+that's cool that's a good way to measure
+hypertrophy hypertrophy is
+does the individual fiber shrink or grow
+can we use that as a test of hyperplasia
+what is hyperplasia
+hyperplasia is the question of do muscle
+fibers actually multiply
+during the process of muscle growth like
+used to have 600 muscle fibers and now
+you have 1200
+so you're fucking bigger right
+hypertrophy is when you have 600 of the
+same fibers but they're all two times
+the size
+right so if you're individually taking
+out muscle biopsies and looking at one
+fiber at a time how the fuck can you
+tell about hyperplasia you can't
+you literally have to take how do they
+tell about hyperplasia in animals and
+why there's zero hyperplasia studies in
+humans here's how
+you take the entire animal and you
+basically take all of its everything off
+you take all of its muscles off
+you grind it through some shit and you
+count exact protein weight
+okay and you count the amount of nuclear
+volume and you can potentially even take
+an entire
+mouse quadricep or this is really like
+morbid
+and you section it and you count every
+single fucking fiber
+right you counted the fibers all right
+in in various mice
+like so it's an average fiber number and
+then you
+one of the mice gets this crazy new
+treatment and one of the mice just gets
+a normal treatment of some kind like
+some kind of super drug that causes
+hyperplasia and then you fucking cut the
+mice open afterwards when they're dead
+and you literally count the number of
+muscle fibers you say well holy shit
+these mice have 20 more fibers and these
+are randomized 100 mice per category
+this is insane you run that study two or
+three more times like dude this is
+literally fucking causing hyperplasia
+but you gotta count every fiber
+so sometimes the tools people measure
+are literally just not the tools
+appropriate for the tasks
+that's a big part of internal validity
+right sometimes you'll start reading a
+study and they're like
+you know this increases intelligence and
+you're like oh what intelligence test
+did you use oh that's not an
+intelligence test that's appropriate for
+this task
+bullshit wrong you just throw it away
+right um after you get your results
+the statistical tools are important so
+for example
+you can have data that's normally
+distributed you can have data that's
+distributed in another way like a
+chi-square distribution
+if you apply if you have chi-square
+distributed data and you apply a
+normally distributed
+statistical uh procedure which basically
+you assume a normal distribution
+you can get just pure garbage right a
+lot of those times
+what you're looking for and even if you
+don't know statistics
+you're looking for a well-meaning
+attempt to choose the proper statistics
+for the task
+and if you really don't know if it's
+really important for you to find out if
+a study is valid
+what you can do if you're in the
+research field yourself is maybe if
+you're writing a paper or something
+reach out to a statistician and be like
+hey can you take a look at the study
+stats that they use do you think the
+stats are appropriate for what they want
+and they could be like yeah this is
+totally normal they could be like you
+know what
+i'll tell you what the test they're
+using is a test intentionally designed
+to try to open up the hypothesis a bit
+more and be less rigorous i know for a
+fact that's what they're doing
+and it's clearly not it's there it is
+basically they're using a test to get
+them what they want instead of what they
+should be getting
+that's a good bullshit detector so
+statistical tools have to be justified
+usually you'll have a discussion section
+uh where they'll tell you why they used
+the statistical tools they did
+um lastly uh for internal ooh not lastly
+damn internal lindy's got a lot of shit
+to it
+um there's a difference between
+significance
+and effect size and it's a very very big
+thing significance testing
+right like a p value like when they say
+you know creatine performs significantly
+better
+than beta alanine and increasing muscle
+growth significantly means
+statistics can give us a pretty high
+likelihood that the effect is not just
+due to chance
+when something is significantly
+different in science it means
+it's probably actually different versus
+like it just could be due to chance and
+if we run the experiment another hundred
+times
+it could all be a wash so significant
+means it's different for example here
+here's a really easy illustration
+when you have someone that is six foot
+one
+and someone else that is six foot one
+and a quarter but using the best
+measurements possible making sure their
+feet are flat measuring them laying down
+measuring them passed out when they're
+laying down so they're not trying to
+stretch out and cheat
+every single one of those tests conclude
+that the guy who's six one is shorter
+than the guy who is six one and three
+quarters that is a significant
+difference
+because we're pretty sure that guy's
+actually taller
+now effect size is the question of how
+much
+taller it's not the question of if it's
+the question of okay
+if got it he's taller but how much let
+me ask you guys a question
+if you're at the fucking bar or the club
+and someone's like how tall are you are
+you gonna say six one
+and one quarter what fuck is wrong with
+you like what are you eight
+right like and so when you ask an
+eight-year-old how old they are and
+they're like i'm eight in in one quarter
+years old like uh or i got it you're
+eight
+that's nice right so is it a
+statistically mean
+is is it if the effect size asks is it a
+difference
+that is meaningful is it meaningfully
+large right
+do you go into the nba because you're
+six one and
+one quarter versus six one no but if
+you're six
+six versus six one as far as basketball
+performance on average is concerned
+that is an effect size that is
+meaningful and they actually have
+ways for you to tell what your effect
+size is and look up the number and it
+falls into a category of like small
+medium large very large effect size so
+you can actually look up and be like
+is this something that's worthwhile
+because if you have enough subjects
+right the sample size is big enough and
+your stats are very precise
+you can find all kinds of significant
+differences between groups of people
+different treatments but you can't
+really tell how big of a difference that
+is so for example
+if you have two supplements and one of
+them is significantly better than the
+other
+but it turns out it increases
+hypertrophy by one quarter of a percent
+per year
+you could say it's significantly better
+but it costs twice as much
+you're like fuck like unless i'm gunning
+for the mr olympia why the fuck would i
+pay twice as much for a supplement
+that barely gets me noticeable games now
+now to be fair if it's significantly
+different
+it will get you it will get you
+different gains
+it will by definition get you better
+gains but are they going to be notable
+well that's an effect size thing so
+anytime you read a study for internal
+validity you look at the significance
+you're like okay check it was
+significant which means we can go on and
+say okay something probably happened
+check the effect size because it could
+be such a small effect size you're like
+all right there's a difference here but
+kind of who gives a shit right
+all right internal validity moving on
+what about study durations
+right so every time you look at this you
+look at studies you see how they rank on
+these things
+here's the thing studies have to be long
+enough for a studied effect to be able
+to actually reveal
+itself can you imagine an intelligence
+test
+that is one question along uh
+you can't really show your swag off with
+one question like what year was
+christopher columbus born you're like
+i don't know 14 something all right
+sweet you're
+fucking mentally retarded get out of
+here like all right
+hey how many questions does it take to
+establish intelligence it probably
+doesn't take a thousand
+maybe like 30. you know if you get like
+25
+questions wrong out of 30 and they most
+of them weren't that hard you're
+probably not that smart
+right if the test is well designed but
+if you get like 25 of them right and
+five of them wrong you're probably
+pretty fucking smart so they can give
+you a decent score
+so long the test can be the duration of
+like a number of questions
+usually we'll talk about sports science
+and exercise science the duration of how
+long a treatment was applied
+does creatine make you stronger here
+take creatine for a day
+are you stronger you fucking kidding me
+the effect isn't even revealed yet
+because creatine isn't even loaded in
+the cells yet
+hypertrophy does this way of growing
+training grow muscle if you test it
+for three weeks like how much
+hypertrophy can you get in three weeks
+very little
+and most going back to the tools thing
+most analyses of hypertrophy most
+imaging techniques and weight techniques
+and rep techniques
+they actually can't tell the difference
+between such small amounts of
+hypertrophy so you're basically going to
+design a study if you compare three
+weeks of hypertrophy using barbell curls
+versus dumbbell curls
+and you say look it's the same
+hypertrophy you just
+absolutely didn't give a really good
+chance for shit to shine through
+right it's like uh fighting enough prom
+a fighter
+and the duration of the fight is ends
+after you officially throw one punch so
+you like run up to him you go boom and
+you hit him really quick and he just
+winds up on you he's about to fuck you
+up
+and they're like stop the test this is
+the better fight and you're like ha
+got you right and you're like wait hold
+on how do we really pick who the best
+mma fighter is
+well we want some rounds man we want
+like three five minute rounds and here's
+the cool thing
+ufc does this real well if you really
+want to know who's the best like for a
+championship match what do you do you do
+more rounds
+right a real good duration you know
+because some weird shit can happen
+people can have the shit can change and
+it could be like a non-definitive
+outcome and three
+rounds and people are still feeling each
+other out it's like a points battle
+but after five fucking rounds we're
+probably gonna know what the fuck is
+going on so study has to be long enough
+for that effect to shine through i'll
+tell you what it's up to the researcher
+it's up to the reader to to figure out
+if this is true for a study
+but it's really up to the researcher to
+give a good faith test
+and there's a lot of bad faith tests out
+there a lot of people are
+in this i can't believe i'm defending
+supplements but there's a lot of people
+out there that are very anti-supplement
+in research and what they'll do
+is they'll test a supplement and give it
+an intentionally really short study
+because it's easier on everyone right
+it does a short study it costs less
+money and they'll conclude like oh the
+supplement doesn't do anything told your
+supplements are bullshit like fuck you
+you didn't even give the supplement a
+chance you give it eight weeks to give
+it 12 weeks
+something based on the mechanism of how
+the supplement works and based on our
+the power of our detection tools for
+improving aerobic fitness or whatever it
+is we're looking at that supplement to
+do
+are we giving it a good chance to really
+either show off
+or enough rope to hang itself with
+that's what study duration is about
+right and for doing that you have to
+understand how long some processes take
+to design the right tests for example
+if you're testing strength improvements
+if two groups train in two different
+ways for strength
+and you test as soon as the program ends
+how is that bad
+well you don't understand that fatigue
+takes time to go away
+if one of the groups had a higher volume
+of training that could be to have a
+higher accumulated fatigue
+which means they got stronger because
+they did more volume more dose
+more response but they also got more
+fatigue so at the end of the day
+right after the study ends the group
+that did the higher volume performs
+exactly the same way as the group that
+did the lower volume
+why because they had uh more adaptation
+they were actually stronger underneath
+it all they had more fitness
+but they also had more fatigue on top of
+it so it canceled out and they say see
+it doesn't matter low volume high volume
+doesn't matter
+right but a good research design knows
+how long these processes
+takes and again gives it the best it
+gives the effect the best chance of
+shining through
+like we're not doing studies to try to
+disprove some shit like i bet this
+doesn't work
+we're trying to learn and if we're
+trying to really see if something's
+going on we're not going to like take a
+quick blink of it
+that's that's all i needed to see right
+if you really want to know about
+structure of something you're going to
+take a good hard look
+right so how do you do that you wait for
+fatigue to dissipate and you know
+fatigue takes about a week to dissipate
+back to really low levels and
+intermediate athletes that's who we're
+testing
+so what we're going to do is we're going
+to end the study for a week the guys are
+just going to live in population do
+whatever
+and we're going to test their strength a
+week later well the high volume group
+gain more strength
+and both now are low fatigue they come
+back a week later the high volume group
+fucking multiply their strength way more
+than the other group and you're like oh
+well shit high volume really works
+because you gave it the proper duration
+because you really wanted to figure out
+what's going on anytime
+you get lost in all this shit you think
+how the fuck does like science work
+think about the following example for
+like designing a good study
+um you're in like a camping trailer
+right and there's like a potentially a
+fucking like
+wild animal in the bushes like there's a
+fucking puma there you're in california
+maybe how are you going to assess if
+there's a puma there
+okay if your idea is like uh looks like
+no it's the middle of the night you're
+like that
+i don't see anything you can go out
+there and get water from the well are
+you gonna be the cocksucker to walk on
+fuck
+no what are you gonna want to do you're
+going to want to shine as much light in
+the bushes as possible
+right as much statistical power as you
+can to see what the fuck is going on
+you're going to want the duration to be
+pretty fucking good you don't watch that
+shit close as fuck
+for like 15 minutes and be like i got
+nothing i got nothing i got nothing like
+wait let's go it's good enough like are
+you fucking kidding me they get a
+fucking puma in there
+you might want to even do an
+intervention where you throw a rock in
+there and you see if anything moves
+after you know 15 20 30 minutes of that
+you throw like three rocks in there you
+can pretty much see all the trees in
+that little area and there's nothing
+there except for the well
+it's probably not fucking puma in there
+right that's good science
+that's good logic that's cutting the
+analysis
+the slack it needs to really show what's
+going on but like if you want to prove
+that there's no puma and you're willing
+to bet your life on it you can just
+fucking run out into the dark man and
+he's like wow
+wow i guess that's what pumas sound like
+i had a spirit animal it would not be a
+puma all right
+lastly for observational research
+let's talk about covariance right
+because we said we're going to save that
+for last
+covariates are the similar concept to
+controls in an interventional study
+in an observational study we call them
+covariates
+covariates because things co-vary they
+vary with what we're observing
+so they sometimes affect the same uh
+or they have the same effect on what
+we're measuring and we can't tell what's
+going on for example
+we measure two different groups of
+people
+we measure people that live in seattle
+and we measure people that live in
+detroit i'm from detroit and
+metro metro detroit and metro seattle
+and we say okay
+we've taken a look at the seattle people
+and we noticed that they are healthier
+and it's because seattle people engage
+in more outdoor activities
+true by the way detroiters don't really
+fucking do outdoor activities a whole
+lot
+seattle people are all fucking granola
+crunchy motherfuckers they're all
+fucking up and mountain rainier or
+whatever the fuck right
+maybe but hold on a second let's look at
+those samples and turns out we collected
+a bunch more data or we should have
+let's try to statistically adjust all of
+the other differences that could be
+causing this difference
+and see if it's still around for example
+remember our claim
+was it's more outdoor activities okay we
+have a measure of how much outdoor
+activities both
+do and we have health and they seem to
+have a relationship all right
+who smokes more uh why does that matter
+well if people in detroit smoke twice as
+much
+and you take smoking statistically out
+like you look at just the people that
+smoke a little in both cities
+then it turns out now seattle people are
+less healthy well there goes your whole
+fucking idea about
+you know doing outdoor activities
+because it looks like it was a smoking
+that did it
+what about healthy food who eats more
+healthy food seattle people or detroit
+people i'm gonna fucking spare you
+because it's seattle people
+so how do you know if it's if it's the
+outdoor activities right what about
+drinking what about risk taking right
+people in metro detroit might just like
+like to do really highly risk taking
+hobbies and dirt biking and shit like
+that
+versus in seattle they just do regular
+hiking and derby can get your ass real
+bad health if you fucking break your leg
+and you're out for a while
+maybe it's that maybe it's genetics
+right the population groups that live in
+metro detroit just might have like man i
+don't know there's a whole lot of polish
+people and maybe they have like more
+prone to heart disease where
+you know there's more like
+czechoslovakian immigrants in the
+seattle area and they're more prone to
+heart disease
+later but other problems so you need to
+measure that who the fuck knows
+so what you do for covariates is when
+you have a lot of observational data and
+tons of variables
+at least as many of them again good
+faith as you think could have an effect
+you try and it's really easy to do
+statistically
+you cancel them out statistically you
+reset everything
+to say again okay is it really after
+we've canceled everything out that we
+know
+about and that we've measured does the
+effect
+of making sure or does the effect of
+outdoor hobbies
+versus not or versus less outdoor
+hobbies still present itself on health
+if you've cancelled out as much shit as
+you can think of and outdoor hobbies or
+people who don't hobbies are still way
+healthier like even if they eat the same
+healthy diet even though they don't
+smoke blah blah
+it's starting to look like that's a
+pretty decent hypothesis
+right and then you can test it formally
+in some kind of interventional study
+but if you canceled out a bunch of stuff
+and the effect it drops to like zero or
+negative
+you're like yeah i guess the outdoor
+being more outdoorsy doesn't really have
+an effect on health that we can see now
+but could still be an effect
+but this study is just not a good way to
+generate that hypothesis
+all right enough about internal validity
+external validity all right
+external validity is much simpler but
+it's one of those things that either you
+have some of it
+or you have more of it or you have uh
+you know
+not a lot of it and you it's more about
+okay
+how powerful is the study going to be in
+actually informing our choices
+of what we learned from the study
+internal validity tells us how much we
+learn from the study
+external liberty is how much we can use
+that for example
+what can we use your study conclusions
+to predict
+okay populations you find
+that a certain warm-up protocol before
+activity leads to better performance in
+wrestlers
+that was your study are you going to
+tell volleyball players to do it
+i don't know that's a real different
+sport so what is the external validity
+of your study in regards to that
+low low what is your external validity
+if you try to predict it for other
+wrestlers
+pretty high right but what if you did it
+in junior wrestlers like
+for like six and seven year olds and
+then you're trying to apply it to
+olympic wrestlers again it's
+pretty low and remember it's a spectrum
+there's not like good or bad
+it's like you know your channel
+literally could be better it's not great
+or it's like really really bad
+situations right we do a certain kind of
+weight training protocol
+for basketball players playing in the
+finals
+and then we try to say that okay in off
+season this is really good
+hold on a second in the finals they're
+carrying a shield more fatigue
+so if you trade a weight training
+protocol that works well
+to increase performance in the finals
+like in the you know the playoffs
+it's going to be i promise you a much
+lower volume a much more high power
+output
+and it's going to be one something that
+doesn't cause a lot of fatigue because
+if you tested something that caused a
+lot of fatigue
+you should as hell fuck them up and they
+would do worse so then you say oh this
+is the best way to train
+let's do this in the off season but hold
+on a second the offseason they play less
+basketball
+and potentially if they did more volume
+very predictably they would get more
+gains in the weight room
+so if we try to take that situation one
+to another
+it's a really really bad deal and we can
+get other stuff you know general advice
+versus specific advice
+right like if you measure something in
+cellular metabolism
+you say okay all human cells seem to
+exhibit this that's a good general
+statement but there may be a ton of
+specific situations in which that
+doesn't quite work that way
+on the other hand if you picked a very
+very specific type of cell
+and kind of growth factor and age of
+human that you extracted that from
+and you try to apply it to a general uh
+realm well man
+maybe it's just the super specific
+there's no winner here
+it's all trade-offs there's no way to
+have perfect externality there is no
+such thing
+external validity is a matter of looking
+at the study and seeing
+where and how to what situation it
+is most externally valid and keeping it
+right in that realm of what you take out
+from it for example that wrestling study
+if someone asks you like hey should my
+wrestlers warm up like that like what
+age group are they like well they're
+young wrestlers like
+boom probably a good idea to try it but
+if they say hey i got volleyball players
+that are you know olympians should they
+try that you're like
+maybe not right lower externality it's
+all about recognizing it
+and there's a potential trade-off
+between internal
+and external validity remember internal
+validity is highest when we
+make as many controls as possible for
+example
+when you are trying to assess if the
+quads got stronger during
+squatting versus leg pressing you might
+set athletes up with the same exact
+squat stance
+in the precondition and the post
+condition right before the training
+happened and after the training happened
+why would you
+isolate the stance because if you didn't
+tell them exactly where to put their
+feet or at least measure where they put
+them the first time and have them repeat
+that exact one next time
+maybe the reason they got stronger is
+they just accidentally found a better
+foot position or they got weaker and
+they found a worse one that day
+who the fuck knows is if you want a
+really high internal liberty you
+standardize everything you can
+okay how externally valid is that well
+fuck man
+sometimes you know athletes perform you
+know
+through a variety of stances like if
+you're trying to say like
+quadricep strength increased in this
+stance can you say
+quadricep increa strength increase is
+going to translate to wrestling or
+volleyball
+or basketball where they move all over
+and press from different angles
+lower but if you tested quad strength
+in ecological setting like you just said
+to the athletes like just choose your
+best posture to put produce power and
+show us what you got and then the post
+test was the same way
+are we as likely to conclude that the
+quad strength improved
+not really but if we do get that
+conclusion it's way more externally
+valid so we have lower internal validity
+high externality it's not always that
+trade-off
+but sometimes it is it's okay to have
+that trade-off
+just be aware of it so if you want a
+study that's really internally valid
+be prepared to potentially be like now
+the takeaways from the study
+are mostly for other studies now that
+we've sort of
+given some proof to this concept we can
+go on and say
+other studies need to test this in a
+more ecological setting that has higher
+external validity
+right but our study by itself i wouldn't
+recommend it to athletes because we
+don't know if it's an effect that
+disappears in the laboratory
+but we know there's probably an effect
+so now it's time to test it in a more
+externally valid study right
+versus if your study is super externally
+valid you can say look this probably
+works
+the thing is we're not sure exactly how
+it works and it might not work super
+reliably
+so athletes definitely give it a shot
+but like are we going to extrapolate it
+to other groups and say look it works
+for everyone because of these mechanisms
+well we can't we didn't have enough
+precision to detect the mechanism
+so we can't say that it's a matter of
+what you conclude it's not good versus
+bad
+right all right so big message
+summing it all up peer review
+ensures that many of these validity
+measures are applied what the hell is
+peer review
+well you don't just publish a scientific
+study you submitted to a journal and
+other researchers in the field usually
+blind so they don't know who you are
+they don't know who wrote the article
+you don't know who they are
+they read the article and they're like
+this needs to be fixed that's fucking
+stupid and you said that wrong
+or they look at it they basically go
+through the same checklist we went here
+and they're like well that's all really
+good
+if your study really sucks the journal
+sends it back and says look you gotta
+tell us what you did here and it better
+be right and if it's not right they're
+like look this just doesn't meet the
+criteria of our journal you can't
+publish this then you go back
+you add to the study or you take some
+more measurements that you
+you took and then you reapply and then
+you publish a study that's now better or
+you at least have to explain yourself
+better
+so peer review ensures that many of
+these validity measures are applied
+however it's not everything
+right you usually have to look into
+studies if you're reading individual
+studies
+for yourself and that's how you judge
+studies
+how valid are the studies what is the
+degree of internal validity what is
+degree of external validity
+because peer review gets you kind of
+like a really low bar it gets you in
+but all of the studies that have been
+peer reviewed can still be ranked on
+really internally and extremely valid to
+the opposite so when someone's like hey
+did you see that new study about what's
+his name it's amazing i'm going to start
+doing split squats now you're like oh
+let me see the study
+you look at the study and it's like a
+fucking baller study you're like man
+this is cool
+pretty interesting hypothesis they
+generated here i might even try it in my
+own training but if the study is just
+pure garbage
+validity and it somehow sweep through
+the journal review process then you're
+like ah man fuck this study i'm just
+gonna wait because i'm not fucking my
+training over for some bullshit that's
+this
+by no means clear that's true right and
+the thing is internal validity is
+really well executed by the peer review
+process like they're pretty good at
+picking out shady and traveling like if
+you don't have good controls they're
+just telling you to go fuck yourself and
+you can't publish
+but external validity is mostly on you
+the reader of the studies
+right sometimes in the discussion
+section
+the study authors will try to estimate
+external validity they'll be like what
+you can do
+with this research how here's how you
+could potentially apply it but a lot of
+times
+it's just a lot of fluff so read when
+you read the study
+read the methods read the results and
+you can read the
+discussion later after already getting
+what you think out of it already
+using your own external uh validity
+filters and be like okay i think i can
+apply to this
+then you read the discussion you're like
+okay they agree with me or okay they're
+totally off base so i wouldn't just go
+on faith
+for sure all right and so all is taken
+together next time someone says like
+well this study shows that
+and they're super confident about it
+give them the squint and they ah
+let me see the study and you look at the
+study and it could be a good study
+could be a not so great study could be a
+terrible study and the confidence of
+your conclusions from that
+is reflected on how good the study does
+next time we're going to talk about
+exactly that last
+process of now that you're categorizing
+studies based on how
+external internally valid they are how
+do we really start to draw proper
+conclusions for action
+based on those studies folks will see
+you next time
+you

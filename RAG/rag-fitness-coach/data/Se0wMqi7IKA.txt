@@ -1,0 +1,1021 @@
+hey guys dr. Marquez will here for
+Renaissance position rp+ and Renaissance
+pure is a shin University lecture number
+five in the training principles lecture
+series stimulus recovery adaptation
+principle otherwise known shortened much
+easier to say version of SR a basically
+telling us when to push it hard and
+trainee and when to back off so let's
+see what we have to cover today
+just like with many of the other ones
+we're gonna do a really simple
+definition at first just to kind of get
+our bearings straight exactly what it is
+we're talking about here then we're
+gonna talk quite in-depth about how this
+principle is derived we're gonna give it
+a technical definition and that
+technical definition is actually going
+to be quite expansive and have a lot of
+implications by itself it's one of the
+more technical of the technical
+definitions and talk about examples of
+application real quick what to do not to
+do how to overdo the principle and under
+do it and then a few programming
+recommendations you'll find that the
+programming recommendations are actually
+very straightforward we won't be
+spending a ton of time on them because
+they're kind of self-explanatory but the
+derivation of this principle
+particularly and the implications of it
+from a sort of a technical definition
+perspective that's really where the meat
+potatoes of this lecture is so the super
+simple definition is that if you don't
+get better in training you get better
+during rest so you want to train hard to
+initiate improvements rest well to
+realize them and repeat stimulate
+recover and adapt right so we're kind of
+saying is there's a distinct time focus
+for doing hard work and maybe creating
+that disruption to the system that
+disruption is not the actual improvement
+it's the signal but where the signal
+goes is to the system's recovery and
+improvement abilities and those seem to
+act best when they're not being messed
+with too much right so if you wanted you
+know if you were playing God for example
+and you wanted to give Miami
+new windows you looked at the city of
+mani and you said I don't like the
+windows here I want all new windows you
+could send in a hurricane and it would
+blow out all the windows and then what
+would happen
+the hurricane would see she would pull
+back here of godly powers that hurricane
+would go away and then new windows would
+be constructed because they have to be
+replaced and be like a hi-yah great new
+windows just what I intended with this
+hurricane but so you get its stimulus
+and then you pulled the stimulus away
+and during non hurricane times times of
+good weather the windows get replaced
+but imagine if you never pulled a
+hurricane away or the next day you
+brought another hurricane you're like
+dammit
+I've done hurricane two days in a row
+where these new windows well when you
+windows don't get constructed during
+hurricanes people just brought stuff up
+and leave and just kind of hope he gets
+better soon and check back to see what
+the weather is in Miami from far away so
+we don't actually see improvements in
+most aspects during the heavy training
+during the hard training we see it after
+and there's lots more say about that
+from a technical perspective so where do
+we get all these ideas where is this
+derived well originally this is all dry
+for a main concept called GA s general
+adaptation syndrome Oz is sort of
+discovered and derived by hans selye a
+long long time ago this is very very old
+biology and it's basically describing
+states of a physiological system as
+homeostasis basically maintaining a
+stable internal environment normal an
+alarm stage the actual shock of the the
+stimulus itself a resistance stage where
+the system comes back and makes changes
+and eventually if you mess with a system
+too much there's an exhaustion stage and
+that's sort of tantamount to
+overtraining and overreaching in the SRA
+equivalent and the thing is that general
+adaptation syndrome applies to literally
+all biological systems and it applies
+very very well to all adaptive
+biological systems so when we're
+training or by definition dealing with
+adaptive systems because if systems
+didn't adapt based on stimuli we
+wouldn't be training them right you
+don't there's no training in which you
+pull your own eyes out of your socket
+and you wait for them to grow back in
+cuz those are not adaptive systems once
+you pull your eyes out you don't get
+anymore
+as nobody there's no such thing as I
+pulling the training if there is don't
+do it but you know if we're training
+we're saying okay if we beat up our
+muscles they will get better we're by
+definition dealing with adaptive systems
+and for sure this adaptation syndrome
+idea applies to them and it applies to
+them in this SRA type of model so that's
+where it comes from
+and interestingly enough SRA also is
+derived from two principles that precede
+it it is derived from the oral of
+principle and fatigue management once
+you know or load really well and you
+understand it as a principle and once
+you understand 4-d management you can
+almost predict that SRA should at least
+be a derivative and probably its own
+principle so let's take a look at how
+that happens overload basically tells us
+that we have to have distinct times to
+train hard hey we don't just get better
+you know some kind of linear way right
+we have to make a disruption we have to
+push the system past physiological
+boundaries we know that so that's what
+overload tells us and fatigue management
+tells us that we have to have distinct
+time to recover because or load brings
+with it improvement and fatigue so Orolo
+tells us we got to have blips of hard
+training fatigue management says we have
+to have blips of easier times to be able
+to recover to present another overload
+so we're talking about this pad on there
+emerges of blips overloading training
+fatigue management to counterbalance
+overloading training fatigue management
+to counterbalance overloading training
+fatigue management to counterbalance
+when you apply those two together as you
+get the SRA principles stimulus recovery
+and amputation stimulus is the heart
+training recovery is either easier
+training which can occur under easier
+training conditions or full rest and
+adaptation is something that results if
+recovery is occurring or occurs
+completely and that adaptation elevates
+our abilities allows us to come in
+present another overload so on and so
+forth
+so basically once you have the overlord
+principle and you have the fatigue
+management principle when they intersect
+with each other
+they essentially give birth they produce
+the SRA principle it can't be any other
+way
+because how do you overload and fatigue
+manage at the same time you can't just
+impossible how do you simultaneously
+disrupt a system and a crew no fatigue
+can't so
+stimulus recovery and adaptation
+recovery and app tation don't occur in
+the presence of a stimulus because
+that's when the disruption is occurring
+SRA tells us there has to be distinct
+times for that right and what you do is
+once you know that sorry principle you
+repeat it present another overloading
+stimulus over and over and over and
+that's how training progresses so that's
+part of the principles derivation
+there's more to say in the derivation so
+when we say derivation we mean you know
+how is the principle derived how did it
+come to be that this was discovered to
+be a principle and one of the sort of
+physiological realities that made us go
+ah man you know this really does need to
+be a principle it's important enough to
+mention for sure is a fact of physiology
+in most systems that hard training
+during the time of recovery interferes
+with the adaptive processes as has been
+shown over and over but if you train
+super hard in two before you have some
+degree of pretty meaningful recovery if
+too soon during the process you hit it
+hard again you further depress the
+abilities of the system and you actually
+interfere with the recovery a super
+perfect analogy is the hurricane example
+there's a hurricane blows out all the
+windows of Miami and then made way
+through the construction on the new
+windows we get hit with another
+hurricane is that going to help or hurt
+the construction process giving us new
+windows my god it's gonna be terrible
+because it's gonna break all the new ish
+windows that it was imported installed
+it's gonna ruin her a lot of
+construction machinery and matter of
+fact construction machinery is gonna
+have to be wheeled out super fast it's
+gonna cost us a crapload of money and
+it's gonna be like a job half done and
+then it's gonna be receded and it's
+gonna be really bad so when we come back
+to try to build new windows again even
+when there are no more hurricane
+we're gonna have like double the damage
+to deal with because we started
+rebuilding the windows and put up all
+this construction materials and then
+that got all blown around and and messed
+up so a really really bad deal it's
+physiological fact that if you train
+very hard during a period of very very
+intense recovery you will interfere with
+that period and that will interfere with
+adaptation so the implication there is
+that training hard in sequence without
+any time for recovery of systems may be
+counterproductive because it's one of
+those things like if you think that you
+get better in training as opposed to
+during rest and recovery then the
+logical inference from there is we
+should just train hard all the time but
+if you train all the time you're
+literally training when you are supposed
+to be getting the benefits of the
+training it's kind of insane it's almost
+like trying to be trying to make a lot
+of money try to get rich so you can live
+the high life and relax a lot how do you
+do that properly you go through periods
+either you know here's or months or days
+or weeks or weeks or days even hours
+during the day where you work super hard
+make crap loads of money and then the
+other hours of the day or you know
+weekends or weeks or months are
+dedicated to really enjoying that
+lifestyle like that's the purpose of you
+making the money the analogy here from
+chronically overloading in sequence too
+often would be okay you got a job on
+Wall Street I'm gonna get rich so I can
+live the high life and you end up
+working so much you basically work all
+the time you never live the high life
+you just get richer and richer and
+richer and you never spend it you have
+failed the purpose of being rich it
+doesn't matter that you have a ton of
+money if you literally never plan to
+spend it right now if you back off soon
+enough you're still young you're still
+healthy you have a crapload of money
+then you can enjoy your money that's
+kind of like functional overreaching in
+some sense right you back off soon
+enough and you can couldn't recover to
+really really spend your money and enjoy
+it but let's put it this way there's a
+way to take that too far the analogy
+there that example of overtraining would
+be that you worked hard up until you
+were age 75 and
+finally retired and you're like oh my
+god I get to spend all this money have
+billions dollars what am I gonna do
+you're not interested in yachts anymore
+you're interested in you know champagne
+and hot guys and girls on your yacht
+you're not interested in world travel
+because you're too damn old you don't
+give a shit about anything anymore
+all of a sudden you don't even have a
+per there's not you can't even get that
+benefit that you work for so much
+because it's come and gone so if you
+present enough overloading sessions in a
+sequence even when you back off there is
+no delayed super compensation you just
+got worse because you never allowed that
+healing recovery and adaptation to occur
+that's a really big problem the kind of
+good news of that's problem number one
+an implication number one is just to
+restate it again you've got to give time
+for the adaptations to occur when you're
+not overloading but let's say you did
+try to sequentially overload over and
+over over without giving time for a
+recovery and adaptation the kind of good
+news good news bad news is that that's
+almost impossible to do and here's the
+second fact than the implication that it
+gives us overload becomes difficult or
+incomplete or impossible to do if
+performance recovery has not occurred so
+the first fact told us that if we don't
+take breaks between overloading times we
+don't yield any adaptation because
+recovery at least to some extent as a
+prerequisite it's part of the same
+process of adaptation but forget about
+obtain for a second let's just talk
+about recovery in order to overload you
+have to be recovered in a performance
+sense what does that mean that means
+whatever you used to be able to do to
+overload you've got to be able to do at
+least that to overload completely again
+because if you haven't run so for
+example if you can bench 225 for 10 and
+that's overloading to your pecs if you
+try to do that the next day and then the
+next day and then the next day sooner or
+later your fatigue will sum up so high
+that you would only be able to bench 225
+for set of three now is that disruptive
+is that overloading the answer is that
+it's not you've become so fatigued
+because of violating the SRA principle
+you have become so unable to overload
+that you
+even present a stimulus anymore that's
+the real problem so when we say like oh
+my god you could be overloading for so
+long but you never have time to adapt
+forget about that you may not even be
+able to overload sequentially for too
+long kind of a good thing because it
+stops you from being too stupid but none
+of this is really good at it the injury
+rates are super high the chances over
+over reaching over training is super
+high so it's bad deal you'll notice I
+said something it was a complete
+overload or incomplete overload what
+does that mean
+when we have a system that we want to
+overload relative to its past session of
+overloading it is considered complete
+overload when we're heating within the
+overall threshold like within ninety
+percent or top 10% of the system's
+capacity like for three reps from
+failure or within 90 percent of peak
+power peak velocity or you know we then
+you know somewhere between your minimum
+effective volume and your MRV right all
+those overload threshold it has to be in
+that threshold and it has to be
+progressive it has to be more than last
+time
+that's what's which term to hear
+complete overload so complete or allure
+doesn't mean that you've given it
+everything you have that's actually
+maximum overload complete overload means
+you've checked both boxes in the
+overload condition of within threshold
+yes it's hard and heavy and it's harder
+and heavier or faster or whatever then
+last time we can present incomplete
+overload that means just one of the
+conditions is met and really what it
+means is the threshold condition is met
+so for example if you squat four or five
+four five by ten and that's a scoop or
+overloading the situation for you if the
+next workout you squat four or five four
+four five by nine is it progressive no
+so violates that condition but is it
+still within the maximum is it within
+the overload threshold yeah is it gonna
+lead to adaptations yes not as many as
+if it was progressive but certainly some
+so if you overload too frequently you
+can forget about complete overload
+because you'll be so fatigued you won't
+be able to be progressive and threshold
+if you overlook too frequently the first
+problem you're gonna into is incomplete
+overload you're still gonna be able to
+be within a maximum of thresholds
+training still going to be hard in that
+hard challenging system area where
+there's disruptions are meaningful but
+remember that doesn't yield the kind of
+procession improvements that complete
+overload does so already you're getting
+not a lot of bang for your buck but then
+several sessions later of sequential
+overload with no ability to recover you
+won't even be in incomplete overload you
+will be in no overload outside of the
+maximal threshold altogether and
+descending so then you would really have
+been screwed so basically if you violate
+the SRA principle at first nothing
+happens a little bit later
+incomplete overload starts to occur
+which is okay but not great and then
+just a little while after that you don't
+get any overload at all and then we have
+really serious problems because you
+don't get any overload forget about the
+chemical processes of adaptation that
+high fatigue interferes with you don't
+have to worry about those because you
+won't even be initiating them to begin
+with because the training is literally
+not stimulative enough really really big
+problem now all this talk about overload
+and recovery you mean start thinking
+about the SRA principle is like okay we
+got trained and we got to recover
+completely before our next training
+session that's actually not true
+complete system recovery means that
+literally everything about the system
+was fixed 100% and it's back completely
+to homeostasis that only has to happen
+during active rest phase once a year it
+has to almost happen during every day
+load and it barely has to happen within
+every single micro cycle of training so
+what we need to happen is a recovery to
+the extent that it is performance
+recovery all the stuff doesn't have to
+be fixed but your level of performance
+you got fatigued the recovery needs to
+come back at least this level of
+performance and hopefully higher so that
+you can reap overload again that's what
+we mean by recovery we do not mean full
+system recovery full system recovery is
+not a part of the SRA principle it's a
+part of the fatigue management principle
+and we
+need because some of the systems take on
+damage so slowly and drop it so slowly
+we don't ever need full recovery active
+rest is the only time we need it
+remember after an active recipes there
+literally should be nothing going on
+with your physiology that we can ever
+say is under recover that should be
+completely recovery but if you search
+for complete recovery between every
+single overloading bout total system
+recovery as opposed to just performance
+recovery of being able to come in and
+hit it hard again you're searching for a
+way to complete of a process and you're
+just gonna waste a lot of time and not
+get much better to put an example to you
+that's really pertinent imagine being a
+chef at a high-end kitchen in a
+restaurant and putting out really good
+meals complete recovery would mean that
+after every single meal you made just a
+couple of crumbs here and there no big
+deal we could keep cooking great meals
+all day long after every single meal we
+shut the place down fumigate everything
+deep clean everything a crew comes in at
+three hours of deep cleaning does that
+make sense
+course it doesn't make sense because
+little crumbs here and there'll bullshit
+here and there it doesn't interfere with
+the cooking process of any fundamental
+level unless it gets out of hand so we
+don't need complete recovery during SRA
+we need enough recovery to be able to
+make good meals again that means we need
+to be able to present you overload again
+so the recovery has to be back to
+baseline it doesn't have to be
+everything's gone away so but the
+implication of this SRA principle
+because of the fact that if we train
+hard too much in sequence adaptations
+basically stop occurring or degrade in
+their ability and if we keep doing that
+we're not even able to overload anymore
+the implication here is the training has
+to take a session rest session paradigm
+it's a really important term that's
+gonna help you out for the rest of your
+sport exercise science knowledge session
+rest session paradigm a paradigm is kind
+of a way of seeing the world an
+arrangement of things so a session rest
+session paradigm means you hit it you
+rest you hit it again you rest you hit
+it again just like you've been used to
+training for most of your life but this
+isn't something we take for granted
+because back when people first turn
+training the weights they just kind of
+like train with weights or sports so you
+just kind of train
+and sometimes you wouldn't and you got
+tired and you wouldn't train but then
+you train some there was no organization
+to it sra lays down this fundamental
+organization if we're gonna hit it hard
+we're gonna arrest and we're gonna hit
+it again and if we're not searching for
+a rest it's not always a rest that works
+best in the context of a whole program
+sometimes we just have to recover so it
+doesn't have to be complete rest so at
+the very least it should be an overload
+a recovery overload paradigm so we're
+not saying that if you lift Monday you
+can't lift Tuesday then you have to lift
+Wednesday again we're saying if you lift
+super hard Monday shouldn't probably
+lift super hard Tuesday at least for the
+same systems and then you should
+probably lift super hard way or hit it
+super hard Wednesday again that's
+basically me Mia so section recession
+paradigm or overload recovery overlord
+paradigm it's really the same thing is
+how we get this SRA principle all that
+being said we can finally have a
+technical definition and here it is I'll
+just read it because overloading
+training is maximally beneficial not
+overloaded training works too it doesn't
+work super well especially for advanced
+people and because rest or easier
+training promotes recovery adaptation
+best overload training should be
+arranged to accommodate for each cycle
+of stimulus recovery and adaptation
+before repeating overload again
+in most cases so basically that session
+rest paradigm or overload recovery
+overload every time you look at training
+every time you design a design a
+training program you should have
+distinct times of hitting it mess and
+stuff up and distinct times of going
+easier at least for those systems that's
+how progress occurs so examples of
+application super simple ones here we go
+proper application example you train
+upper body Monday pretty hard you train
+it Wednesday pretty hard you train it
+Friday pretty hard lower body you train
+hard on Tuesday Thursday Saturday boom
+problem solved
+Monday Wednesday Friday overload Tuesday
+Thursday Saturday we have recovery and
+during those days we overload other
+systems and have recovery on the
+opposite day works really well
+classic application we can over apply us
+are a nice like we kind of hinted at
+earlier if we over read we miss read the
+SRA principle to go oh my god
+well they say that you know adaptation
+doesn't really occur during times of
+heart training and we got to recover
+between training we better recover
+completely sewn over application is like
+you wait until all bone micro trauma is
+completely healed which takes forever by
+the way because bones reconstruct super
+slowly let's say you do a super heavy
+plyometric workout you actually get bone
+trauma from plyometrics from jumping
+around if we zoom in at a microscopic
+level you've taken bone damage and
+that's okay because you could take bone
+damage like that for months and it would
+never risk injury and but you're getting
+better at everything else the entire
+time but no no no no no we've all read
+the principle we're gonna make sure we
+completely heal before we hit it again
+you end up doing a session every two
+weeks what kind of stuff do you get
+better at if you train at every two
+weeks unless you're a super high end
+lifter who's for heart pounds your bed
+lifting every two weeks because that's
+how long it takes to recover even
+performance do we really need to go
+through and rest two weeks to recover
+every single system of course not right
+so that's an over application of course
+under application is much more classic
+very few people over apply there's some
+high intensity training sort of one set
+to failure protocol they used to have
+four for bodybuilding back in the day
+they overdid the SRA protocol and they
+sort of over applied and they said you
+know you first you can train twice a
+week but then you really start to get
+good you maybe only be able to train
+once a week and you know from pert
+review training is vastly overstated
+they were really looking for much more
+complete recovery than they needed but
+under application is super common so
+here's the example I wrote down here
+Brent bench presses every single day
+with overload because that's what it
+takes to be the best right every single
+day bench press and he's been getting a
+bit weaker lately but that's nothing
+more willpower can't solve right and so
+a lot of times when people do programs
+that are not properly SRA structured
+they think you can just will yourself
+into getting stronger ice now what the
+purpose of training is willpower comes
+in handy for consistency and for when
+overload is a good idea to bring the
+fire but when overloads not a good idea
+willpower should act to keep you from
+the gym to keep you from training hard
+this is kind of a cool psychological
+implication that SRA tells us or real
+psychologically dedicated athletes
+doesn't just train hard they also know
+when it's time to back off and don't let
+their impulsivity oh shit I got a train
+lead their life and lead their training
+and they leader they'd much rather let a
+training plan dictate
+so if Saturday is a rest day they may
+feel like training they don't because
+they know that rest days or easier days
+of training are the very days on which
+the actual adaptations are made big deal
+all right
+lastly let's take a look at some program
+design implications from this principle
+so one of the program design
+implications comes from the idea that we
+get tired during training and that if we
+are tired during training we can't
+present an overload so the first
+implication here is that multiple daily
+training sessions are usually better
+than single sessions if there is lots of
+work to be done and especially for high
+overload threshold fitness
+characteristics like speed and power
+because remember for something like
+hypertrophy there's a longer hair still
+lifting above 60% of one rep max on
+average you're still causing more
+hypertrophic disruption so you feel like
+a two-hour long hypertrophy workout at
+the end of that workout you're not doing
+as well as you could have been there
+might be a good idea to split the work
+on into two one-hour parts but you're
+still cranking it and you're still
+providing meaningful overload look you
+got to get so beat up to not be able to
+lift your 60% you know over your 1rm for
+at least one rep that maybe that's
+inconceivable you'll probably get
+rhabdomyolysis before we ever got that
+tired both of those are bad by the way
+don't try that but it's really not a big
+conservative hypertrophy but something
+like speed and power remember that if
+you get a drop-off in speeds like a
+sprint speed of more than maybe 90 or 95
+percent even of your maximum speed
+you're not treating speed anymore your
+training speed endurance it's an
+entirely different variable if your peak
+power drops below 90 percent during like
+snatches clean and jerks or jumps you're
+actually not training for peak power
+anymore you're training for power
+endurance which is a different variable
+to
+it doesn't improve your peak power
+directly so if you're doing the Olympic
+weightlifting workout after about 45
+minutes or an hour of hard work you
+literally almost no one can continue to
+generate peak powers within 90% so then
+why are they still in there
+what's your well they are still
+snatching clean a jerking they're still
+doing squats they're still doing
+training but they're not doing training
+that's getting them better at power
+because it's time to recover and adapt
+and rest it is that time to all it
+anymore because over lubes pretty much
+impossible they've left their threshold
+from fatigue so a lot of Olympic
+weightlifters and this is very common
+Olympic weightlifting training split
+their training up into multiple daily
+sessions there are Olympic weightlifting
+teams that have fourteen or sixteen
+weekly sessions of overloading training
+or of training of some kind
+what you think how the hell are they
+doing that well each sessions 30 to 45
+minutes long they go home they take a
+nap they do other work they relax they
+do not physical stuff they come back
+recovered rested ready to hit it again
+ready to go above 90% get that threshold
+and they hit it so for a lot of things
+if you have the time to split up the
+training and experience less fatigue
+during the course of a training session
+that prevents you from doing your best
+at the end of it not a terrible idea
+second implication because we know that
+we need hard training to stimulate and
+easy or rest easy training or rest to
+gain the adaptations we're looking for
+each week of training each microcycle
+should probably have distinct harder and
+to easier periods a lot of times people
+look at a training week and they think
+man if I just spread everything out
+evenly it's gonna be great but that
+doesn't give your body enough of a
+stimulus on the one side and it doesn't
+give it enough of a distinct easier time
+to really undergo recovery and
+adaptation so whenever you structure
+your micro-cycles
+there should be some super hard stuff so
+the super easy example is powerlifting
+earlier in the week you might do your
+heavy squats your heavy benches later in
+the week you might do heavy dead lifting
+which is a hard workout but then the
+next workout after is just assistance
+upper-body work which isn't super
+difficult
+and then two whole days of rest during
+the weekend so the first part of the
+week heavy squats heavy benches and that
+together is brutal the second part of
+the week first of all the training is
+not as hard you know one of the days of
+super hard but the other is not as hard
+so on average it's a little easier and
+we have more rest days on that part of
+the week so then each week has this like
+big run to big wave at the front end and
+then at the back end a reduction and
+it's boom and recover boom and a recover
+so every week has this pulsatile
+strategy SRA is met and we have the best
+adaptations possible while still
+presenting best overload possible number
+three body part training this is a huge
+implication that we can get into in
+particular courses for this topic we're
+gonna beat this to death later body part
+training for bodybuilding for example we
+want train back and train your arms some
+train your legs kind of all the same
+week has to be SRA structured so if you
+have a week and it's a week of training
+and you say ok Monday front delts and
+triceps har heavy Tuesday chest hard
+heavy oh so like front delts and triceps
+are used in every pressing motion for
+chest as a matter of fact when you train
+front delts of triceps a lot of those
+movements like skull crushers etc and
+dips they engage the chest as well so if
+you do chest right after how much are
+you gonna be able to get out of chest
+training with that much beat up of front
+delts and triceps it's gonna limit your
+chest training I guess well so it's
+gonna do remember hard training during
+times of adaptation or during times of
+recovery interfere with how much
+adaptation we get so your front delts
+and your triceps are trying to grow and
+the at the very time that they're trying
+to grow guess what's happening um well
+you are messing them up again during
+push chest training doing Close Grip
+benches and an incline dumbbell presses
+and stuff you're hitting them again
+you're interfering with adaptations so
+what's a more logical design for
+training those muscle groups well Monday
+front delts triceps
+Thursday chest when the front delts and
+triceps have already recovered for the
+most part maybe even almost completely
+and then we hit chest without any
+impediment and that gives time for all
+the stuff to recover for chest for the
+whole rest of the week the next Monday
+we're fully recovered again and then we
+go again once you understand the our
+sorry principle now mind you that
+doesn't mean we have to train twice a
+week if we wanted to train more often
+let's say we want to let's say we have a
+18 total sets per week that's our you
+know training load for this week it's
+our maximum adaptive volume and 18 total
+sets of chest for hypertrophy could we
+do it in two workouts or nine sets each
+chest nine sets on Monday and 9 cents
+Thursday totally fits sre sort of timed
+out pretty well
+get a big stimulus recovery adaptation
+then hit it against a miss recovery
+adaptation totally 9 + 9 could you do 6
++ 6 + 6 on Monday Wednesday Friday yeah
+totally because we have a pulse and and
+a pulse and a pulse but the pulses are
+sure the SRA curves generated for all
+the systems that are being disrupted
+they're shorter because it's less at any
+one time
+so the SRA uh principle doesn't really
+tell us we only have to train once a
+week or we can't train more than twice
+you could train every single day pretty
+much or pretty close for a lot of things
+if you do very little work during the
+day but if you have a really big session
+you have to give it the time to allow
+for recovery because otherwise this is
+not gonna work so hopefully that makes
+sense when you look and design yourself
+bodybuilding routines in the future
+you're gonna have to be really attentive
+to this SRA structure to put this way
+I've looked at a lot of magazine muscle
+magazine routines that people say hey
+this is good to do and you look at it
+for like 30 seconds you're like who the
+hell wrote this this is completely
+messed up you know another sort of more
+advanced example is you know super heavy
+back training the day before legs and
+you look at the exercises and the legs
+that's like heavy squat and in the back
+work it's like heavy deadlift like we
+held squats heavy with the day after
+dead lifting you're not going to be
+limiting by your quads or
+be limited by your quads even limited by
+your lower back your lower back is gonna
+give out way before your quads that
+violates SRA never mind the fact that it
+interferes you through the lower back
+making adaptations cuz you're hitting it
+again right so SRA is really big for
+bodybuilding program designed to make an
+intelligent to give yourself enough time
+to recover etc etc now the last
+implication is that so we keep talking
+about the recovery there are rates of
+recovery depending on which systems we
+stimulate and the systems that our
+training stimulates the most or
+predominantly is going to kind of give
+us a hint as to the optimal or at least
+a good range of frequencies of training
+we can program for that system so in
+other words that the question of how
+often should we train a system the
+answer for that is how fast does its SRA
+curve right stimulus kind of source we
+go stimulus recovery adaptation super
+compensation then hit it again how fast
+does that curve recover how fast does
+that curve operate because different
+systems have curves that Laurel for
+different times remember we said earlier
+if you waited for your bones to heal you
+would train every two weeks so the ones
+for bone reconstruction the SRA curves
+are super long it just takes a long time
+to heal there are other curves that
+occur much faster here are some examples
+the fastest some of the fastest in sport
+training SRA curves our technique SRA
+curves
+how often do technique curves or how
+quickly do they recover how quick is the
+SRA cycle stimulus recovery at time to
+reheat adaptation again time to hit
+stimulus again how quickly does that
+happen with technique hours so can you
+tell train technique multiple times per
+day absolutely so if a tennis player
+writes you out their program they play
+tennis in the morning and then the
+afternoon you you can't say oh no no no
+no this is nonsense you got to wait at
+least four days to play tennis again
+absolutely not because it's mostly the
+technical systems that are being
+stressed they recover super fast than if
+you wait longer they start to recede and
+their abilities remember if you don't
+use it you lose it to some extent at
+least very slowly and at the very very
+least even if you're not losing
+abilities you could be making
+ones in your knot technique superfast
+the systems that underlie endurance
+training for example type 1 muscle fiber
+all alterations mitochondria alterations
+vascularity etc they actually tend to
+have an S or a curve usually of like a
+day or so
+so endurance you can train multiple
+times a day and you can definitely train
+every day the big warning is if you want
+to Train endurance systems twice a week
+you're gonna get very little out of that
+because a ton of the adaptations you've
+initiated are gonna start to recess
+during that time so you want to build on
+adaptations right you want recovery and
+then hit it again recovery hit it again
+recovery hit it again with endurance if
+you train it twice a week or once a week
+you're gonna get stimulus or khari
+adaptation and it's gonna proceed
+receipt receipt or so you go back to
+normal baseline before we even started
+training and then you're gonna hit it
+again way too infrequent speed every day
+or a couple of days B training is a good
+idea it's a pretty quick SRA curve power
+you can get away with twice a week
+sometimes three times a week is a little
+bit better it's kind of an intermediate
+range SRA curve there for hypertrophy it
+depends on the muscle group it depends
+on the type of stimulus but training
+usually anywhere between two and four
+times a week for the same muscle group
+is probably optimal and you can probably
+get away with training even one so we
+can get pretty good results for strength
+especially if you're really strong it's
+not just the muscles that get messed up
+it's the nervous system as well and the
+nervous system a lot of times takes
+quite a bit to recover its ability to
+overload again the quintessential
+example here is the deadlift how many of
+you have successfully dead lifted with
+overload three times a week it's almost
+unheard of people squat three times a
+week they can bench three times a week
+almost nobody deadlift see times really
+it messes you up way too much the SRA
+curve generated by deadlift take too
+long to recover if you do recover and
+you do get better dead lifting but maybe
+dead lifting twice a week hard and for
+most people not even you deadlift once a
+week hard and the other time easy a lot
+of people just I'd love to have you once
+a week and the bigger stronger lifters
+folks pulling in the seventh and eighth
+sometimes they deadlift how hard and
+heavy only once every week and a half or
+two weeks even his dad's how long it
+takes for the SR acres to dive down so
+hopefully you guys got a lot out of that
+that's the SRA principle give that some
+thought
+see you guys next time
+[Music]
