@@ -5,4 +5,4 @@ chatbot/eng_chatbot/.venv
 chatbot/ideas.txt
 .venv
 RAG/rag-fitness-coach/cache
-RAG/rag-fitness-coach/data/*
+#RAG/rag-fitness-coach/data/*
