@@ -4,4 +4,5 @@ sequence_classification/customer-complaint-classification_DistilBERT/consumer_co
 chatbot/eng_chatbot/.venv
 chatbot/ideas.txt
 .venv
+RAG/rag-fitness-coach/cache
 RAG/rag-fitness-coach/data/*
